@@ -1,5 +1,5 @@
 ---
-title: 鹰眼雾炮在钢铁企业超低排放治理中的应用
+title: Application of "Eagle Eye" Fog Cannons in Ultra-Low Emission Control for Iron and Steel Enterprises
 date: 2026-09-15 13:05:10
 tags:
   - Ultra-Low Emission
