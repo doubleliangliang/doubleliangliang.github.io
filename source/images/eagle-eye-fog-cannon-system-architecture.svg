@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1200" height="780" fill="#ffffff"/>
+  <text x="40" y="48" font-size="26" font-weight="700" fill="#0f172a">Eagle-Eye Fog Cannon System Architecture</text>
+  <text x="40" y="74" font-size="15" fill="#64748b">Five-layer closed loop from perception to verification in steel plant fugitive dust control</text>
+
+  <!-- Layer 1 -->
+  <rect x="40" y="110" width="230" height="96" rx="10" fill="#0f766e"/>
+  <text x="56" y="148" font-size="17" font-weight="700" fill="#ffffff">1. Perception Layer</text>
+  <text x="56" y="172" font-size="13" fill="#ccfbf1">Sensing</text>
+  <text x="56" y="192" font-size="13" fill="#ccfbf1">现场感知</text>
+
+  <rect x="300" y="110" width="270" height="96" rx="10" fill="#ecfdf5" stroke="#5eead4" stroke-width="2"/>
+  <text x="318" y="146" font-size="15" font-weight="700" fill="#134e4a">AI Vision Cameras</text>
+  <text x="318" y="168" font-size="12.5" fill="#475569">Dust plume / loading / dumping</text>
+  <text x="318" y="188" font-size="12.5" fill="#475569">recognition at the emission point</text>
+
+  <rect x="590" y="110" width="270" height="96" rx="10" fill="#ecfdf5" stroke="#5eead4" stroke-width="2"/>
+  <text x="608" y="146" font-size="15" font-weight="700" fill="#134e4a">Particulate Monitors</text>
+  <text x="608" y="168" font-size="12.5" fill="#475569">TSP / PM10 / PM2.5 online</text>
+  <text x="608" y="188" font-size="12.5" fill="#475569">at fence line and hot spots</text>
+
+  <rect x="880" y="110" width="270" height="96" rx="10" fill="#ecfdf5" stroke="#5eead4" stroke-width="2"/>
+  <text x="898" y="146" font-size="15" font-weight="700" fill="#134e4a">Meteorological Sensors</text>
+  <text x="898" y="168" font-size="12.5" fill="#475569">Wind speed / direction /</text>
+  <text x="898" y="188" font-size="12.5" fill="#475569">temperature / humidity</text>
+
+  <!-- arrow 1 -->
+  <path d="M600 206 L600 236" stroke="#94a3b8" stroke-width="3" marker-end="url(#a)"/>
+
+  <!-- Layer 2 -->
+  <rect x="40" y="240" width="230" height="96" rx="10" fill="#1d4ed8"/>
+  <text x="56" y="278" font-size="17" font-weight="700" fill="#ffffff">2. Edge AI Layer</text>
+  <text x="56" y="302" font-size="13" fill="#dbeafe">Recognition</text>
+  <text x="56" y="322" font-size="13" fill="#dbeafe">智能识别</text>
+
+  <rect x="300" y="240" width="270" height="96" rx="10" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="318" y="276" font-size="15" font-weight="700" fill="#1e3a8a">Plume Detection Model</text>
+  <text x="318" y="298" font-size="12.5" fill="#475569">Opacity / area growth rate</text>
+  <text x="318" y="318" font-size="12.5" fill="#475569">to separate dust from steam</text>
+
+  <rect x="590" y="240" width="270" height="96" rx="10" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="608" y="276" font-size="15" font-weight="700" fill="#1e3a8a">Operation Recognition</text>
+  <text x="608" y="298" font-size="12.5" fill="#475569">Truck dumping, loader, belt</text>
+  <text x="608" y="318" font-size="12.5" fill="#475569">transfer, tapping, slag pouring</text>
+
+  <rect x="880" y="240" width="270" height="96" rx="10" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="898" y="276" font-size="15" font-weight="700" fill="#1e3a8a">Threshold Engine</text>
+  <text x="898" y="298" font-size="12.5" fill="#475569">Multi-source fusion, grade</text>
+  <text x="898" y="318" font-size="12.5" fill="#475569">I / II / III alarm levels</text>
+
+  <!-- arrow 2 -->
+  <path d="M600 336 L600 366" stroke="#94a3b8" stroke-width="3" marker-end="url(#a)"/>
+
+  <!-- Layer 3 -->
+  <rect x="40" y="370" width="230" height="96" rx="10" fill="#b45309"/>
+  <text x="56" y="408" font-size="17" font-weight="700" fill="#ffffff">3. Control Layer</text>
+  <text x="56" y="432" font-size="13" fill="#fef3c7">Linkage</text>
+  <text x="56" y="452" font-size="13" fill="#fef3c7">联动控制</text>
+
+  <rect x="300" y="370" width="270" height="96" rx="10" fill="#fffbeb" stroke="#fcd34d" stroke-width="2"/>
+  <text x="318" y="406" font-size="15" font-weight="700" fill="#78350f">Zone Strategy</text>
+  <text x="318" y="428" font-size="12.5" fill="#475569">One dust source maps to a</text>
+  <text x="318" y="448" font-size="12.5" fill="#475569">dedicated cannon group</text>
+
+  <rect x="590" y="370" width="270" height="96" rx="10" fill="#fffbeb" stroke="#fcd34d" stroke-width="2"/>
+  <text x="608" y="406" font-size="15" font-weight="700" fill="#78350f">Parameter Presets</text>
+  <text x="608" y="428" font-size="12.5" fill="#475569">Azimuth, pitch, flow, droplet</text>
+  <text x="608" y="448" font-size="12.5" fill="#475569">size, spray duration</text>
+
+  <rect x="880" y="370" width="270" height="96" rx="10" fill="#fffbeb" stroke="#fcd34d" stroke-width="2"/>
+  <text x="898" y="406" font-size="15" font-weight="700" fill="#78350f">PLC / IoT Gateway</text>
+  <text x="898" y="428" font-size="12.5" fill="#475569">Dry contact, Modbus, MQTT</text>
+  <text x="898" y="448" font-size="12.5" fill="#475569">handshake with plant DCS</text>
+
+  <!-- arrow 3 -->
+  <path d="M600 466 L600 496" stroke="#94a3b8" stroke-width="3" marker-end="url(#a)"/>
+
+  <!-- Layer 4 -->
+  <rect x="40" y="500" width="230" height="96" rx="10" fill="#7c3aed"/>
+  <text x="56" y="538" font-size="17" font-weight="700" fill="#ffffff">4. Execution Layer</text>
+  <text x="56" y="562" font-size="13" fill="#ede9fe">Suppression</text>
+  <text x="56" y="582" font-size="13" fill="#ede9fe">抑尘执行</text>
+
+  <rect x="300" y="500" width="270" height="96" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+  <text x="318" y="536" font-size="15" font-weight="700" fill="#4c1d95">Long-Range Fog Cannon</text>
+  <text x="318" y="558" font-size="12.5" fill="#475569">30 - 300 m throw, open yards,</text>
+  <text x="318" y="578" font-size="12.5" fill="#475569">stockpiles, cast house</text>
+
+  <rect x="590" y="500" width="270" height="96" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+  <text x="608" y="536" font-size="15" font-weight="700" fill="#4c1d95">Dry Fog / Micro Mist</text>
+  <text x="608" y="558" font-size="12.5" fill="#475569">10 - 50 micron droplets for</text>
+  <text x="608" y="578" font-size="12.5" fill="#475569">belt transfer and bunkers</text>
+
+  <rect x="880" y="500" width="270" height="96" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+  <text x="898" y="536" font-size="15" font-weight="700" fill="#4c1d95">Auxiliary Measures</text>
+  <text x="898" y="558" font-size="12.5" fill="#475569">Enclosure, local dedusting,</text>
+  <text x="898" y="578" font-size="12.5" fill="#475569">road sweeper, wheel wash</text>
+
+  <!-- arrow 4 -->
+  <path d="M600 596 L600 626" stroke="#94a3b8" stroke-width="3" marker-end="url(#a)"/>
+
+  <!-- Layer 5 -->
+  <rect x="40" y="630" width="230" height="96" rx="10" fill="#334155"/>
+  <text x="56" y="668" font-size="17" font-weight="700" fill="#ffffff">5. Data Layer</text>
+  <text x="56" y="692" font-size="13" fill="#e2e8f0">Verification</text>
+  <text x="56" y="712" font-size="13" fill="#e2e8f0">数据核验</text>
+
+  <rect x="300" y="630" width="270" height="96" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="318" y="666" font-size="15" font-weight="700" fill="#0f172a">Live Dashboard</text>
+  <text x="318" y="688" font-size="12.5" fill="#475569">Zone status, alarm list,</text>
+  <text x="318" y="708" font-size="12.5" fill="#475569">equipment availability</text>
+
+  <rect x="590" y="630" width="270" height="96" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="608" y="666" font-size="15" font-weight="700" fill="#0f172a">Before / After Evidence</text>
+  <text x="608" y="688" font-size="12.5" fill="#475569">Image pair, concentration</text>
+  <text x="608" y="708" font-size="12.5" fill="#475569">curve, water and power log</text>
+
+  <rect x="880" y="630" width="270" height="96" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="898" y="666" font-size="15" font-weight="700" fill="#0f172a">Compliance Records</text>
+  <text x="898" y="688" font-size="12.5" fill="#475569">Traceable logbook for</text>
+  <text x="898" y="708" font-size="12.5" fill="#475569">inspection and audit</text>
+
+  <!-- feedback loop -->
+  <path d="M1150 630 L1170 630 L1170 130 L600 130" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#a)"/>
+  <text x="1000" y="762" font-size="13" fill="#64748b" text-anchor="middle">Verification data feeds back into the threshold engine for continuous tuning</text>
+
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+</svg>

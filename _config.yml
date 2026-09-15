@@ -67,6 +67,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  环保治理案例分享: case-studies
 tag_map:
 
 # Metadata elements

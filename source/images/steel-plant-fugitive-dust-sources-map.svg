@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1200" height="660" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">Fugitive Dust Sources in an Integrated Steel Plant</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">From raw material yard to truck wash: where dust is generated and which measure fits</text>
+
+  <!-- node template: x = 45 + i*190, width 170 -->
+  <!-- 1 Raw material yard -->
+  <rect x="45" y="110" width="170" height="120" rx="12" fill="#ecfdf5" stroke="#14b8a6" stroke-width="2"/>
+  <text x="130" y="142" font-size="15" font-weight="700" fill="#134e4a" text-anchor="middle">Raw Material Yard</text>
+  <text x="130" y="166" font-size="12" fill="#475569" text-anchor="middle">Stockpile, reclaim,</text>
+  <text x="130" y="184" font-size="12" fill="#475569" text-anchor="middle">loader traffic</text>
+  <text x="130" y="210" font-size="12" font-weight="600" fill="#0f766e" text-anchor="middle">Long-range cannon</text>
+
+  <path d="M215 170 L233 170" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#b)"/>
+
+  <!-- 2 Transfer station -->
+  <rect x="235" y="110" width="170" height="120" rx="12" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+  <text x="320" y="142" font-size="15" font-weight="700" fill="#1e3a8a" text-anchor="middle">Transfer Station</text>
+  <text x="320" y="166" font-size="12" fill="#475569" text-anchor="middle">Belt drop point,</text>
+  <text x="320" y="184" font-size="12" fill="#475569" text-anchor="middle">crushing, screening</text>
+  <text x="320" y="210" font-size="12" font-weight="600" fill="#1d4ed8" text-anchor="middle">Dry fog + enclosure</text>
+
+  <path d="M405 170 L423 170" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#b)"/>
+
+  <!-- 3 Sintering -->
+  <rect x="425" y="110" width="170" height="120" rx="12" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+  <text x="510" y="142" font-size="15" font-weight="700" fill="#7f1d1d" text-anchor="middle">Sintering Plant</text>
+  <text x="510" y="166" font-size="12" fill="#475569" text-anchor="middle">Mixing, discharge,</text>
+  <text x="510" y="184" font-size="12" fill="#475569" text-anchor="middle">cooler area</text>
+  <text x="510" y="210" font-size="12" font-weight="600" fill="#b91c1c" text-anchor="middle">Enclosure + mist</text>
+
+  <path d="M595 170 L613 170" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#b)"/>
+
+  <!-- 4 Blast furnace -->
+  <rect x="615" y="110" width="170" height="120" rx="12" fill="#fff7ed" stroke="#f97316" stroke-width="2"/>
+  <text x="700" y="142" font-size="15" font-weight="700" fill="#7c2d12" text-anchor="middle">BF Cast House</text>
+  <text x="700" y="166" font-size="12" fill="#475569" text-anchor="middle">Tapping, skimmer,</text>
+  <text x="700" y="184" font-size="12" fill="#475569" text-anchor="middle">torpedo ladle</text>
+  <text x="700" y="210" font-size="12" font-weight="600" fill="#c2410c" text-anchor="middle">Event-triggered cannon</text>
+
+  <path d="M785 170 L803 170" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#b)"/>
+
+  <!-- 5 Steel making -->
+  <rect x="805" y="110" width="170" height="120" rx="12" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="890" y="142" font-size="15" font-weight="700" fill="#4c1d95" text-anchor="middle">Steel Making</text>
+  <text x="890" y="166" font-size="12" fill="#475569" text-anchor="middle">Charging, tapping,</text>
+  <text x="890" y="184" font-size="12" fill="#475569" text-anchor="middle">secondary dedusting</text>
+  <text x="890" y="210" font-size="12" font-weight="600" fill="#7c3aed" text-anchor="middle">Capture hood priority</text>
+
+  <path d="M975 170 L993 170" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#b)"/>
+
+  <!-- 6 Slag and road -->
+  <rect x="995" y="110" width="170" height="120" rx="12" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+  <text x="1080" y="142" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">Slag Yard / Road</text>
+  <text x="1080" y="166" font-size="12" fill="#475569" text-anchor="middle">Slag pouring, hauling,</text>
+  <text x="1080" y="184" font-size="12" fill="#475569" text-anchor="middle">unpaved haul road</text>
+  <text x="1080" y="210" font-size="12" font-weight="600" fill="#334155" text-anchor="middle">Cannon + sweeper + wash</text>
+
+  <!-- observability band -->
+  <rect x="45" y="270" width="1120" height="88" rx="12" fill="#0f172a"/>
+  <text x="70" y="302" font-size="16" font-weight="700" fill="#5eead4">Eagle-Eye Observation Layer</text>
+  <text x="70" y="326" font-size="13" fill="#e2e8f0">AI cameras + TSP/PM10 monitors + weather station cover every source above, 24/7, with event tagging</text>
+  <text x="70" y="347" font-size="13" fill="#94a3b8">鹰眼观测层：视频AI + 颗粒物在线监测 + 气象站，对以上产尘点全天候识别与事件标记</text>
+
+  <!-- priority table -->
+  <text x="45" y="400" font-size="18" font-weight="700" fill="#0f172a">Matching rule of thumb</text>
+
+  <rect x="45" y="418" width="360" height="96" rx="10" fill="#ecfdf5" stroke="#5eead4" stroke-width="2"/>
+  <text x="65" y="448" font-size="15" font-weight="700" fill="#134e4a">Open, wind-driven, high volume</text>
+  <text x="65" y="472" font-size="12.5" fill="#475569">Stockyard, slag yard, haul road, cast house</text>
+  <text x="65" y="496" font-size="12.5" font-weight="600" fill="#0f766e">-&gt; Long-range fog cannon, 80 - 300 m</text>
+
+  <rect x="425" y="418" width="360" height="96" rx="10" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="445" y="448" font-size="15" font-weight="700" fill="#1e3a8a">Confined, material on belt</text>
+  <text x="445" y="472" font-size="12.5" fill="#475569">Transfer point, crusher house, bunker</text>
+  <text x="445" y="496" font-size="12.5" font-weight="600" fill="#1d4ed8">-&gt; Dry fog, low water, no wetting risk</text>
+
+  <rect x="805" y="418" width="360" height="96" rx="10" fill="#fef2f2" stroke="#fca5a5" stroke-width="2"/>
+  <text x="825" y="448" font-size="15" font-weight="700" fill="#7f1d1d">Hot process with gas flow</text>
+  <text x="825" y="472" font-size="12.5" fill="#475569">Tapping, charging, sinter discharge</text>
+  <text x="825" y="496" font-size="12.5" font-weight="600" fill="#b91c1c">-&gt; Capture hood first, spray as support</text>
+
+  <text x="45" y="556" font-size="14" font-weight="700" fill="#0f172a">Why spray alone is never enough</text>
+  <text x="45" y="580" font-size="13" fill="#475569">The national ultra-low emission policy requires enclosed or sealed storage and conveying first; spraying is the</text>
+  <text x="45" y="600" font-size="13" fill="#475569">supplementary measure for points that cannot be fully sealed, and for keeping "no visible dust escaping" true.</text>
+  <text x="45" y="624" font-size="13" fill="#64748b">政策要求以密闭/封闭为首选，喷雾是封闭不到位点位的补充手段，用于实现"产尘点及车间不得有可见烟粉尘外逸"。</text>
+
+  <defs>
+    <marker id="b" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0 0 L9 4.5 L0 9 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+</svg>
