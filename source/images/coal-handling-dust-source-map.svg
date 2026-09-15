@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" width="1000" height="660" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1000" height="660" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">Four Stages of Coal Handling, Four Sets of Dust Sources</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Fugitive dust in a thermal power plant is created at the handovers between stages, not at a single stack</text>
+
+  <!-- stage boxes -->
+  <g>
+    <rect x="40" y="110" width="210" height="300" rx="12" fill="#f0f9ff" stroke="#7dd3fc" stroke-width="2"/>
+    <rect x="40" y="110" width="210" height="44" rx="12" fill="#0284c7"/>
+    <rect x="40" y="140" width="210" height="14" fill="#0284c7"/>
+    <text x="145" y="139" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1. Unloading</text>
+    <text x="58" y="182" font-size="13.5" font-weight="700" fill="#0c4a6e">Source points</text>
+    <text x="58" y="206" font-size="13" fill="#334155">Wagon tippler pit</text>
+    <text x="58" y="228" font-size="13" fill="#334155">Unloading trench inlet</text>
+    <text x="58" y="250" font-size="13" fill="#334155">Screw unloader</text>
+    <text x="58" y="272" font-size="13" fill="#334155">Grab ship unloader</text>
+    <text x="58" y="294" font-size="13" fill="#334155">Transfer station</text>
+    <text x="58" y="330" font-size="13.5" font-weight="700" fill="#0c4a6e">Dust behaviour</text>
+    <text x="58" y="352" font-size="13" fill="#334155">Instantaneous, large</text>
+    <text x="58" y="374" font-size="13" fill="#334155">volume, wide spread,</text>
+    <text x="58" y="396" font-size="13" fill="#334155">strongly wind driven</text>
+  </g>
+
+  <g>
+    <rect x="282" y="110" width="210" height="300" rx="12" fill="#f0fdfa" stroke="#5eead4" stroke-width="2"/>
+    <rect x="282" y="110" width="210" height="44" rx="12" fill="#0d9488"/>
+    <rect x="282" y="140" width="210" height="14" fill="#0d9488"/>
+    <text x="387" y="139" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2. Conveying</text>
+    <text x="300" y="182" font-size="13.5" font-weight="700" fill="#115e59">Source points</text>
+    <text x="300" y="206" font-size="13" fill="#334155">Belt drop points</text>
+    <text x="300" y="228" font-size="13" fill="#334155">Transfer stations</text>
+    <text x="300" y="250" font-size="13" fill="#334155">Coal crushers</text>
+    <text x="300" y="272" font-size="13" fill="#334155">Roller screens</text>
+    <text x="300" y="294" font-size="13" fill="#334155">Guide chutes, head/tail</text>
+    <text x="300" y="330" font-size="13.5" font-weight="700" fill="#115e59">Dust behaviour</text>
+    <text x="300" y="352" font-size="13" fill="#334155">Continuous, confined,</text>
+    <text x="300" y="374" font-size="13" fill="#334155">positive pressure puffing,</text>
+    <text x="300" y="396" font-size="13" fill="#334155">spreads along gallery</text>
+  </g>
+
+  <g>
+    <rect x="524" y="110" width="210" height="300" rx="12" fill="#fffbeb" stroke="#fcd34d" stroke-width="2"/>
+    <rect x="524" y="110" width="210" height="44" rx="12" fill="#d97706"/>
+    <rect x="524" y="140" width="210" height="14" fill="#d97706"/>
+    <text x="629" y="139" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3. Stacking</text>
+    <text x="542" y="182" font-size="13.5" font-weight="700" fill="#78350f">Source points</text>
+    <text x="542" y="206" font-size="13" fill="#334155">Stacker-reclaimer</text>
+    <text x="542" y="228" font-size="13" fill="#334155">drop point</text>
+    <text x="542" y="250" font-size="13" fill="#334155">Working face</text>
+    <text x="542" y="272" font-size="13" fill="#334155">Mobile belt ends</text>
+    <text x="542" y="294" font-size="13" fill="#334155">Haul roads</text>
+    <text x="542" y="330" font-size="13.5" font-weight="700" fill="#78350f">Dust behaviour</text>
+    <text x="542" y="352" font-size="13" fill="#334155">Wind driven, worse in</text>
+    <text x="542" y="374" font-size="13" fill="#334155">dry and windy weather,</text>
+    <text x="542" y="396" font-size="13" fill="#334155">covers the whole yard</text>
+  </g>
+
+  <g>
+    <rect x="766" y="110" width="194" height="300" rx="12" fill="#fdf4ff" stroke="#e9d5ff" stroke-width="2"/>
+    <rect x="766" y="110" width="194" height="44" rx="12" fill="#7e22ce"/>
+    <rect x="766" y="140" width="194" height="14" fill="#7e22ce"/>
+    <text x="863" y="139" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4. Storage</text>
+    <text x="784" y="182" font-size="13.5" font-weight="700" fill="#581c87">Source points</text>
+    <text x="784" y="206" font-size="13" fill="#334155">Open stockpile surface</text>
+    <text x="784" y="228" font-size="13" fill="#334155">Closed coal dome</text>
+    <text x="784" y="250" font-size="13" fill="#334155">Reclaim face</text>
+    <text x="784" y="272" font-size="13" fill="#334155">Yard roads</text>
+    <text x="784" y="330" font-size="13.5" font-weight="700" fill="#581c87">Dust behaviour</text>
+    <text x="784" y="352" font-size="13" fill="#334155">Persistent, wind eroded,</text>
+    <text x="784" y="374" font-size="13" fill="#334155">vehicle re-suspended,</text>
+    <text x="784" y="396" font-size="13" fill="#334155">drifts off site</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#94a3b8" stroke-width="2.5" fill="none">
+    <line x1="256" y1="260" x2="276" y2="260"/>
+    <polyline points="268,254 276,260 268,266"/>
+    <line x1="498" y1="260" x2="518" y2="260"/>
+    <polyline points="510,254 518,260 510,266"/>
+    <line x1="740" y1="260" x2="760" y2="260"/>
+    <polyline points="752,254 760,260 752,266"/>
+  </g>
+
+  <!-- matching bar -->
+  <rect x="40" y="436" width="920" height="86" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="60" y="462" font-size="14" font-weight="700" fill="#0f172a">Matching rule</text>
+  <text x="60" y="486" font-size="13.5" fill="#475569">Enclose first, then suppress. Dry fog belongs where the dust is confined and the water budget is tight;</text>
+  <text x="60" y="508" font-size="13.5" fill="#475569">long-range fog cannons belong where the source is open and wind driven. They are complements, not substitutes.</text>
+
+  <text x="40" y="568" font-size="14" font-weight="700" fill="#0f172a">Typical acceptance targets used in Chinese power plant fugitive dust programmes</text>
+  <rect x="40" y="582" width="222" height="52" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="151" y="604" font-size="13" fill="#334155" text-anchor="middle">Fence line PM: 1.0 mg/m3</text>
+  <text x="151" y="623" font-size="12" fill="#94a3b8" text-anchor="middle">or lower</text>
+  <rect x="274" y="582" width="222" height="52" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="385" y="604" font-size="13" fill="#334155" text-anchor="middle">Workplace total dust</text>
+  <text x="385" y="623" font-size="13" fill="#334155" text-anchor="middle">4 mg/m3</text>
+  <rect x="508" y="582" width="222" height="52" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="619" y="604" font-size="13" fill="#334155" text-anchor="middle">Respirable dust</text>
+  <text x="619" y="623" font-size="13" fill="#334155" text-anchor="middle">2.5 mg/m3</text>
+  <rect x="742" y="582" width="218" height="52" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="851" y="604" font-size="13" fill="#334155" text-anchor="middle">No visible dust escape</text>
+  <text x="851" y="623" font-size="12" fill="#94a3b8" text-anchor="middle">visual criterion</text>
+
+  <text x="40" y="656" font-size="12.5" fill="#94a3b8">Schematic process map. Target values are typical programme targets quoted in domestic engineering specifications, not measured site data.</text>
+</svg>

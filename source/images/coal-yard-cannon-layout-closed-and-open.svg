@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1000" height="620" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">Two Coal Yard Configurations and How Coverage Is Achieved</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">A closed dome is sprayed from inside by tower-mounted cannons; an open yard relies on windbreak, reach and surface binding</text>
+
+  <!-- LEFT: closed dome -->
+  <rect x="40" y="100" width="440" height="380" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="260" y="128" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">Closed coal dome</text>
+
+  <!-- dome shell -->
+  <path d="M 80 420 A 180 180 0 0 1 440 420 Z" fill="#eff6ff" stroke="#0284c7" stroke-width="3"/>
+
+  <!-- coal pile inside -->
+  <path d="M 120 420 Q 260 320 400 420 Z" fill="#475569" opacity="0.55"/>
+  <text x="260" y="404" font-size="12.5" fill="#ffffff" text-anchor="middle" font-weight="700">Coal pile</text>
+
+  <!-- 4 tower cannons -->
+  <g>
+    <line x1="150" y1="420" x2="150" y2="330" stroke="#64748b" stroke-width="4"/>
+    <circle cx="150" cy="326" r="9" fill="#0284c7"/>
+    <path d="M 150 326 Q 210 300 250 330" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="5 4"/>
+
+    <line x1="222" y1="420" x2="222" y2="306" stroke="#64748b" stroke-width="4"/>
+    <circle cx="222" cy="302" r="9" fill="#0284c7"/>
+    <path d="M 222 302 Q 262 282 300 306" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="5 4"/>
+
+    <line x1="300" y1="420" x2="300" y2="310" stroke="#64748b" stroke-width="4"/>
+    <circle cx="300" cy="306" r="9" fill="#0284c7"/>
+    <path d="M 300 306 Q 262 286 224 308" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="5 4"/>
+
+    <line x1="372" y1="420" x2="372" y2="330" stroke="#64748b" stroke-width="4"/>
+    <circle cx="372" cy="326" r="9" fill="#0284c7"/>
+    <path d="M 372 326 Q 312 300 272 332" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="5 4"/>
+  </g>
+  <text x="260" y="452" font-size="12.5" fill="#334155" text-anchor="middle">Four tower-mounted cannons, overlapping arcs</text>
+  <text x="260" y="470" font-size="12.5" fill="#64748b" text-anchor="middle">Reference: 100 m diameter dome, 80 m class units</text>
+
+  <!-- vehicle door with dry fog curtain -->
+  <rect x="380" y="392" width="70" height="28" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+  <text x="415" y="384" font-size="11.5" fill="#334155" text-anchor="middle">Vehicle door</text>
+  <g stroke="#0d9488" stroke-width="2" stroke-dasharray="3 3">
+    <line x1="388" y1="392" x2="386" y2="372"/>
+    <line x1="400" y1="392" x2="399" y2="370"/>
+    <line x1="412" y1="392" x2="412" y2="372"/>
+    <line x1="424" y1="392" x2="425" y2="370"/>
+    <line x1="436" y1="392" x2="438" y2="372"/>
+  </g>
+  <text x="415" y="358" font-size="11.5" font-weight="700" fill="#0d9488" text-anchor="middle">Dry fog</text>
+  <text x="415" y="344" font-size="11.5" font-weight="700" fill="#0d9488" text-anchor="middle">curtain</text>
+
+  <!-- RIGHT: open yard -->
+  <rect x="500" y="100" width="460" height="380" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="730" y="128" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">Open stockyard</text>
+
+  <!-- ground -->
+  <line x1="530" y1="420" x2="940" y2="420" stroke="#94a3b8" stroke-width="2"/>
+
+  <!-- windbreak net -->
+  <line x1="546" y1="420" x2="546" y2="272" stroke="#f59e0b" stroke-width="4"/>
+  <g stroke="#fcd34d" stroke-width="1.2">
+    <line x1="546" y1="290" x2="546" y2="420" />
+  </g>
+  <g stroke="#fbbf24" stroke-width="1">
+    <line x1="540" y1="300" x2="552" y2="300"/>
+    <line x1="540" y1="330" x2="552" y2="330"/>
+    <line x1="540" y1="360" x2="552" y2="360"/>
+    <line x1="540" y1="390" x2="552" y2="390"/>
+  </g>
+  <text x="546" y="258" font-size="12" font-weight="700" fill="#b45309" text-anchor="middle">Windbreak net</text>
+  <text x="546" y="240" font-size="11.5" fill="#64748b" text-anchor="middle">height &gt;= 1.1 x pile height</text>
+
+  <!-- coal piles -->
+  <path d="M 600 420 Q 680 330 760 420 Z" fill="#475569" opacity="0.5"/>
+  <path d="M 780 420 Q 850 350 920 420 Z" fill="#475569" opacity="0.4"/>
+
+  <!-- 200 m tower cannon -->
+  <line x1="900" y1="420" x2="900" y2="250" stroke="#64748b" stroke-width="6"/>
+  <circle cx="900" cy="244" r="12" fill="#0284c7"/>
+  <path d="M 900 244 Q 780 210 660 300" fill="none" stroke="#22d3ee" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="900" y="228" font-size="12" font-weight="700" fill="#0284c7" text-anchor="end">200 m tower cannon</text>
+
+  <!-- mobile unit -->
+  <rect x="620" y="436" width="46" height="22" rx="4" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+  <circle cx="630" cy="462" r="5" fill="#334155"/>
+  <circle cx="656" cy="462" r="5" fill="#334155"/>
+  <text x="680" y="452" font-size="11.5" fill="#334155">Mobile cannon truck for road and reclaim face</text>
+
+  <!-- notes -->
+  <rect x="40" y="500" width="920" height="92" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="60" y="526" font-size="14" font-weight="700" fill="#0f172a">Coverage rules that hold in both layouts</text>
+  <text x="60" y="550" font-size="13.5" fill="#475569">Design for overlap: any point in the yard should be reachable by at least two units, so one unit out of service does not open a gap.</text>
+  <text x="60" y="574" font-size="13.5" fill="#475569">Add a moisture ceiling and a wind rule: spray programme off above the agreed wind speed, and stop open-air stacking and unloading entirely in strong wind.</text>
+
+  <text x="40" y="612" font-size="12.5" fill="#94a3b8">Schematic layouts, not to scale. Unit sizes are reference classes from supplier application material, not measured site data.</text>
+</svg>
