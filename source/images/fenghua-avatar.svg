@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Fenghua Environmental">
+  <circle cx="120" cy="120" r="120" fill="#A31F34"/>
+  <g transform="translate(52 52) scale(2.125)">
+    <path d="M18 13 C18 13 28 26 28 34 a10 10 0 1 1 -20 0 C8 26 18 13 18 13 Z" fill="#FFFFFF"/>
+    <g stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" fill="none">
+      <path d="M35 26 H55"/>
+      <path d="M35 34 H57"/>
+      <path d="M35 42 H53"/>
+    </g>
+  </g>
+</svg>

@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/fenghua-favicon.svg
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: /images/fenghua-avatar.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -99,8 +99,8 @@ global:
   # Whether to enable open graph
   open_graph:
     enable: true
-    image: /images/redefine-og.webp  # default og:image
-    description: Hexo Theme Redefine, Redefine Your Hexo Journey.
+    image: /images/fenghua-og.png  # default og:image
+    description: Fenghua Environmental - industrial dust suppression and air pollution control solutions, from fog cannons to dry fog systems.
   # Google Analytics
   google_analytics:
     enable: false # Whether to enable Google Analytics
@@ -214,9 +214,15 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    # Archives: 
-    #   path: /archives 
-    #   icon: fa-regular fa-archive # can be empty
+    Archives: 
+      path: /archives 
+      icon: fa-regular fa-archive # can be empty
+    Categories: 
+      path: /categories 
+      icon: fa-regular fa-folder-open
+    Tags: 
+      path: /tags 
+      icon: fa-regular fa-tags
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
@@ -356,7 +362,7 @@ articles:
 # Docs: https://redefine-docs.ohevan.com/posts/comment
 comment:
   # Whether to enable comment
-  enable: true
+  enable: false # 占位 serverUrl 会加载失败，等真实 Waline 服务部署后再开
   # Comment system
   system: waline # waline, gitalk, twikoo, giscus, utterances, artalk
   # System configuration
