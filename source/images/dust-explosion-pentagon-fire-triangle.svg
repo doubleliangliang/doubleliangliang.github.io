@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="1000" height="600" fill="#ffffff"/>
+  <text x="40" y="46" font-size="24" font-weight="700" fill="#0f172a">Fire Triangle vs Dust Explosion Pentagon</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Two of the five elements are already present in any dusty workshop</text>
+
+  <text x="150" y="118" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">Fire triangle</text>
+  <text x="150" y="138" font-size="12" fill="#64748b" text-anchor="middle">what most people plan for</text>
+  <g>
+    <polygon points="150,168 40,378 260,378" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+    <circle cx="150" cy="182" r="26" fill="#ffffff" stroke="#64748b" stroke-width="1.5"/>
+    <text x="150" y="188" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Heat</text>
+    <circle cx="62" cy="362" r="26" fill="#ffffff" stroke="#64748b" stroke-width="1.5"/>
+    <text x="62" y="368" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Fuel</text>
+    <circle cx="238" cy="362" r="26" fill="#ffffff" stroke="#64748b" stroke-width="1.5"/>
+    <text x="238" y="368" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">O2</text>
+  </g>
+  <text x="150" y="416" font-size="12" fill="#475569" text-anchor="middle">Remove heat and the fire stops.</text>
+
+  <line x1="330" y1="120" x2="330" y2="470" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="5 5"/>
+
+  <text x="660" y="118" font-size="15" font-weight="700" fill="#0f172a" text-anchor="middle">Dust explosion pentagon</text>
+  <text x="660" y="138" font-size="12" fill="#64748b" text-anchor="middle">what the same room actually is</text>
+  <g>
+    <polygon points="660,168 810,262 745,442 575,442 510,262" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+    <g>
+      <circle cx="660" cy="188" r="30" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+      <text x="660" y="186" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Ignition</text>
+      <text x="660" y="200" font-size="11" fill="#64748b" text-anchor="middle">source</text>
+    </g>
+    <g>
+      <circle cx="800" cy="272" r="30" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+      <text x="800" y="270" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Dust</text>
+      <text x="800" y="284" font-size="11" fill="#64748b" text-anchor="middle">suspended</text>
+    </g>
+    <g>
+      <circle cx="737" cy="424" r="30" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+      <text x="737" y="422" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Oxygen</text>
+      <text x="737" y="436" font-size="11" fill="#64748b" text-anchor="middle">in air</text>
+    </g>
+    <g>
+      <circle cx="583" cy="424" r="30" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+      <text x="583" y="422" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Concentration</text>
+      <text x="583" y="436" font-size="11" fill="#64748b" text-anchor="middle">in range</text>
+    </g>
+    <g>
+      <circle cx="520" cy="272" r="30" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+      <text x="520" y="270" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Confinement</text>
+      <text x="520" y="284" font-size="11" fill="#64748b" text-anchor="middle">or congestion</text>
+    </g>
+  </g>
+  <text x="660" y="470" font-size="12" fill="#475569" text-anchor="middle">Dust and oxygen are permanent residents. Only three are manageable.</text>
+
+  <rect x="40" y="500" width="920" height="80" rx="8" fill="#ecfdf5" stroke="#a7f3d0"/>
+  <text x="58" y="526" font-size="14" font-weight="700" fill="#047857">Why this reframes the whole job</text>
+  <text x="58" y="550" font-size="13" fill="#334155">You cannot remove the fuel - the product itself is the fuel. You cannot remove oxygen.</text>
+  <text x="58" y="570" font-size="13" fill="#334155">So the work is: keep dust off surfaces, keep it out of suspension, and keep heat away.</text>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="1000" height="620" fill="#ffffff"/>
+  <text x="40" y="46" font-size="24" font-weight="700" fill="#0f172a">A Settled Layer Ignites Far Below the Cloud Figure</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Minimum ignition temperature, dust cloud vs dust layer - selected dusts</text>
+
+  <!-- axes -->
+  <line x1="110" y1="520" x2="960" y2="520" stroke="#334155" stroke-width="1.5"/>
+  <line x1="110" y1="120" x2="110" y2="520" stroke="#334155" stroke-width="1.5"/>
+  <g font-size="11" fill="#64748b" text-anchor="end">
+    <text x="100" y="124">600 C</text>
+    <text x="100" y="204">500 C</text>
+    <text x="100" y="284">400 C</text>
+    <text x="100" y="364">300 C</text>
+    <text x="100" y="444">200 C</text>
+    <text x="100" y="524">100 C</text>
+  </g>
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="110" y1="120" x2="960" y2="120"/>
+    <line x1="110" y1="200" x2="960" y2="200"/>
+    <line x1="110" y1="280" x2="960" y2="280"/>
+    <line x1="110" y1="360" x2="960" y2="360"/>
+    <line x1="110" y1="440" x2="960" y2="440"/>
+  </g>
+
+  <!-- scale: 120 -> 600C, 520 -> 100C ; y = 120 + (600-t)*0.8 -->
+  <g>
+    <!-- Lignite coal 380 / 225 -->
+    <text x="196" y="544" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Lignite</text>
+    <text x="196" y="560" font-size="11" fill="#64748b" text-anchor="middle">coal</text>
+    <rect x="156" y="296" width="36" height="224" fill="#cbd5e1"/>
+    <text x="174" y="290" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">380</text>
+    <rect x="200" y="420" width="36" height="100" fill="#dc2626"/>
+    <text x="218" y="414" font-size="12" font-weight="700" fill="#b91c1c" text-anchor="middle">225</text>
+
+    <!-- Flax 440 / 230 -->
+    <text x="330" y="544" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Flax</text>
+    <rect x="290" y="248" width="36" height="272" fill="#cbd5e1"/>
+    <text x="308" y="242" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">440</text>
+    <rect x="334" y="416" width="36" height="104" fill="#dc2626"/>
+    <text x="352" y="410" font-size="12" font-weight="700" fill="#b91c1c" text-anchor="middle">230</text>
+
+    <!-- Cotton 560 / 350 -->
+    <text x="464" y="544" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Cotton</text>
+    <rect x="424" y="152" width="36" height="368" fill="#cbd5e1"/>
+    <text x="442" y="146" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">560</text>
+    <rect x="468" y="320" width="36" height="200" fill="#dc2626"/>
+    <text x="486" y="314" font-size="12" font-weight="700" fill="#b91c1c" text-anchor="middle">350</text>
+
+    <!-- Feed 450 / 350 -->
+    <text x="598" y="544" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Animal</text>
+    <text x="598" y="560" font-size="11" fill="#64748b" text-anchor="middle">feed</text>
+    <rect x="558" y="240" width="36" height="280" fill="#cbd5e1"/>
+    <text x="576" y="234" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">450</text>
+    <rect x="602" y="320" width="36" height="200" fill="#dc2626"/>
+    <text x="620" y="314" font-size="12" font-weight="700" fill="#b91c1c" text-anchor="middle">350</text>
+
+    <!-- Corn starch 460 / 435 -->
+    <text x="732" y="544" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Corn</text>
+    <text x="732" y="560" font-size="11" fill="#64748b" text-anchor="middle">starch</text>
+    <rect x="692" y="232" width="36" height="288" fill="#cbd5e1"/>
+    <text x="710" y="226" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">460</text>
+    <rect x="736" y="252" width="36" height="268" fill="#dc2626"/>
+    <text x="754" y="246" font-size="12" font-weight="700" fill="#b91c1c" text-anchor="middle">435</text>
+
+    <!-- Aluminium 560 / 450 -->
+    <text x="866" y="544" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Aluminium</text>
+    <rect x="826" y="152" width="36" height="368" fill="#cbd5e1"/>
+    <text x="844" y="146" font-size="12" font-weight="700" fill="#475569" text-anchor="middle">560</text>
+    <rect x="870" y="240" width="36" height="280" fill="#dc2626"/>
+    <text x="888" y="234" font-size="12" font-weight="700" fill="#b91c1c" text-anchor="middle">450</text>
+  </g>
+
+  <g>
+    <rect x="700" y="112" width="14" height="14" fill="#cbd5e1"/>
+    <text x="722" y="124" font-size="12" fill="#475569">Dust cloud</text>
+    <rect x="820" y="112" width="14" height="14" fill="#dc2626"/>
+    <text x="842" y="124" font-size="12" fill="#475569">Dust layer</text>
+  </g>
+
+  <rect x="40" y="578" width="920" height="30" rx="6" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="58" y="598" font-size="13" fill="#991b1b">A bearing housing or a lamp enclosure that never reaches 400 C can still ignite the layer underneath it.</text>
+</svg>
