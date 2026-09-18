@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" width="1000" height="660" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="1000" height="660" fill="#ffffff"/>
+  <text x="40" y="46" font-size="24" font-weight="700" fill="#0f172a">The Freeze Risk Window Opens Well Above 0 C</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Overnight air temperature on a dust control site, and what is happening inside the machine</text>
+
+  <!-- risk bands -->
+  <rect x="110" y="120" width="700" height="80" fill="#ecfdf5"/>
+  <rect x="110" y="200" width="700" height="80" fill="#fef9c3"/>
+  <rect x="110" y="280" width="700" height="80" fill="#fed7aa"/>
+  <rect x="110" y="360" width="700" height="160" fill="#fecaca"/>
+
+  <!-- axes and grid -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="110" y1="120" x2="810" y2="120"/>
+    <line x1="110" y1="200" x2="810" y2="200"/>
+    <line x1="110" y1="280" x2="810" y2="280"/>
+    <line x1="110" y1="360" x2="810" y2="360"/>
+    <line x1="110" y1="440" x2="810" y2="440"/>
+    <line x1="110" y1="520" x2="810" y2="520"/>
+  </g>
+  <line x1="110" y1="112" x2="110" y2="530" stroke="#334155" stroke-width="1.5"/>
+  <line x1="110" y1="530" x2="810" y2="530" stroke="#334155" stroke-width="1.5"/>
+  <g font-size="11" fill="#64748b" text-anchor="end">
+    <text x="100" y="124">+10 C</text>
+    <text x="100" y="204">+5 C</text>
+    <text x="100" y="284">0 C</text>
+    <text x="100" y="364">-5 C</text>
+    <text x="100" y="444">-10 C</text>
+    <text x="100" y="524">-15 C</text>
+  </g>
+
+  <!-- zero line -->
+  <line x1="110" y1="280" x2="810" y2="280" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="7 5"/>
+  <text x="120" y="274" font-size="11.5" font-weight="700" fill="#ef4444">0 C is not the line that matters</text>
+
+  <!-- temperature curve: 18:00 -> 08:00 -->
+  <polyline fill="none" stroke="#dc2626" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"
+    points="130,152 177,176 225,200 272,216 320,232 367,248 415,264 462,280 510,296 557,312 605,328 652,336 700,344 747,312 795,264"/>
+
+  <!-- coldest hour marker -->
+  <line x1="700" y1="344" x2="700" y2="414" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="692" y="386" font-size="11.5" fill="#64748b" text-anchor="end">coldest hour, machine idle</text>
+
+  <!-- band legend -->
+  <rect x="570" y="126" width="230" height="112" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <g font-size="11.5" fill="#334155">
+    <rect x="584" y="138" width="14" height="14" fill="#a7f3d0"/>
+    <text x="606" y="150">+10 to +5 C  normal run</text>
+    <rect x="584" y="163" width="14" height="14" fill="#fde047"/>
+    <text x="606" y="175">+5 to 0 C  pre-frost</text>
+    <rect x="584" y="188" width="14" height="14" fill="#fdba74"/>
+    <text x="606" y="200">0 to -5 C  ice forms</text>
+    <rect x="584" y="213" width="14" height="14" fill="#fca5a5"/>
+    <text x="606" y="225">below -5 C  severe</text>
+  </g>
+
+  <!-- event strip -->
+  <g>
+    <rect x="42" y="548" width="222" height="92" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="58" y="574" font-size="13" font-weight="700" fill="#475569">18:00  Last spray</text>
+    <text x="58" y="596" font-size="11.5" fill="#475569">The pump stops. Every line</text>
+    <text x="58" y="614" font-size="11.5" fill="#475569">downstream stays full of</text>
+    <text x="58" y="632" font-size="11.5" fill="#475569">water until spring.</text>
+
+    <rect x="274" y="548" width="222" height="92" rx="8" fill="#fef9c3" stroke="#fde047"/>
+    <text x="290" y="574" font-size="13" font-weight="700" fill="#b45309">22:00  Thin films</text>
+    <text x="290" y="596" font-size="11.5" fill="#475569">Nozzle orifices, gauge</text>
+    <text x="290" y="614" font-size="11.5" fill="#475569">tappings and filter bowls</text>
+    <text x="290" y="632" font-size="11.5" fill="#475569">freeze first.</text>
+
+    <rect x="506" y="548" width="222" height="92" rx="8" fill="#fed7aa" stroke="#fdba74"/>
+    <text x="522" y="574" font-size="13" font-weight="700" fill="#c2410c">02:00  Closed bodies</text>
+    <text x="522" y="596" font-size="11.5" fill="#475569">Valves and the pump</text>
+    <text x="522" y="614" font-size="11.5" fill="#475569">volute hold their water;</text>
+    <text x="522" y="632" font-size="11.5" fill="#475569">ice has nowhere to expand.</text>
+
+    <rect x="738" y="548" width="222" height="92" rx="8" fill="#fecaca" stroke="#fca5a5"/>
+    <text x="754" y="574" font-size="13" font-weight="700" fill="#b91c1c">06:00  Coldest hour</text>
+    <text x="754" y="596" font-size="11.5" fill="#475569">Cast housings and</text>
+    <text x="754" y="614" font-size="11.5" fill="#475569">thin-wall tube crack.</text>
+    <text x="754" y="632" font-size="11.5" fill="#475569">Nobody is watching.</text>
+  </g>
+</svg>

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="1000" height="700" fill="#ffffff"/>
+  <text x="40" y="46" font-size="24" font-weight="700" fill="#0f172a">Where a Frozen Fog Cannon Breaks First</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Freeze damage follows the water path: the smaller the trapped volume, the sooner it turns to ice</text>
+
+  <defs>
+    <marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+
+  <!-- water path blocks -->
+  <g>
+    <rect x="42" y="112" width="145" height="102" rx="9" fill="#fef3c7" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect x="54" y="124" width="62" height="18" rx="9" fill="#fde68a"/>
+    <text x="85" y="137" font-size="10.5" font-weight="700" fill="#92400e" text-anchor="middle">MEDIUM</text>
+    <text x="54" y="162" font-size="13" font-weight="700" fill="#0f172a">Reservoir / tank</text>
+    <text x="54" y="184" font-size="11.5" fill="#475569">outlet, level gauge</text>
+    <text x="54" y="202" font-size="11.5" fill="#475569">and drain point</text>
+
+    <path d="M187 163 L 193 163" stroke="#94a3b8" stroke-width="2" marker-end="url(#arw)"/>
+
+    <rect x="197" y="112" width="145" height="102" rx="9" fill="#ffedd5" stroke="#f97316" stroke-width="1.5"/>
+    <rect x="209" y="124" width="48" height="18" rx="9" fill="#fed7aa"/>
+    <text x="233" y="137" font-size="10.5" font-weight="700" fill="#9a3412" text-anchor="middle">HIGH</text>
+    <text x="209" y="162" font-size="13" font-weight="700" fill="#0f172a">Suction strainer</text>
+    <text x="209" y="184" font-size="11.5" fill="#475569">ice crystals coat</text>
+    <text x="209" y="202" font-size="11.5" fill="#475569">the mesh</text>
+
+    <path d="M342 163 L 348 163" stroke="#94a3b8" stroke-width="2" marker-end="url(#arw)"/>
+
+    <rect x="352" y="112" width="145" height="102" rx="9" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5"/>
+    <rect x="364" y="124" width="72" height="18" rx="9" fill="#fecaca"/>
+    <text x="400" y="137" font-size="10.5" font-weight="700" fill="#991b1b" text-anchor="middle">HIGHEST</text>
+    <text x="364" y="162" font-size="13" font-weight="700" fill="#0f172a">Pump and seal</text>
+    <text x="364" y="184" font-size="11.5" fill="#475569">volute splits; seal</text>
+    <text x="364" y="202" font-size="11.5" fill="#475569">pushed out of seat</text>
+
+    <path d="M497 163 L 503 163" stroke="#94a3b8" stroke-width="2" marker-end="url(#arw)"/>
+
+    <rect x="507" y="112" width="145" height="102" rx="9" fill="#ffedd5" stroke="#f97316" stroke-width="1.5"/>
+    <rect x="519" y="124" width="48" height="18" rx="9" fill="#fed7aa"/>
+    <text x="543" y="137" font-size="10.5" font-weight="700" fill="#9a3412" text-anchor="middle">HIGH</text>
+    <text x="519" y="162" font-size="13" font-weight="700" fill="#0f172a">Valves, gauges</text>
+    <text x="519" y="184" font-size="11.5" fill="#475569">closed bodies hold</text>
+    <text x="519" y="202" font-size="11.5" fill="#475569">water under pressure</text>
+
+    <path d="M652 163 L 658 163" stroke="#94a3b8" stroke-width="2" marker-end="url(#arw)"/>
+
+    <rect x="662" y="112" width="145" height="102" rx="9" fill="#ffedd5" stroke="#f97316" stroke-width="1.5"/>
+    <rect x="674" y="124" width="48" height="18" rx="9" fill="#fed7aa"/>
+    <text x="698" y="137" font-size="10.5" font-weight="700" fill="#9a3412" text-anchor="middle">HIGH</text>
+    <text x="674" y="162" font-size="13" font-weight="700" fill="#0f172a">Line, dead legs</text>
+    <text x="674" y="184" font-size="11.5" fill="#475569">low points with no</text>
+    <text x="674" y="202" font-size="11.5" fill="#475569">drain anywhere</text>
+
+    <path d="M807 163 L 813 163" stroke="#94a3b8" stroke-width="2" marker-end="url(#arw)"/>
+
+    <rect x="817" y="112" width="145" height="102" rx="9" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5"/>
+    <rect x="829" y="124" width="72" height="18" rx="9" fill="#fecaca"/>
+    <text x="865" y="137" font-size="10.5" font-weight="700" fill="#991b1b" text-anchor="middle">HIGHEST</text>
+    <text x="829" y="162" font-size="13" font-weight="700" fill="#0f172a">Manifold, nozzle</text>
+    <text x="829" y="184" font-size="11.5" fill="#475569">tube deformed; orifice</text>
+    <text x="829" y="202" font-size="11.5" fill="#475569">blocked or split</text>
+  </g>
+
+  <text x="40" y="238" font-size="11.5" fill="#64748b">Severity reflects the cost of the damage and how often it is found in the field, not the probability of freezing.</text>
+
+  <text x="40" y="268" font-size="14" font-weight="700" fill="#0f172a">Two rules set the order of failure</text>
+
+  <rect x="42" y="282" width="450" height="106" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="58" y="306" font-size="13" font-weight="700" fill="#0d9488">The smallest trapped volume freezes first</text>
+  <text x="58" y="330" font-size="12.5" fill="#334155">A nozzle orifice, a gauge tapping or a closed solenoid seat</text>
+  <text x="58" y="350" font-size="12.5" fill="#334155">holds a few millilitres. There is no room for the expansion,</text>
+  <text x="58" y="370" font-size="12.5" fill="#334155">so the pressure arrives almost instantly.</text>
+
+  <rect x="508" y="282" width="450" height="106" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="524" y="306" font-size="13" font-weight="700" fill="#0d9488">Anything that can be isolated holds water</text>
+  <text x="524" y="330" font-size="12.5" fill="#334155">Closing a valve turns a pipe run into a pressure vessel. The</text>
+  <text x="524" y="350" font-size="12.5" fill="#334155">more isolation points a circuit has, the more places water</text>
+  <text x="524" y="370" font-size="12.5" fill="#334155">can be locked into when the pump stops.</text>
+
+  <rect x="42" y="410" width="294" height="194" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="58" y="436" font-size="13" font-weight="700" fill="#0d9488">Damage is a pressure event</text>
+  <g font-size="11.5" fill="#334155">
+    <text x="58" y="462">Water expands about 9% by volume as</text>
+    <text x="58" y="483">it freezes. In a confined cavity that</text>
+    <text x="58" y="504">force has nowhere to go, so cast iron</text>
+    <text x="58" y="525">splits and copper tube swells. The</text>
+    <text x="58" y="546">crack is often invisible from outside</text>
+    <text x="58" y="567">until the machine is pressurised again</text>
+    <text x="58" y="588">on the first warm morning.</text>
+  </g>
+
+  <rect x="353" y="410" width="294" height="194" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="369" y="436" font-size="13" font-weight="700" fill="#0d9488">Hunt the dead legs first</text>
+  <g font-size="11.5" fill="#334155">
+    <text x="369" y="462">Gauge take-offs and sensor lines.</text>
+    <text x="369" y="483">Drain and blow-off valve branches.</text>
+    <text x="369" y="504">Spare outlets on the ring manifold.</text>
+    <text x="369" y="525">Hose reels that are not reeled dry.</text>
+    <text x="369" y="546">Vertical risers with a closed valve at</text>
+    <text x="369" y="567">the top. Filter and strainer bowls, and</text>
+    <text x="369" y="588">the run from pump check to solenoid.</text>
+  </g>
+
+  <rect x="664" y="410" width="294" height="194" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="680" y="436" font-size="13" font-weight="700" fill="#0d9488">Engine-driven sets in winter</text>
+  <g font-size="11.5" fill="#334155">
+    <text x="680" y="462">Battery: a lead-acid battery can</text>
+    <text x="680" y="483">deliver roughly half its cranking</text>
+    <text x="680" y="504">current at -18 C. Diesel: summer</text>
+    <text x="680" y="525">grade waxes near 0 C. DEF/urea:</text>
+    <text x="680" y="546">freezes near -11 C and expands if</text>
+    <text x="680" y="567">the tank is brim-full. Coolant: check</text>
+    <text x="680" y="588">the concentration, not just the level.</text>
+  </g>
+
+  <rect x="40" y="622" width="920" height="48" rx="8" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="58" y="642" font-size="13" fill="#991b1b">A cannon that sprays for six hours and stands for eighteen is a wet machine, not a winterised one.</text>
+  <text x="58" y="661" font-size="13" fill="#991b1b">The question is not how cold it gets, but how long the machine stands full of water.</text>
+</svg>
