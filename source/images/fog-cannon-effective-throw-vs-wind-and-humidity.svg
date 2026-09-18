@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1000" height="640" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">Why Rated Throw Distance Is Not What You Get</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Wind removes droplets from the plume, dry air removes them from existence, and both penalties hit fine spray hardest</text>
+
+  <!-- Panel A -->
+  <rect x="40" y="100" width="440" height="380" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="64" y="134" font-size="16.5" font-weight="700" fill="#0f172a">Effective Reach vs. Wind Speed</text>
+  <text x="64" y="156" font-size="12.5" fill="#64748b">Percentage of rated throw distance that still reaches the source</text>
+
+  <line x1="105" y1="195" x2="455" y2="195" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="105" y1="254" x2="455" y2="254" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="105" y1="313" x2="455" y2="313" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="105" y1="372" x2="455" y2="372" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="105" y1="430" x2="455" y2="430" stroke="#cbd5e1" stroke-width="2"/>
+  <line x1="105" y1="195" x2="105" y2="430" stroke="#cbd5e1" stroke-width="2"/>
+
+  <text x="97" y="199" font-size="11.5" fill="#64748b" text-anchor="end">100</text>
+  <text x="97" y="258" font-size="11.5" fill="#64748b" text-anchor="end">75</text>
+  <text x="97" y="317" font-size="11.5" fill="#64748b" text-anchor="end">50</text>
+  <text x="97" y="376" font-size="11.5" fill="#64748b" text-anchor="end">25</text>
+  <text x="97" y="434" font-size="11.5" fill="#64748b" text-anchor="end">0</text>
+  <text x="66" y="315" font-size="12" font-weight="600" fill="#0f172a" transform="rotate(-90 66 315)" text-anchor="middle">Reach retained (%)</text>
+
+  <polyline points="105,195 175,200 245,204 315,209 385,214 455,219" fill="none" stroke="#f59e0b" stroke-width="3.5" stroke-linejoin="round"/>
+  <polyline points="105,195 175,209 245,228 315,247 385,263 455,277" fill="none" stroke="#2563eb" stroke-width="3.5" stroke-linejoin="round"/>
+  <polyline points="105,195 175,237 245,280 315,317 385,345 455,364" fill="none" stroke="#0d9488" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <text x="175" y="452" font-size="12" fill="#475569" text-anchor="middle">2</text>
+  <text x="245" y="452" font-size="12" fill="#475569" text-anchor="middle">4</text>
+  <text x="315" y="452" font-size="12" fill="#475569" text-anchor="middle">6</text>
+  <text x="385" y="452" font-size="12" fill="#475569" text-anchor="middle">8</text>
+  <text x="455" y="452" font-size="12" fill="#475569" text-anchor="middle">10</text>
+  <text x="105" y="452" font-size="12" fill="#475569" text-anchor="middle">0</text>
+  <text x="280" y="476" font-size="12.5" font-weight="600" fill="#0f172a" text-anchor="middle">Crosswind (m/s)</text>
+
+  <!-- Panel B -->
+  <rect x="520" y="100" width="440" height="380" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="554" y="134" font-size="16.5" font-weight="700" fill="#0f172a">Droplet Lifetime vs. Air Humidity</text>
+  <text x="554" y="156" font-size="12.5" fill="#64748b">Time for a droplet to evaporate completely at 25 degC air temperature</text>
+
+  <line x1="590" y1="195" x2="935" y2="195" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="590" y1="254" x2="935" y2="254" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="590" y1="312" x2="935" y2="312" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="590" y1="371" x2="935" y2="371" stroke="#eef2f7" stroke-width="1"/>
+  <line x1="590" y1="430" x2="935" y2="430" stroke="#cbd5e1" stroke-width="2"/>
+  <line x1="590" y1="195" x2="590" y2="430" stroke="#cbd5e1" stroke-width="2"/>
+
+  <text x="582" y="199" font-size="11.5" fill="#64748b" text-anchor="end">12</text>
+  <text x="582" y="258" font-size="11.5" fill="#64748b" text-anchor="end">9</text>
+  <text x="582" y="316" font-size="11.5" fill="#64748b" text-anchor="end">6</text>
+  <text x="582" y="375" font-size="11.5" fill="#64748b" text-anchor="end">3</text>
+  <text x="582" y="434" font-size="11.5" fill="#64748b" text-anchor="end">0</text>
+  <text x="552" y="315" font-size="12" font-weight="600" fill="#0f172a" transform="rotate(-90 552 315)" text-anchor="middle">Lifetime (seconds)</text>
+
+  <polyline points="590,195 676,215 762,244 848,283 935,322" fill="none" stroke="#f59e0b" stroke-width="3.5" stroke-linejoin="round"/>
+  <polyline points="590,293 676,312 762,336 848,360 935,379" fill="none" stroke="#2563eb" stroke-width="3.5" stroke-linejoin="round"/>
+  <polyline points="590,379 676,391 762,403 848,412 935,418" fill="none" stroke="#0d9488" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <text x="590" y="452" font-size="12" fill="#475569" text-anchor="middle">20</text>
+  <text x="676" y="452" font-size="12" fill="#475569" text-anchor="middle">40</text>
+  <text x="762" y="452" font-size="12" fill="#475569" text-anchor="middle">60</text>
+  <text x="848" y="452" font-size="12" fill="#475569" text-anchor="middle">80</text>
+  <text x="935" y="452" font-size="12" fill="#475569" text-anchor="middle">100</text>
+  <text x="762" y="476" font-size="12.5" font-weight="600" fill="#0f172a" text-anchor="middle">Relative humidity (%)</text>
+
+  <!-- legend -->
+  <line x1="180" y1="502" x2="216" y2="502" stroke="#f59e0b" stroke-width="3.5"/>
+  <text x="226" y="507" font-size="13" fill="#334155">Coarse droplets, above 150 micron: hold their reach in wind, evaporate slowly, but wet the ground</text>
+  <line x1="180" y1="528" x2="216" y2="528" stroke="#2563eb" stroke-width="3.5"/>
+  <text x="226" y="533" font-size="13" fill="#334155">Medium droplets, 100 - 150 micron: the practical working range for most stockyard and transfer point duty</text>
+  <line x1="180" y1="554" x2="216" y2="554" stroke="#0d9488" stroke-width="3.5"/>
+  <text x="226" y="559" font-size="13" fill="#334155">Fine droplets, under 60 micron: best capture of respirable dust, but wind and dry air take them fastest</text>
+
+  <text x="40" y="586" font-size="14" fill="#334155">The design consequence is uncomfortable: the droplets that capture dust best are the droplets that survive transport worst.</text>
+  <text x="40" y="610" font-size="14" fill="#334155">There is no setting that removes the trade-off. There is only a deliberate choice about which penalty the site can live with.</text>
+  <text x="40" y="634" font-size="12.5" fill="#94a3b8">Schematic indicative curves, not measured data. Real values depend on droplet spectrum, air temperature, relative velocity and the water used.</text>
+</svg>

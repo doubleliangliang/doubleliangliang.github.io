@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1000" height="640" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">How a Water Droplet Captures a Dust Particle</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Three capture mechanisms, all of them governed by the ratio of droplet diameter to particle diameter</text>
+
+  <!-- Panel 1: Impaction -->
+  <rect x="40" y="100" width="300" height="290" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="62" y="132" font-size="16.5" font-weight="700" fill="#1e293b">1. Impaction</text>
+  <text x="62" y="156" font-size="12.5" fill="#64748b">A heavy particle cannot follow the</text>
+  <text x="62" y="173" font-size="12.5" fill="#64748b">bending airflow, so it leaves the</text>
+  <text x="62" y="190" font-size="12.5" fill="#64748b">streamline and strikes the droplet.</text>
+  <circle cx="220" cy="288" r="58" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="220" y="293" font-size="12.5" fill="#1e40af" text-anchor="middle">droplet</text>
+  <path d="M 70 228 C 150 230 205 214 272 186" fill="none" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M 70 228 C 125 229 158 248 180 258" fill="none" stroke="#9f1239" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <circle cx="182" cy="259" r="6.5" fill="#9f1239"/>
+  <text x="196" y="252" font-size="12" fill="#9f1239">particle</text>
+  <text x="72" y="216" font-size="12" fill="#94a3b8">airflow</text>
+
+  <!-- Panel 2: Interception -->
+  <rect x="350" y="100" width="300" height="290" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="372" y="132" font-size="16.5" font-weight="700" fill="#1e293b">2. Interception</text>
+  <text x="372" y="156" font-size="12.5" fill="#64748b">A light particle does follow the airflow,</text>
+  <text x="372" y="173" font-size="12.5" fill="#64748b">but the streamline passes within one</text>
+  <text x="372" y="190" font-size="12.5" fill="#64748b">particle radius of the surface.</text>
+  <circle cx="530" cy="288" r="58" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="530" y="293" font-size="12.5" fill="#1e40af" text-anchor="middle">droplet</text>
+  <path d="M 378 240 C 430 258 458 252 489 247 C 525 240 555 226 605 206" fill="none" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M 378 240 C 428 257 456 251 484 248" fill="none" stroke="#9f1239" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <circle cx="486" cy="249" r="6.5" fill="#9f1239"/>
+  <text x="392" y="222" font-size="12" fill="#94a3b8">airflow</text>
+
+  <!-- Panel 3: Diffusion -->
+  <rect x="660" y="100" width="300" height="290" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="682" y="132" font-size="16.5" font-weight="700" fill="#1e293b">3. Diffusion</text>
+  <text x="682" y="156" font-size="12.5" fill="#64748b">Sub-micron particles are buffeted by</text>
+  <text x="682" y="173" font-size="12.5" fill="#64748b">air molecules and wander into the</text>
+  <text x="682" y="190" font-size="12.5" fill="#64748b">droplet without aiming at it.</text>
+  <circle cx="840" cy="288" r="58" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="840" y="293" font-size="12.5" fill="#1e40af" text-anchor="middle">droplet</text>
+  <path d="M 690 240 l 14 10 l -12 12 l 16 10 l -13 11 l 15 9 l -11 11 l 13 8 l -8 9" fill="none" stroke="#9f1239" stroke-width="2.5"/>
+  <circle cx="782" cy="272" r="4" fill="#9f1239"/>
+  <text x="690" y="228" font-size="12" fill="#9f1239">Brownian path</text>
+
+  <!-- Selection chips -->
+  <rect x="40" y="412" width="300" height="96" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="60" y="442" font-size="14" font-weight="700" fill="#0f172a">Respirable dust, PM2.5 - PM5</text>
+  <text x="60" y="466" font-size="12.5" fill="#475569">Needs droplets of 10 - 50 micron</text>
+  <text x="60" y="488" font-size="12.5" fill="#475569">and a short nozzle-to-source distance.</text>
+
+  <rect x="350" y="412" width="300" height="96" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="370" y="442" font-size="14" font-weight="700" fill="#0f172a">PM10 to visible plume</text>
+  <text x="370" y="466" font-size="12.5" fill="#475569">30 - 100 micron is the working range</text>
+  <text x="370" y="488" font-size="12.5" fill="#475569">for stockpiles and transfer points.</text>
+
+  <rect x="660" y="412" width="300" height="96" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="680" y="442" font-size="14" font-weight="700" fill="#0f172a">Coarse knock-down</text>
+  <text x="680" y="466" font-size="12.5" fill="#475569">Above 150 micron wets and pins the</text>
+  <text x="680" y="488" font-size="12.5" fill="#475569">surface, but skips the fine fraction.</text>
+
+  <text x="40" y="552" font-size="14" fill="#334155">The engineering rule: a droplet roughly 10 to 100 times the diameter of the target particle captures it efficiently.</text>
+  <text x="40" y="578" font-size="14" fill="#334155">Add more water below that ratio and you only make bigger droplets, which is a different job from capturing finer dust.</text>
+  <text x="40" y="614" font-size="12.5" fill="#94a3b8">Schematic illustration, not to scale. Capture efficiency also depends on relative velocity, humidity and residence time.</text>
+</svg>
