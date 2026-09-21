@@ -10,9 +10,9 @@ tags:
   - AI Vision
   - PM10
 categories:
-  - 环保治理案例分享
+  - Case Studies
 slug: eagle-eye-fog-cannon-steel-plant-ultra-low-emission
-description: '钢铁行业超低排放的真正难点是无组织扬尘。本文从政策与工况出发，解析鹰眼AI识别与智能雾炮联动的五层架构、雾滴粒径匹配原则、关键选型参数与可审计的效果评估方法，并给出钢铁厂六大产尘点的治理匹配规则。'
+description: 'The hardest part of ultra-low emission retrofits in steel plants is fugitive dust. Starting from policy and real site conditions, this article sets out the five-layer architecture of AI vision plus intelligent fog cannon linkage, the principles of droplet-to-particle matching, the parameters that actually decide selection, an evaluation method that survives audit, and the suppression rule for each of six dust hot spots in an integrated steel plant.'
 keywords: 'ultra-low emission steel plant, fugitive dust control, fog cannon, dry fog system, AI dust detection, PM10 suppression, stockyard dust'
 cover: /images/eagle-eye-fog-cannon-system-architecture.svg
 ---
@@ -31,8 +31,6 @@ Fugitive emission is difficult for three structural reasons. It is **distributed
 
 The policy drafting anticipated this. Beyond concentration limits, it requires enclosed or sealed storage and conveying, and it states plainly that **no visible dust may escape from dust-generating points or workshops**. That sentence is a visual criterion, not a numerical one - which is exactly why the newest wave of projects is being built around cameras and inference rather than around timers.
 
-**中文要点** — 有组织排放的治理技术已成熟，超低排放验收卡点几乎都落在无组织扬尘上：点位分散、排放瞬时、长期缺乏监测数据。政策同时给出"产尘点及车间不得有可见烟粉尘外逸"这一视觉指标，天然适配 AI 视频识别，这是"鹰眼"路线成立的政策基础。
-
 ## What "Eagle-Eye" Actually Changes: From Timed Spraying to Event-Driven Suppression
 
 The conventional setup is a timer and a contactor. Every thirty minutes the whole stockyard sprays for five minutes, whether or not anything is moving. It is simple, it is defensible on paper, and it fails in three ways at once. Water and power are consumed on empty yard. Operators turn the system off in winter because of icing and in summer because material gets too wet for the belt. And when an inspector asks what happened during last Tuesday's shift, there is no record of anything.
@@ -40,8 +38,6 @@ The conventional setup is a timer and a contactor. Every thirty minutes the whol
 An eagle-eye system replaces the clock with an event. Multi-source perception - AI cameras, online particulate monitors, weather station - feeds a threshold engine that decides whether dust is being generated, where, and how severely. Suppression equipment in that specific zone is then triggered automatically, with a preset spray programme, and the result is verified against the same sensors that raised the alarm.
 
 The practical difference is not philosophical. Response moves from minutes to seconds, only the affected zone runs instead of the whole yard, and every action leaves an image pair and a concentration curve behind. Water and power consumption typically drop substantially simply because the system stops spraying at nothing.
-
-**中文要点** — 鹰眼的核心不是"装了摄像头"，而是把触发条件从"时间"换成"事件"：识别到扬尘或产尘作业才喷、只喷对应分区、喷完用同一套传感器复核并留痕。直接收益是水电气耗下降、响应进入秒级、监管检查有据可查。
 
 ## System Architecture: Five Layers from Perception to Verification
 
@@ -59,8 +55,6 @@ The architecture that works in a plant environment is a five-layer loop, and the
 
 **Data and verification.** Zone status, alarm lists, equipment availability, image pairs, water and power logs and compliance records - all exported on a schedule an auditor can read.
 
-**中文要点** — 五层架构（感知 / 边缘AI / 联动控制 / 抑尘执行 / 数据核验）中，闭环比任何单点技术更重要。三个易被忽略的细节：气象站是刚需（决定雾是否落在扬尘上）；AI 必须能区分水汽与粉尘（钢铁厂最大误报源）；网关要保留操作员的最终控制权。
-
 ## Where the Dust Is: Six Hot Spots in an Integrated Steel Plant
 
 ![Fugitive dust source map of an integrated steel plant with matching suppression measures](/images/steel-plant-fugitive-dust-sources-map.svg)
@@ -75,8 +69,6 @@ The architecture that works in a plant environment is a five-layer loop, and the
 | Slag yard and haul road | Coarse, re-suspended by vehicles | Cannon + sweeper + wheel wash | Road hardening and cleaning matter more than spray |
 
 The matching rule is straightforward. **Open and wind-driven** sources need reach and volume. **Confined and continuous** sources need fine droplets and very little water. **Hot process sources with strong gas flow** need capture first; spraying into a rising thermal plume mostly wastes water.
-
-**中文要点** — 六类产尘点的治理逻辑不同：开放受风型靠射程与覆盖量；封闭连续型靠微雾与低加湿（防止皮带打滑、堵料）；高温有气流型必须先捕集再谈喷雾。雾炮不是万能，位置选错等于花钱买噪音。
 
 ## The Parameters That Actually Decide the Outcome
 
@@ -102,8 +94,6 @@ A loader pass generates a plume that peaks within seconds. If recognition plus a
 
 Lenses get dirty, bearings get dust, and cast-house areas are hot. Specify IP55 or better on electrical cabinets, corrosion protection appropriate to a sinter or slag atmosphere, automatic lens cleaning or a maintainable cleaning interval, and a spare-part list that matches the site's own maintenance rhythm.
 
-**中文要点** — 选型的五个真参数：有效射程（铭牌值是静风工况，需考虑侧风衰减与覆盖冗余）；雾滴粒径谱（粗雾压可见烟羽、微雾才对 PM10/PM2.5 有效，且必须靠近源头）；加湿量与防冻（与生产部门先约定含水率上限）；联动时延（端到端秒级，否则雾到尘已走）；防护与可维护性（IP55、防腐、镜头自清洁、备件）。
-
 ## Control Logic: The Six-Step Closed Loop
 
 ![Closed-loop control workflow from monitoring and identification to verification and recording](/images/ultra-low-emission-control-loop.svg)
@@ -113,8 +103,6 @@ Monitor, identify, grade, trigger, verify, record. The value is concentrated in 
 Grading turns a binary alarm into a proportionate response: Level I runs a short local burst, Level II runs the full preset for the zone, Level III escalates to the operator console with the image attached. Verification closes the loop - if the plume does not clear within the expected window, the system escalates instead of silently spraying forever, which is also what prevents a stuck valve from running a pump all shift.
 
 Tuning never ends. Thresholds that are too tight generate nuisance alarms and the operators will mute the system within a month; thresholds that are too loose mean the inspector sees dust the system never noticed. Expect two to four weeks of on-site tuning per plant, and budget for it.
-
-**中文要点** — 分级（I/II/III 对应不同喷射强度与 escalation）与复核（未达标自动升级而非无限喷淋）是闭环的两个关键。阈值需要现场 2~4 周调优：过紧导致误报被操作员静音，过松导致监管看到扬尘而系统无感。
 
 ## How to Prove It Works: An Evaluation Method That Survives Audit
 
@@ -128,8 +116,6 @@ Dust projects lose credibility through bad measurement, not bad equipment. A def
 
 **Track the inputs.** Water, electricity, run hours and equipment availability per zone. A system that halves consumption while holding concentrations is the result a CFO and an EHS manager can both sign.
 
-**中文要点** — 效果评估四原则：同点位同气象窗口对比、用连续在线数据而非瞬时抽查、把"可见烟粉尘外逸次数"做成 AI 可统计的 KPI、同时记录水电与设备可用率。避免用不同天气的数据互相比较，也不要只比日均值。
-
 ## Six Common Pitfalls
 
 1. **Buying on nameplate throw alone.** Reach without droplet data, coverage drawing and wind assumptions is marketing, not engineering.
@@ -138,8 +124,6 @@ Dust projects lose credibility through bad measurement, not bad equipment. A def
 4. **Coarse spray for fine dust.** Visible plume disappears, PM10 barely moves, and the monitoring data says nothing changed.
 5. **No interlock with operations.** Linking to tapping signals, belt running signals and truck presence turns a reactive system into a predictive one.
 6. **No maintenance contract, no data owner.** Both are cheap to plan and expensive to retrofit.
-
-**中文要点** — 六个高频坑：只看铭牌射程、用一台超大炮覆盖全场、不考虑风向、用粗雾对付细颗粒、不与生产信号（出铁、皮带、车辆）联动、没有运维与数据责任人。
 
 ## The Purchase Price Is the Smallest Number: Reliability Decides the Real Cost
 
@@ -163,15 +147,11 @@ A more useful comparison sheet has different columns:
 
 One practical proxy for the last two: how long the supplier has been doing this exact job, in this exact industry. Vendors with years of accumulated field cases in steel, mining and bulk material handling design against the failure modes that actually occur - nozzle clogging, icing, corrosion, continuous duty - because they have already paid for them. Fenghua Environmental is one of them: decades of work on air-assisted spray dust suppression, the first drafting unit of the industry standard JB/T 13562-2018, and a range that runs from 30 m dry-fog units to 300 m long-range cannons. The brochure is the least interesting part. What matters is that the design iterations, the spare parts and the service people already exist when a plant needs them in year six.
 
-**中文要点** — 报价单上的射程、流量、单价，都预测不了五年总成本。三个隐性成本：① 效果不达标等于二次采购，且往往赶在合规节点前返工，代价最高；② 质量不稳定由生产工时买单，合规要求连续达标（月度 95% 时段），而料场与通廊检修还要避让生产；③ 工业设计缺陷缩短寿命，提前更换的成本包含基础、管线、电气、重装与停机窗口。选型应把"单价"换成全生命周期维度：关键件品牌与备件可得性、防腐与防护等级、同类工况连续运行记录、设计迭代年限、书面服务响应。**优先选择在钢铁与散料行业有长期沉淀、案例可核查的供应商。**
-
 ## Outlook: Dust Control Is Becoming an Operational Data Problem
 
 The direction of travel is clear. Fugitive dust management is shifting from "install equipment" to "run a data loop" - event recognition instead of schedules, per-zone accountability instead of yard-wide averages, and evidence generated as a by-product of operation rather than assembled before an audit. As more plants complete ultra-low emission retrofits, the competitive differentiator will not be whether a cannon can throw 120 metres. It will be whether the plant can show, for any given shift last year, what the air did and what it did about it.
 
 One useful instrument for getting there is the sector's own technical baseline: JB/T 13562-2018, *Technical specification for air-assisted spray dust suppression devices*, issued on 4 July 2018 and implemented on 1 May 2019. Writing performance requirements in the terms that standard uses - rather than in brochure terms - is the cheapest way to make competing quotations genuinely comparable.
-
-**中文要点** — 无组织治理正从"装设备"转向"跑数据闭环"：事件识别替代定时、分区考核替代全场均值、证据由运行过程自然产生。未来竞争力不在射程数字，而在能否为任意一班次调出当时的空气状况与处置记录。
 
 ## Keep the Conversation Going
 
@@ -181,10 +161,3 @@ If you are working through a specific case — a stockyard that keeps failing th
 
 - Website: <http://www.cannonsprayer.com/>
 - Email: <greenpath19960117@gmail.com>
-
-## 中文摘要
-
-钢铁行业超低排放改造进入收官阶段，有组织排放治理已相对成熟，验收的真正卡点集中在无组织扬尘。按政策口径，无组织排放占钢铁行业颗粒物排放的一半以上，吨钢无组织颗粒物排放水平仍显著高于发达产钢国。本文提出：以"鹰眼"AI 视频识别 + 颗粒物与气象在线监测构成感知层，通过边缘推理区分粉尘与水汽、识别卸料/装载/转运/出铁等产尘作业，再按分区联动雾炮、干雾等执行设备，并最终用同一套传感器复核留痕，形成"监测—识别—分级—联动—复核—留痕"的闭环。文章给出五层系统架构、钢铁厂六大产尘点（料场、转运站、烧结、高炉出铁场、炼钢、渣场与道路）的治理匹配规则，重点讨论有效射程与侧风衰减、雾滴粒径与粉尘粒径的匹配原则（粗雾压烟羽、微雾治 PM10/PM2.5）、加湿量与防冻、联动时延、防护与可维护性五项选型参数，并提出"同点位同气象窗口、连续在线数据、可见烟粉尘外逸事件计数、水电与可用率台账"的可审计评估方法。最后列出六类常见工程误区。适用于钢铁企业环保与生产管理人员、设计单位及治理设备选型参考。
-
-- 公司网站：<http://www.cannonsprayer.com/>
-- 联系邮箱：<greenpath19960117@gmail.com>

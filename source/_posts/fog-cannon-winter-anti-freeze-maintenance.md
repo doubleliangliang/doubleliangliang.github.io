@@ -8,7 +8,7 @@ tags:
   - dust suppression
   - operation and maintenance
 categories:
-  - 环保治理案例分享
+  - Case Studies
 description: 'Winter anti-freeze care for fog cannon equipment: freezing is a pressure event rather than a slow process, and the risk window opens well above 0 °C. Ranked freeze-damage priorities by wetted component, plus shutdown draining, air blow-out, restart checks, freeze protection and a maintenance calendar.'
 ---
 

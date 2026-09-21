@@ -11,7 +11,7 @@ tags:
   - Urban Dust
   - Dry Fog
 categories:
-  - 环保治理案例分享
+  - Case Studies
 description: Where a fog cannon or anti-smog gun actually reduces dust and haze, and where it cannot. Droplet-to-particle matching, the six applications worth the money, the four situations that need a different answer, and the questions that expose an inflated specification.
 ---
 

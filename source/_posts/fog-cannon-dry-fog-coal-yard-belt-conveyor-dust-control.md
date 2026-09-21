@@ -13,7 +13,7 @@ tags:
   - PM10
   - Dust Suppression
 categories:
-  - 环保治理案例分享
+  - Case Studies
 slug: fog-cannon-dry-fog-coal-yard-belt-conveyor-dust-control
 description: 'Coal handling is where a thermal power plant loses control of fugitive dust. This article maps the four stages from unloading to storage, explains when a long-range fog cannon beats a micron dry fog system and when it does not, and sets out the interlock, moisture and acceptance rules that decide whether a project survives its first winter.'
 keywords: 'fog cannon, dry fog system, coal yard dust control, belt conveyor dust suppression, thermal power plant, fugitive dust, transfer point, PM10'

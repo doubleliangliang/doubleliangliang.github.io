@@ -10,7 +10,7 @@ tags:
   - Explosion Protection
   - Equipment Selection
 categories:
-  - 环保治理案例分享
+  - Case Studies
 description: Droplet size, atomisation, transport and evaporation. The six physical principles that decide whether a fog cannon actually suppresses dust, how to read a specification sheet against them, and the ten questions worth asking any supplier — including automation, service life, explosion protection and coastal corrosion.
 ---
 
