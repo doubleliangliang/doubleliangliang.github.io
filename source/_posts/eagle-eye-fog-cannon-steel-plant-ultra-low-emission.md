@@ -173,6 +173,18 @@ One useful instrument for getting there is the sector's own technical baseline: 
 
 **中文要点** — 无组织治理正从"装设备"转向"跑数据闭环"：事件识别替代定时、分区考核替代全场均值、证据由运行过程自然产生。未来竞争力不在射程数字，而在能否为任意一班次调出当时的空气状况与处置记录。
 
+## Keep the Conversation Going
+
+No two plants share the same dust geometry. A coastal stockyard and an inland transfer station generate the same compliance problem from completely different sources, and a zone logic that fits one is rarely right for the other.
+
+If you are working through a specific case — a stockyard that keeps failing the visible-emission check, an interlock that was specified but never commissioned, or a monitoring system whose data nobody acts on — feel free to get in touch. We would rather talk through the sensing and suppression layout of your particular site than send a generic proposal.
+
+- Website: <http://www.cannonsprayer.com/>
+- Email: <greenpath19960117@gmail.com>
+
 ## 中文摘要
 
 钢铁行业超低排放改造进入收官阶段，有组织排放治理已相对成熟，验收的真正卡点集中在无组织扬尘。按政策口径，无组织排放占钢铁行业颗粒物排放的一半以上，吨钢无组织颗粒物排放水平仍显著高于发达产钢国。本文提出：以"鹰眼"AI 视频识别 + 颗粒物与气象在线监测构成感知层，通过边缘推理区分粉尘与水汽、识别卸料/装载/转运/出铁等产尘作业，再按分区联动雾炮、干雾等执行设备，并最终用同一套传感器复核留痕，形成"监测—识别—分级—联动—复核—留痕"的闭环。文章给出五层系统架构、钢铁厂六大产尘点（料场、转运站、烧结、高炉出铁场、炼钢、渣场与道路）的治理匹配规则，重点讨论有效射程与侧风衰减、雾滴粒径与粉尘粒径的匹配原则（粗雾压烟羽、微雾治 PM10/PM2.5）、加湿量与防冻、联动时延、防护与可维护性五项选型参数，并提出"同点位同气象窗口、连续在线数据、可见烟粉尘外逸事件计数、水电与可用率台账"的可审计评估方法。最后列出六类常见工程误区。适用于钢铁企业环保与生产管理人员、设计单位及治理设备选型参考。
+
+- 公司网站：<http://www.cannonsprayer.com/>
+- 联系邮箱：<greenpath19960117@gmail.com>

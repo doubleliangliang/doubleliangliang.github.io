@@ -152,3 +152,12 @@ A more useful comparison sheet asks about the brand and local availability of pu
 The direction of travel in coal handling is the same as in every other bulk material industry. Fugitive dust is becoming an operating data problem rather than a procurement problem: interlocked instead of timed, per-zone instead of yard-wide, and evidenced continuously instead of assembled before an audit. Plants that make that shift end up with lower water consumption and a better compliance position than plants that simply bought a bigger machine.
 
 The technology is not the constraint. The constraint is whether the moisture ceiling was agreed, whether the interlock was commissioned, and whether somebody still owns the nozzles in year three.
+
+## Keep the Conversation Going
+
+Coal handling is a set of specific problems rather than a category. A stacker-reclaimer face, a transfer tower and an open stockyard each want a different droplet spectrum and a different trigger logic, and the moisture ceiling that suits one often rules out another.
+
+If you are working through a specific case — a belt transfer point that will not settle, a stockpile that keeps re-entraining, or a specification sheet you are trying to read against a real dust source — feel free to get in touch. We are happy to work the layout through with you rather than send a generic recommendation.
+
+- Website: <http://www.cannonsprayer.com/>
+- Email: <greenpath19960117@gmail.com>

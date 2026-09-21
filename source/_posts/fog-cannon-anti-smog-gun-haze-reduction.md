@@ -54,7 +54,7 @@ The governing principle: **capture efficiency is best when droplets and particle
 | What you are aiming at | Typical particle size | Droplet band that works | Correct tool |
 | --- | --- | --- | --- |
 | Visible dust plume, coarse yard dust | largely above 50 µm | 100–200 µm | Cannon, high flow, low pressure |
-| PM10 from traffic, demolition, material handling | 10–100 µm | 50–150 µm | Standard cannon, spectrum centred lower |
+| PM10 from traffic, demolition, material handling | 10–100 µm | 10–150 µm | Standard cannon, spectrum centred lower |
 | Fine primary particulate and odour-carrying aerosols | under 2.5 µm | 1–10 µm | Dry fog system at the generation point |
 | Secondary PM2.5: sulphate, nitrate, organics | under 1 µm, formed in the atmosphere | — | Not a capture target. Source control, not spraying |
 

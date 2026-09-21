@@ -1,5 +1,5 @@
 ---
-title: 冬季保养提醒-雾炮设备防冻运维
+title: 'Winter Maintenance Notice: Anti-Freeze Care for Fog Cannon Equipment'
 date: 2026-09-18 10:37:17
 tags:
   - winter maintenance
@@ -9,7 +9,7 @@ tags:
   - operation and maintenance
 categories:
   - 环保治理案例分享
-description: 雾炮设备冬季防冻运维要点：结冰是压力事件而非缓慢过程，风险窗口远高于 0 ℃；按水路过流部件排出冻损优先级，给出停用泄水、气吹、重启检查、防冻配置与维护日历的完整做法。
+description: 'Winter anti-freeze care for fog cannon equipment: freezing is a pressure event rather than a slow process, and the risk window opens well above 0 °C. Ranked freeze-damage priorities by wetted component, plus shutdown draining, air blow-out, restart checks, freeze protection and a maintenance calendar.'
 ---
 
 Winter is the season when dust control matters most, and also the season when the equipment delivering it is least reliable. Cold air holds very little moisture, the wind is stronger, and in heating season the surfaces that were damp all summer are dry. The visible plume at a transfer point travels further and stays airborne longer, so the months with the highest dust load are exactly the months when a machine that stands idle overnight is most likely to be out of service.
