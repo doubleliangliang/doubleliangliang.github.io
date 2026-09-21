@@ -123,4 +123,4 @@ Every site is different. The exposure, the operating pattern, the water quality 
 If you are working through the same problem on your own site — or you want a second opinion on where your spray system is most exposed before the first frost arrives — feel free to get in touch and compare notes.
 
 - Website: <http://www.cannonsprayer.com/>
-- Email: <267311826@qq.com>
+- Email: <greenpath19960117@gmail.com>

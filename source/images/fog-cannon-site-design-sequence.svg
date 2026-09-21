@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1000" height="700" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">Six Decisions Before a Machine Is Ordered</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Installations that disappoint are rarely the wrong machine — they are the right machine chosen out of sequence</text>
+
+  <!-- spine -->
+  <line x1="62" y1="128" x2="62" y2="582" stroke="#f3c9d2" stroke-width="2"/>
+
+  <!-- step 1 -->
+  <circle cx="62" cy="136" r="15" fill="#A31F34"/>
+  <text x="62" y="141" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="100" y="132" font-size="15" font-weight="700" fill="#0f172a">Map every source on site</text>
+  <text x="100" y="152" font-size="12.5" fill="#64748b">Each source, its geometry, airborne or on a surface, and what drives it</text>
+  <rect x="640" y="118" width="320" height="42" rx="8" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1"/>
+  <text x="656" y="136" font-size="11" font-weight="700" fill="#A31F34">SKIP IT AND</text>
+  <text x="656" y="152" font-size="12" fill="#334155">the machine is sized by guesswork</text>
+
+  <!-- step 2 -->
+  <circle cx="62" cy="212" r="15" fill="#A31F34"/>
+  <text x="62" y="217" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="100" y="208" font-size="15" font-weight="700" fill="#0f172a">Decide the mechanism</text>
+  <text x="100" y="228" font-size="12.5" fill="#64748b">Airborne capture or surface conditioning: different nozzle and control logic</text>
+  <rect x="640" y="194" width="320" height="42" rx="8" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1"/>
+  <text x="656" y="212" font-size="11" font-weight="700" fill="#A31F34">SKIP IT AND</text>
+  <text x="656" y="228" font-size="12" fill="#334155">you buy the right size of the wrong machine</text>
+
+  <!-- step 3 -->
+  <circle cx="62" cy="288" r="15" fill="#A31F34"/>
+  <text x="62" y="293" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="100" y="284" font-size="15" font-weight="700" fill="#0f172a">Size for throw, under stated conditions</text>
+  <text x="100" y="304" font-size="12.5" fill="#64748b">Wind speed, elevation angle, supply pressure and residual droplet density</text>
+  <rect x="640" y="270" width="320" height="42" rx="8" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1"/>
+  <text x="656" y="288" font-size="11" font-weight="700" fill="#A31F34">SKIP IT AND</text>
+  <text x="656" y="304" font-size="12" fill="#334155">a marketing number becomes the design basis</text>
+
+  <!-- step 4 -->
+  <circle cx="62" cy="364" r="15" fill="#A31F34"/>
+  <text x="62" y="369" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="100" y="360" font-size="15" font-weight="700" fill="#0f172a">Solve the water</text>
+  <text x="100" y="380" font-size="12.5" fill="#64748b">Flow, supply pressure, water quality, filtration, backwash, recycled water</text>
+  <rect x="640" y="346" width="320" height="42" rx="8" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1"/>
+  <text x="656" y="364" font-size="11" font-weight="700" fill="#A31F34">SKIP IT AND</text>
+  <text x="656" y="380" font-size="12" fill="#334155">weekly manual cleaning, or a machine that stalls</text>
+
+  <!-- step 5 -->
+  <circle cx="62" cy="440" r="15" fill="#A31F34"/>
+  <text x="62" y="445" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="100" y="436" font-size="15" font-weight="700" fill="#0f172a">Solve the control</text>
+  <text x="100" y="456" font-size="12.5" fill="#64748b">Remote control is not automation: trigger from dust, weather or vision</text>
+  <rect x="640" y="422" width="320" height="42" rx="8" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1"/>
+  <text x="656" y="440" font-size="11" font-weight="700" fill="#A31F34">SKIP IT AND</text>
+  <text x="656" y="456" font-size="12" fill="#334155">one operator per machine, permanently</text>
+
+  <!-- step 6 -->
+  <circle cx="62" cy="516" r="15" fill="#A31F34"/>
+  <text x="62" y="521" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+  <text x="100" y="512" font-size="15" font-weight="700" fill="#0f172a">Solve the two seasons</text>
+  <text x="100" y="532" font-size="12.5" fill="#64748b">Freeze protection for winter; droplet spectrum and machine count for dry heat</text>
+  <rect x="640" y="498" width="320" height="42" rx="8" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1"/>
+  <text x="656" y="516" font-size="11" font-weight="700" fill="#A31F34">SKIP IT AND</text>
+  <text x="656" y="532" font-size="12" fill="#334155">it works in April and not in January</text>
+
+  <!-- footer -->
+  <line x1="40" y1="600" x2="960" y2="600" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="40" y="626" font-size="13.5" fill="#334155">Steps 1 to 3 decide whether the plume reaches the dust. Steps 4 to 6 decide whether the machine still does it in year three.</text>
+  <text x="40" y="648" font-size="13.5" fill="#334155">All six are cheaper to change before the order than after it.</text>
+  <text x="40" y="678" font-size="12" fill="#94a3b8">Fenghua Environmental · Guangdong Fenghua Environmental Protection Equipment Co., Ltd.</text>
+</svg>

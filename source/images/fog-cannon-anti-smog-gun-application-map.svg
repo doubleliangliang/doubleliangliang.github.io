@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1000" height="640" fill="#ffffff"/>
+  <text x="40" y="46" font-size="26" font-weight="700" fill="#0f172a">Where a Fog Cannon or Anti-Smog Gun Earns Its Place</text>
+  <text x="40" y="72" font-size="15" fill="#64748b">Six applications, what each one actually fixes, and the form of machine that fits it</text>
+
+  <!-- card 1 -->
+  <rect x="40" y="106" width="290" height="182" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="40" y="106" width="5" height="182" rx="2.5" fill="#A31F34"/>
+  <text x="62" y="136" font-size="15.5" font-weight="700" fill="#0f172a">City roads</text>
+  <text x="62" y="162" font-size="12" fill="#64748b">FIXED</text>
+  <text x="106" y="162" font-size="12.5" fill="#334155">The overnight dust reservoir,</text>
+  <text x="62" y="180" font-size="12.5" fill="#334155">re-entrained by the morning peak</text>
+  <text x="62" y="210" font-size="12" fill="#64748b">FORM</text>
+  <text x="106" y="210" font-size="12.5" fill="#334155">Mobile cannon truck on the main</text>
+  <text x="62" y="228" font-size="12.5" fill="#334155">corridors; pole-mounted misting</text>
+  <text x="62" y="246" font-size="12.5" fill="#334155">lines where resuspension is worst</text>
+
+  <!-- card 2 -->
+  <rect x="350" y="106" width="290" height="182" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="350" y="106" width="5" height="182" rx="2.5" fill="#A31F34"/>
+  <text x="372" y="136" font-size="15.5" font-weight="700" fill="#0f172a">Demolition and construction</text>
+  <text x="372" y="162" font-size="12" fill="#64748b">FIXED</text>
+  <text x="416" y="162" font-size="12.5" fill="#334155">Dust released in bursts from</text>
+  <text x="372" y="180" font-size="12.5" fill="#334155">breaking, dropping and wind gusts</text>
+  <text x="372" y="210" font-size="12" fill="#64748b">FORM</text>
+  <text x="416" y="210" font-size="12.5" fill="#334155">Cannon placed downwind and</text>
+  <text x="372" y="228" font-size="12.5" fill="#334155">started before the wall comes</text>
+  <text x="372" y="246" font-size="12.5" fill="#334155">down — plus gate wheel-wash</text>
+
+  <!-- card 3 -->
+  <rect x="660" y="106" width="290" height="182" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="660" y="106" width="5" height="182" rx="2.5" fill="#A31F34"/>
+  <text x="682" y="136" font-size="15.5" font-weight="700" fill="#0f172a">Open stockyards</text>
+  <text x="682" y="162" font-size="12" fill="#64748b">FIXED</text>
+  <text x="726" y="162" font-size="12.5" fill="#334155">Wind lift-off from coal, ore,</text>
+  <text x="682" y="180" font-size="12.5" fill="#334155">aggregate and sand</text>
+  <text x="682" y="210" font-size="12" fill="#64748b">FORM</text>
+  <text x="726" y="210" font-size="12.5" fill="#334155">Fixed cannon on oscillation,</text>
+  <text x="682" y="228" font-size="12.5" fill="#334155">sized on coverage geometry —</text>
+  <text x="682" y="246" font-size="12.5" fill="#334155">surface conditioning does the work</text>
+
+  <!-- card 4 -->
+  <rect x="40" y="306" width="290" height="182" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="40" y="306" width="5" height="182" rx="2.5" fill="#0e7490"/>
+  <text x="62" y="336" font-size="15.5" font-weight="700" fill="#0f172a">Waste transfer and landfill</text>
+  <text x="62" y="362" font-size="12" fill="#64748b">FIXED</text>
+  <text x="106" y="362" font-size="12.5" fill="#334155">Dust and odour together, over</text>
+  <text x="62" y="380" font-size="12.5" fill="#334155">a working face below grade</text>
+  <text x="62" y="410" font-size="12" fill="#64748b">FORM</text>
+  <text x="106" y="410" font-size="12.5" fill="#334155">Tower-mounted cannon with a</text>
+  <text x="62" y="428" font-size="12.5" fill="#334155">permitted agent dosed into the</text>
+  <text x="62" y="446" font-size="12.5" fill="#334155">spray line</text>
+
+  <!-- card 5 -->
+  <rect x="350" y="306" width="290" height="182" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="350" y="306" width="5" height="182" rx="2.5" fill="#0e7490"/>
+  <text x="372" y="336" font-size="15.5" font-weight="700" fill="#0f172a">Plant boundaries</text>
+  <text x="372" y="362" font-size="12" fill="#64748b">FIXED</text>
+  <text x="416" y="362" font-size="12.5" fill="#334155">Many scattered fugitive sources,</text>
+  <text x="372" y="380" font-size="12.5" fill="#334155">unattended for most of the shift</text>
+  <text x="372" y="410" font-size="12" fill="#64748b">FORM</text>
+  <text x="416" y="410" font-size="12.5" fill="#334155">Machine vision triggering a</text>
+  <text x="372" y="428" font-size="12.5" fill="#334155">cannon matrix as one closed</text>
+  <text x="372" y="446" font-size="12.5" fill="#334155">loop; noise judged at 20 m</text>
+
+  <!-- card 6 -->
+  <rect x="660" y="306" width="290" height="182" rx="12" fill="#fbfdff" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="660" y="306" width="5" height="182" rx="2.5" fill="#94a3b8"/>
+  <text x="682" y="336" font-size="15.5" font-weight="700" fill="#0f172a">Public space cooling</text>
+  <text x="682" y="362" font-size="12" fill="#64748b">FIXED</text>
+  <text x="726" y="362" font-size="12.5" fill="#334155">Local air temperature — a real</text>
+  <text x="682" y="380" font-size="12.5" fill="#334155">benefit, but a different one</text>
+  <text x="682" y="410" font-size="12" fill="#64748b">FORM</text>
+  <text x="726" y="410" font-size="12.5" fill="#334155">Roof- and mast-mounted units</text>
+  <text x="682" y="428" font-size="12.5" fill="#334155">over squares, interchanges and</text>
+  <text x="682" y="446" font-size="12.5" fill="#334155">walkways — argue it separately</text>
+
+  <!-- footer -->
+  <rect x="40" y="518" width="910" height="82" rx="12" fill="#fdf3f5" stroke="#f3c9d2" stroke-width="1.5"/>
+  <text x="64" y="548" font-size="13.5" font-weight="700" fill="#A31F34">NOT ON THIS MAP</text>
+  <text x="64" y="572" font-size="13" fill="#334155">Stack plumes and buoyant release points · gaseous precursors NOₓ, SO₂ and VOCs · secondary PM2.5 that forms in the atmosphere</text>
+  <text x="64" y="592" font-size="13" fill="#334155">downwind over hours. No water-based device at ground level removes any of the three.</text>
+</svg>

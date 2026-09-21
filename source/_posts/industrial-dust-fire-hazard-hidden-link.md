@@ -153,7 +153,7 @@ The five elements will line up eventually in any plant that generates dust. The 
 Every plant is different — the dust, the process temperature, the building and the cleaning culture never line up the same way twice. If you are working through a similar problem on your own site, or you want a second opinion on how your dust behaves before specifying anything, feel free to get in touch and compare notes.
 
 - Website: <http://www.cannonsprayer.com/>
-- Email: <267311826@qq.com>
+- Email: <greenpath19960117@gmail.com>
 
 ## 中文摘要
 
@@ -168,4 +168,4 @@ Every plant is different — the dust, the process temperature, the building and
 每个现场的粉尘特性、工艺温度、厂房条件与清扫习惯都不一样。如果您也在处理类似问题，或想在选型前先摸清自家粉尘的脾气，欢迎继续交流：
 
 - 公司网站：<http://www.cannonsprayer.com/>
-- 联系邮箱：<267311826@qq.com>
+- 联系邮箱：<greenpath19960117@gmail.com>

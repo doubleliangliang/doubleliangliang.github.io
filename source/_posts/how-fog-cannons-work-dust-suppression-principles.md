@@ -195,4 +195,4 @@ Every site has a different dust source geometry, a different climate and a diffe
 If you are working through a specific problem — a transfer point that will not settle, a machine that underperforms in the afternoon, a specification sheet you are trying to read against a real dust source — feel free to get in touch. We are happy to talk through the physics of your particular case rather than a generic recommendation.
 
 - Website: <http://www.cannonsprayer.com/>
-- Email: <267311826@qq.com>
+- Email: <greenpath19960117@gmail.com>
