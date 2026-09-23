@@ -88,7 +88,7 @@ Set aside for a moment the question of which machine to buy. The useful question
 | Packing machine, bag loading, bulk loading heads | Finished product, at the operator's position | Enclosure plus local extraction; micro-mist only as a supplement | The mist must evaporate on contact and be interlocked with loading |
 | Coal yard, coal mill, coal silo | Combustible | Protection matched to the application, plus wet or vacuum housekeeping | Never compressed-air cleaning; moisture and temperature both controlled |
 
-Two entries in that table are stated as a limit rather than an application, and that is deliberate. A cement plant's finished-cement section is not a place where a suppression system is compensating for a weak enclosure — it is a place where the enclosure and the extraction *are* the dust control. Saying so plainly is more useful than overselling a machine into an application where it will be switched off within a season by the people running the plant.
+Two entries in that table are stated as a limit rather than an application, and that is deliberate. A cement plant's finished-cement section is not a place where a suppression system is compensating for a weak enclosure — it is a place where the enclosure and the extraction *are* the dust control. Saying so plainly is more useful than overselling a machine into an application where the people running the plant will switch it off.
 
 ## Two Mechanisms, Two Jobs
 
