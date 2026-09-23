@@ -81,20 +81,19 @@
   <text x="47" y="386" font-size="12.5" font-weight="700" fill="#3C3C3C">1. Steam is not dust.</text>
   <text x="47" y="406" font-size="12.5" fill="#4A3A3E">The clinker cooler, the waste-heat boiler and wet material all produce</text>
   <text x="47" y="423" font-size="12.5" fill="#4A3A3E">white plumes. If the model cannot tell them apart, nuisance alarms will</text>
-  <text x="47" y="440" font-size="12.5" fill="#4A3A3E">destroy operator confidence within a month.</text>
+  <text x="47" y="440" font-size="12.5" fill="#4A3A3E">erode operator confidence in the system.</text>
   <text x="47" y="470" font-size="12.5" font-weight="700" fill="#3C3C3C">2. Thresholds are per zone.</text>
   <text x="47" y="490" font-size="12.5" fill="#4A3A3E">An alarm level that makes sense at a raw mill discharge is meaningless</text>
-  <text x="47" y="507" font-size="12.5" fill="#4A3A3E">at a bagging line. Budget two to four weeks of on-site tuning per plant.</text>
+  <text x="47" y="507" font-size="12.5" fill="#4A3A3E">at a bagging line — they get set on site, during commissioning.</text>
 
   <!-- RIGHT BOX -->
   <rect x="613" y="326" width="560" height="200" rx="10" fill="#F7F9FA" stroke="#DCE6EC" stroke-width="1.5"/>
-  <text x="633" y="356" font-size="12" font-weight="700" fill="#2E6F8E" letter-spacing="1.2">PROVING IT WORKS: FOUR RULES</text>
-  <text x="633" y="386" font-size="12.5" fill="#2B4A5A">• Same point, comparable weather — never a calm day against a windy one.</text>
-  <text x="633" y="410" font-size="12.5" fill="#2B4A5A">• Continuous data, not spot checks: online TSP and PM10 at one-minute</text>
-  <text x="633" y="427" font-size="12.5" fill="#2B4A5A">&#160;&#160;resolution, at the hot spots and at the fence line.</text>
-  <text x="633" y="451" font-size="12.5" fill="#2B4A5A">• Count visible dust-escape events per week, per zone — the policy</text>
-  <text x="633" y="468" font-size="12.5" fill="#2B4A5A">&#160;&#160;wording turned into a KPI.</text>
-  <text x="633" y="492" font-size="12.5" fill="#2B4A5A">• Track the inputs: water, electricity, run hours and availability per zone.</text>
+  <text x="633" y="356" font-size="12" font-weight="700" fill="#2E6F8E" letter-spacing="1.2">WHAT THE RECORD SHOULD SHOW</text>
+  <text x="633" y="386" font-size="12.5" fill="#2B4A5A">• Visible dust-escape events per week, per zone — the policy wording</text>
+  <text x="633" y="403" font-size="12.5" fill="#2B4A5A">&#160;&#160;turned into a KPI.</text>
+  <text x="633" y="427" font-size="12.5" fill="#2B4A5A">• Before-and-after image pairs, so the result is shown, not asserted.</text>
+  <text x="633" y="451" font-size="12.5" fill="#2B4A5A">• Water, electricity, run hours and availability, tracked per zone.</text>
+  <text x="633" y="475" font-size="12.5" fill="#2B4A5A">• A winter sequence that is written down and actually followed.</text>
 
   <!-- BOTTOM BAND -->
   <rect x="27" y="548" width="1146" height="72" rx="10" fill="#F7F7F7" stroke="#E6E6E6" stroke-width="1.5"/>
