@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1200" height="700" fill="#ffffff"/>
+
+  <text x="40" y="46" font-size="24" font-weight="700" fill="#1A1A1A">Choosing the Measure: Four Questions</text>
+  <text x="40" y="76" font-size="14" fill="#6B6B6B">In a cement plant the answer is decided by four properties of the source, not by the size of the machine.</text>
+
+  <defs>
+    <marker id="arw" markerWidth="10" markerHeight="10" refX="8" refY="3.2" orient="auto">
+      <path d="M0,0 L8,3.2 L0,6.4 z" fill="#B9B9B9"/>
+    </marker>
+  </defs>
+
+  <!-- ROW 1 -->
+  <rect x="40" y="116" width="340" height="116" rx="12" fill="#F7F7F7" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="62" y="144" font-size="10" fill="#9A9A9A" letter-spacing="1.3">QUESTION 01</text>
+  <text x="62" y="176" font-size="15" font-weight="700" fill="#1A1A1A">Is the source open, with</text>
+  <text x="62" y="198" font-size="15" font-weight="700" fill="#1A1A1A">coarse, wind-blown dust?</text>
+  <line x1="384" y1="174" x2="458" y2="174" stroke="#B9B9B9" stroke-width="2" marker-end="url(#arw)"/>
+  <rect x="470" y="116" width="690" height="116" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="470" y="116" width="6" height="116" rx="3" fill="#A31F34"/>
+  <text x="498" y="160" font-size="15" font-weight="700" fill="#A31F34">Long-range fog cannon</text>
+  <text x="498" y="182" font-size="12.5" fill="#4A3A3E">Quarry yards, pre-homogenising stores, clinker stockpiles and plant roads. Reach and</text>
+  <text x="498" y="199" font-size="12.5" fill="#4A3A3E">coverage matter more than droplet fineness. Design two units per target zone.</text>
+
+  <!-- ROW 2 -->
+  <rect x="40" y="262" width="340" height="116" rx="12" fill="#F7F7F7" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="62" y="290" font-size="10" fill="#9A9A9A" letter-spacing="1.3">QUESTION 02</text>
+  <text x="62" y="322" font-size="15" font-weight="700" fill="#1A1A1A">Is it enclosed, with very</text>
+  <text x="62" y="344" font-size="15" font-weight="700" fill="#1A1A1A">fine, sticky dust?</text>
+  <line x1="384" y1="320" x2="458" y2="320" stroke="#B9B9B9" stroke-width="2" marker-end="url(#arw)"/>
+  <rect x="470" y="262" width="690" height="116" rx="12" fill="#EFF5F9" stroke="#CFE0EA" stroke-width="1.5"/>
+  <rect x="470" y="262" width="6" height="116" rx="3" fill="#2E6F8E"/>
+  <text x="498" y="296" font-size="15" font-weight="700" fill="#2E6F8E">Dry fog and micro-mist</text>
+  <text x="498" y="318" font-size="12.5" fill="#28566E">Belt transfer points, bucket elevators, raw meal and cement silo tops, mill feed and</text>
+  <text x="498" y="335" font-size="12.5" fill="#28566E">discharge. 1–10 µm droplets evaporate in the air stream and never wet the product.</text>
+  <text x="498" y="352" font-size="12.5" fill="#28566E">Containment is a prerequisite, not an option.</text>
+
+  <!-- ROW 3 -->
+  <rect x="40" y="408" width="340" height="116" rx="12" fill="#F7F7F7" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="62" y="436" font-size="10" fill="#9A9A9A" letter-spacing="1.3">QUESTION 03</text>
+  <text x="62" y="468" font-size="15" font-weight="700" fill="#1A1A1A">Is the dust the product</text>
+  <text x="62" y="490" font-size="15" font-weight="700" fill="#1A1A1A">itself — finished cement?</text>
+  <line x1="384" y1="466" x2="458" y2="466" stroke="#B9B9B9" stroke-width="2" marker-end="url(#arw)"/>
+  <rect x="470" y="408" width="690" height="116" rx="12" fill="#FAF4EC" stroke="#E7DAC7" stroke-width="1.5"/>
+  <rect x="470" y="408" width="6" height="116" rx="3" fill="#8A6A41"/>
+  <text x="498" y="442" font-size="15" font-weight="700" fill="#8A6A41">Enclosure and negative pressure</text>
+  <text x="498" y="464" font-size="12.5" fill="#6B5233">Cement mill, separators, cement silos, packers and loading heads. Downstream of the</text>
+  <text x="498" y="481" font-size="12.5" fill="#6B5233">mill, added water is pre-hydration: caking, blocked chutes, strength loss. Extraction</text>
+  <text x="498" y="498" font-size="12.5" fill="#6B5233">does the work; micro-mist only where it evaporates instantly.</text>
+
+  <!-- ROW 4 -->
+  <rect x="40" y="554" width="340" height="116" rx="12" fill="#F7F7F7" stroke="#E0E0E0" stroke-width="1.5"/>
+  <text x="62" y="582" font-size="10" fill="#9A9A9A" letter-spacing="1.3">QUESTION 04</text>
+  <text x="62" y="614" font-size="15" font-weight="700" fill="#1A1A1A">Is the dust combustible</text>
+  <text x="62" y="636" font-size="15" font-weight="700" fill="#1A1A1A">— coal or coal dust?</text>
+  <line x1="384" y1="612" x2="458" y2="612" stroke="#B9B9B9" stroke-width="2" marker-end="url(#arw)"/>
+  <rect x="470" y="554" width="690" height="116" rx="12" fill="#F4F4F4" stroke="#E0E0E0" stroke-width="1.5"/>
+  <rect x="470" y="554" width="6" height="116" rx="3" fill="#5F5F5F"/>
+  <text x="498" y="588" font-size="15" font-weight="700" fill="#5F5F5F">Protection matched to the application</text>
+  <text x="498" y="610" font-size="12.5" fill="#4A4A4A">Coal yard, coal mill and coal silo. Ex configurations can be provided to suit the</text>
+  <text x="498" y="627" font-size="12.5" fill="#4A4A4A">customer's application; the specific protection type and certificate are supplied with</text>
+  <text x="498" y="644" font-size="12.5" fill="#4A4A4A">the project. Wet or vacuum housekeeping — never air-blasting.</text>
+</svg>

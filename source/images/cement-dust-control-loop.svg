@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" font-family="Helvetica Neue, Arial, sans-serif">
+  <rect width="1200" height="640" fill="#ffffff"/>
+
+  <text x="40" y="46" font-size="24" font-weight="700" fill="#1A1A1A">Run Dust Control as a Loop, Not a Timer</text>
+  <text x="40" y="76" font-size="14" fill="#6B6B6B">Six steps, and the value is concentrated in steps three and five — grading and verification.</text>
+
+  <defs>
+    <marker id="arw2" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 z" fill="#C9C9C9"/>
+    </marker>
+  </defs>
+
+  <!-- STEP 1 -->
+  <rect x="27" y="110" width="176" height="176" rx="10" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <circle cx="57" cy="144" r="13" fill="#A31F34"/>
+  <text x="57" y="149" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="80" y="149" font-size="13.5" font-weight="700" fill="#A31F34">MONITOR</text>
+  <text x="45" y="178" font-size="11.5" fill="#4A3A3E">Cameras and particulate</text>
+  <text x="45" y="194" font-size="11.5" fill="#4A3A3E">monitors watch every dust</text>
+  <text x="45" y="210" font-size="11.5" fill="#4A3A3E">source continuously, with</text>
+  <text x="45" y="226" font-size="11.5" fill="#4A3A3E">wind speed and direction.</text>
+  <line x1="207" y1="198" x2="215" y2="198" stroke="#C9C9C9" stroke-width="2" marker-end="url(#arw2)"/>
+
+  <!-- STEP 2 -->
+  <rect x="221" y="110" width="176" height="176" rx="10" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <circle cx="251" cy="144" r="13" fill="#A31F34"/>
+  <text x="251" y="149" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="274" y="149" font-size="13.5" font-weight="700" fill="#A31F34">IDENTIFY</text>
+  <text x="239" y="178" font-size="11.5" fill="#4A3A3E">Vision separates dust</text>
+  <text x="239" y="194" font-size="11.5" fill="#4A3A3E">from steam, and reads the</text>
+  <text x="239" y="210" font-size="11.5" fill="#4A3A3E">operation: tipping, loader</text>
+  <text x="239" y="226" font-size="11.5" fill="#4A3A3E">work, belt running, loading.</text>
+  <line x1="401" y1="198" x2="409" y2="198" stroke="#C9C9C9" stroke-width="2" marker-end="url(#arw2)"/>
+
+  <!-- STEP 3 -->
+  <rect x="415" y="110" width="176" height="176" rx="10" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <circle cx="445" cy="144" r="13" fill="#A31F34"/>
+  <text x="445" y="149" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="468" y="149" font-size="13.5" font-weight="700" fill="#A31F34">GRADE</text>
+  <text x="433" y="178" font-size="11.5" fill="#4A3A3E">Level I: short local burst.</text>
+  <text x="433" y="194" font-size="11.5" fill="#4A3A3E">Level II: full zone preset.</text>
+  <text x="433" y="210" font-size="11.5" fill="#4A3A3E">Level III: escalate to the</text>
+  <text x="433" y="226" font-size="11.5" fill="#4A3A3E">control room with the image.</text>
+  <line x1="595" y1="198" x2="603" y2="198" stroke="#C9C9C9" stroke-width="2" marker-end="url(#arw2)"/>
+
+  <!-- STEP 4 -->
+  <rect x="609" y="110" width="176" height="176" rx="10" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <circle cx="639" cy="144" r="13" fill="#A31F34"/>
+  <text x="639" y="149" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="662" y="149" font-size="13.5" font-weight="700" fill="#A31F34">TRIGGER</text>
+  <text x="627" y="178" font-size="11.5" fill="#4A3A3E">Only the affected zone</text>
+  <text x="627" y="194" font-size="11.5" fill="#4A3A3E">runs, on a stored preset</text>
+  <text x="627" y="210" font-size="11.5" fill="#4A3A3E">for azimuth, pitch, flow,</text>
+  <text x="627" y="226" font-size="11.5" fill="#4A3A3E">droplet size and duration.</text>
+  <line x1="789" y1="198" x2="797" y2="198" stroke="#C9C9C9" stroke-width="2" marker-end="url(#arw2)"/>
+
+  <!-- STEP 5 -->
+  <rect x="803" y="110" width="176" height="176" rx="10" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <circle cx="833" cy="144" r="13" fill="#A31F34"/>
+  <text x="833" y="149" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+  <text x="856" y="149" font-size="13.5" font-weight="700" fill="#A31F34">VERIFY</text>
+  <text x="821" y="178" font-size="11.5" fill="#4A3A3E">The same sensors that</text>
+  <text x="821" y="194" font-size="11.5" fill="#4A3A3E">raised the alarm confirm</text>
+  <text x="821" y="210" font-size="11.5" fill="#4A3A3E">the plume has cleared. If</text>
+  <text x="821" y="226" font-size="11.5" fill="#4A3A3E">not, it escalates instead.</text>
+  <line x1="983" y1="198" x2="991" y2="198" stroke="#C9C9C9" stroke-width="2" marker-end="url(#arw2)"/>
+
+  <!-- STEP 6 -->
+  <rect x="997" y="110" width="176" height="176" rx="10" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <circle cx="1027" cy="144" r="13" fill="#A31F34"/>
+  <text x="1027" y="149" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+  <text x="1050" y="149" font-size="13.5" font-weight="700" fill="#A31F34">RECORD</text>
+  <text x="1015" y="178" font-size="11.5" fill="#4A3A3E">Image pairs, concentration</text>
+  <text x="1015" y="194" font-size="11.5" fill="#4A3A3E">curves, water and power</text>
+  <text x="1015" y="210" font-size="11.5" fill="#4A3A3E">logs, exported on a cycle</text>
+  <text x="1015" y="226" font-size="11.5" fill="#4A3A3E">an auditor can read.</text>
+
+  <!-- LEFT BOX -->
+  <rect x="27" y="326" width="560" height="200" rx="10" fill="#FFFBFC" stroke="#F0D6DC" stroke-width="1.5"/>
+  <text x="47" y="356" font-size="12" font-weight="700" fill="#A31F34" letter-spacing="1.2">TWO TUNING RULES SPECIFIC TO CEMENT</text>
+  <text x="47" y="386" font-size="12.5" font-weight="700" fill="#3C3C3C">1. Steam is not dust.</text>
+  <text x="47" y="406" font-size="12.5" fill="#4A3A3E">The clinker cooler, the waste-heat boiler and wet material all produce</text>
+  <text x="47" y="423" font-size="12.5" fill="#4A3A3E">white plumes. If the model cannot tell them apart, nuisance alarms will</text>
+  <text x="47" y="440" font-size="12.5" fill="#4A3A3E">destroy operator confidence within a month.</text>
+  <text x="47" y="470" font-size="12.5" font-weight="700" fill="#3C3C3C">2. Thresholds are per zone.</text>
+  <text x="47" y="490" font-size="12.5" fill="#4A3A3E">An alarm level that makes sense at a raw mill discharge is meaningless</text>
+  <text x="47" y="507" font-size="12.5" fill="#4A3A3E">at a bagging line. Budget two to four weeks of on-site tuning per plant.</text>
+
+  <!-- RIGHT BOX -->
+  <rect x="613" y="326" width="560" height="200" rx="10" fill="#F7F9FA" stroke="#DCE6EC" stroke-width="1.5"/>
+  <text x="633" y="356" font-size="12" font-weight="700" fill="#2E6F8E" letter-spacing="1.2">PROVING IT WORKS: FOUR RULES</text>
+  <text x="633" y="386" font-size="12.5" fill="#2B4A5A">• Same point, comparable weather — never a calm day against a windy one.</text>
+  <text x="633" y="410" font-size="12.5" fill="#2B4A5A">• Continuous data, not spot checks: online TSP and PM10 at one-minute</text>
+  <text x="633" y="427" font-size="12.5" fill="#2B4A5A">&#160;&#160;resolution, at the hot spots and at the fence line.</text>
+  <text x="633" y="451" font-size="12.5" fill="#2B4A5A">• Count visible dust-escape events per week, per zone — the policy</text>
+  <text x="633" y="468" font-size="12.5" fill="#2B4A5A">&#160;&#160;wording turned into a KPI.</text>
+  <text x="633" y="492" font-size="12.5" fill="#2B4A5A">• Track the inputs: water, electricity, run hours and availability per zone.</text>
+
+  <!-- BOTTOM BAND -->
+  <rect x="27" y="548" width="1146" height="72" rx="10" fill="#F7F7F7" stroke="#E6E6E6" stroke-width="1.5"/>
+  <text x="47" y="580" font-size="14" font-weight="700" fill="#1A1A1A">A timer sprays whether or not anything is happening.</text>
+  <text x="47" y="604" font-size="14" font-weight="700" fill="#A31F34">A loop sprays because something is — and leaves a record of it.</text>
+</svg>
