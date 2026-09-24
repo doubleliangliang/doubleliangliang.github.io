@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 870" width="1200" height="870" font-family="'Helvetica Neue',Arial,sans-serif">
+  <rect width="1200" height="870" fill="#ffffff"/>
+
+  <text x="40" y="46" font-size="23" font-weight="700" fill="#1A1A1A">Where the Dust in a City Comes From</text>
+  <text x="40" y="76" font-size="13.5" fill="#6B6B6B">Four ordinary activities account for most of the mineral dust in urban air. Two of them move around, which is what makes the problem hard to pin down.</text>
+
+  <!-- Row: four sources -->
+  <rect x="40" y="106" width="265" height="290" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="40" y="106" width="5" height="290" rx="2.5" fill="#A31F34"/>
+  <text x="62" y="140" font-size="15" font-weight="700" fill="#A31F34">1  Demolition</text>
+  <text x="62" y="170" font-size="11" fill="#4A3A3E">Buildings taken down, debris loaded</text>
+  <text x="62" y="188" font-size="11" fill="#4A3A3E">out, rubble left standing in the open.</text>
+  <text x="62" y="222" font-size="12.5" font-weight="700" fill="#8A6A41">What it releases</text>
+  <text x="62" y="248" font-size="11" fill="#7A5A62">Coarse grit and a fine fraction at</text>
+  <text x="62" y="266" font-size="11" fill="#7A5A62">the same time, thrown up by impact</text>
+  <text x="62" y="284" font-size="11" fill="#7A5A62">rather than by wind.</text>
+  <text x="62" y="318" font-size="12.5" font-weight="700" fill="#8A6A41">Pattern</text>
+  <text x="62" y="344" font-size="11" fill="#7A5A62">Short and intense, then it stops —</text>
+  <text x="62" y="362" font-size="11" fill="#7A5A62">until the next block comes down.</text>
+
+  <rect x="325" y="106" width="265" height="290" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="325" y="106" width="5" height="290" rx="2.5" fill="#A31F34"/>
+  <text x="347" y="140" font-size="15" font-weight="700" fill="#A31F34">2  Construction sites</text>
+  <text x="347" y="170" font-size="11" fill="#4A3A3E">Earthworks, excavation, spoil heaps,</text>
+  <text x="347" y="188" font-size="11" fill="#4A3A3E">bare ground, unpaved site roads.</text>
+  <text x="347" y="222" font-size="12.5" font-weight="700" fill="#8A6A41">What it releases</text>
+  <text x="347" y="248" font-size="11" fill="#7A5A62">Fine enough to travel, heavy enough</text>
+  <text x="347" y="266" font-size="11" fill="#7A5A62">to settle nearby. Bare surfaces keep</text>
+  <text x="347" y="284" font-size="11" fill="#7A5A62">feeding it.</text>
+  <text x="347" y="318" font-size="12.5" font-weight="700" fill="#8A6A41">Pattern</text>
+  <text x="347" y="344" font-size="11" fill="#7A5A62">Steady for months, and it stays in</text>
+  <text x="347" y="362" font-size="11" fill="#7A5A62">one place while it does.</text>
+
+  <rect x="610" y="106" width="265" height="290" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="610" y="106" width="5" height="290" rx="2.5" fill="#A31F34"/>
+  <text x="632" y="140" font-size="15" font-weight="700" fill="#A31F34">3  Road and utility works</text>
+  <text x="632" y="170" font-size="11" fill="#4A3A3E">Cutting, trenching, backfill, subgrade</text>
+  <text x="632" y="188" font-size="11" fill="#4A3A3E">left open to traffic.</text>
+  <text x="632" y="222" font-size="12.5" font-weight="700" fill="#8A6A41">What it releases</text>
+  <text x="632" y="248" font-size="11" fill="#7A5A62">Both coarse and fine. What differs is</text>
+  <text x="632" y="266" font-size="11" fill="#7A5A62">where it happens: inside the traffic</text>
+  <text x="632" y="284" font-size="11" fill="#7A5A62">corridor.</text>
+  <text x="632" y="318" font-size="12.5" font-weight="700" fill="#8A6A41">Pattern</text>
+  <text x="632" y="344" font-size="11" fill="#7A5A62">It travels down the street with the</text>
+  <text x="632" y="362" font-size="11" fill="#7A5A62">works, week by week.</text>
+
+  <rect x="895" y="106" width="265" height="290" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="895" y="106" width="5" height="290" rx="2.5" fill="#A31F34"/>
+  <text x="917" y="140" font-size="15" font-weight="700" fill="#A31F34">4  Material haulage</text>
+  <text x="917" y="170" font-size="11" fill="#4A3A3E">Spillage, muddy wheels, uncovered</text>
+  <text x="917" y="188" font-size="11" fill="#4A3A3E">loads — repeated on every trip.</text>
+  <text x="917" y="222" font-size="12.5" font-weight="700" fill="#8A6A41">What it releases</text>
+  <text x="917" y="248" font-size="11" fill="#7A5A62">The finest fraction, pressed onto the</text>
+  <text x="917" y="266" font-size="11" fill="#7A5A62">pavement by tyres and then lifted</text>
+  <text x="917" y="284" font-size="11" fill="#7A5A62">back off it.</text>
+  <text x="917" y="318" font-size="12.5" font-weight="700" fill="#8A6A41">Pattern</text>
+  <text x="917" y="344" font-size="11" fill="#7A5A62">All day, on the same route, long</text>
+  <text x="917" y="362" font-size="11" fill="#7A5A62">after the works have finished.</text>
+
+  <!-- Two emission routes -->
+  <rect x="40" y="426" width="1120" height="164" rx="12" fill="#FAFAFA" stroke="#E6E6E6" stroke-width="1.5"/>
+  <text x="64" y="458" font-size="15" font-weight="700" fill="#1A1A1A">Two emission routes, and only one of them sits inside the site fence</text>
+
+  <rect x="64" y="478" width="530" height="92" rx="9" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1.2"/>
+  <rect x="64" y="478" width="4" height="92" rx="2" fill="#4A3A3E"/>
+  <text x="84" y="504" font-size="13" font-weight="700" fill="#1A1A1A">Primary dust</text>
+  <text x="84" y="530" font-size="11" fill="#4A3A3E">Raised directly by an operation: a hammer, a bucket,</text>
+  <text x="84" y="548" font-size="11" fill="#4A3A3E">a tipper, a wheel running over loose material.</text>
+  <text x="84" y="566" font-size="11" fill="#4A3A3E">It stops when the operation stops.</text>
+
+  <rect x="614" y="478" width="522" height="92" rx="9" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1.2"/>
+  <rect x="614" y="478" width="4" height="92" rx="2" fill="#A31F34"/>
+  <text x="634" y="504" font-size="13" font-weight="700" fill="#A31F34">Secondary dust — the part that is easy to miss</text>
+  <text x="634" y="530" font-size="11" fill="#4A3A3E">Dust that has already settled is lifted again by wind,</text>
+  <text x="634" y="548" font-size="11" fill="#4A3A3E">tyres and sweeping. It needs no active construction</text>
+  <text x="634" y="566" font-size="11" fill="#4A3A3E">to keep going, and it carries on for months.</text>
+
+  <!-- Load data -->
+  <text x="40" y="628" font-size="15" font-weight="700" fill="#1A1A1A">Why the route matters as much as the site</text>
+
+  <rect x="40" y="646" width="360" height="182" rx="12" fill="#F7F4EF" stroke="#E4DCCF" stroke-width="1.5"/>
+  <text x="64" y="684" font-size="34" font-weight="700" fill="#8A6A41">10 g/m²</text>
+  <text x="64" y="712" font-size="11.5" fill="#5A5148">or more of dust is held on many</text>
+  <text x="64" y="730" font-size="11.5" fill="#5A5148">urban road surfaces.</text>
+  <text x="64" y="762" font-size="11.5" font-weight="700" fill="#8A6A41">On well-kept roads it is 1–2 g/m²</text>
+  <text x="64" y="780" font-size="11.5" fill="#5A5148">or lower: same traffic, a different</text>
+  <text x="64" y="798" font-size="11.5" fill="#5A5148">road surface condition.</text>
+
+  <rect x="420" y="646" width="360" height="182" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <text x="444" y="684" font-size="34" font-weight="700" fill="#A31F34">80% +</text>
+  <text x="444" y="712" font-size="11.5" fill="#5A3A44">of urban fugitive dust emissions in</text>
+  <text x="444" y="730" font-size="11.5" fill="#5A3A44">the Beijing–Tianjin–Hebei region and</text>
+  <text x="444" y="748" font-size="11.5" fill="#5A3A44">its surroundings is attributed to</text>
+  <text x="444" y="772" font-size="11.5" font-weight="700" fill="#A31F34">roads and construction</text>
+  <text x="444" y="790" font-size="11.5" fill="#5A3A44">taken together.</text>
+
+  <rect x="800" y="646" width="360" height="182" rx="12" fill="#F4F7F9" stroke="#D8E3E9" stroke-width="1.5"/>
+  <text x="824" y="684" font-size="34" font-weight="700" fill="#2E6F8E">15–25%</text>
+  <text x="824" y="712" font-size="11.5" fill="#3D5666">is the share of PM2.5 concentration</text>
+  <text x="824" y="730" font-size="11.5" fill="#3D5666">that fugitive dust still contributes in</text>
+  <text x="824" y="748" font-size="11.5" fill="#3D5666">most cities after years of control —</text>
+  <text x="824" y="766" font-size="11.5" fill="#3D5666">and much of the dust on the road</text>
+  <text x="824" y="784" font-size="11.5" fill="#3D5666">has been traced back to construction</text>
+  <text x="824" y="802" font-size="11.5" fill="#3D5666">material haulage.</text>
+</svg>

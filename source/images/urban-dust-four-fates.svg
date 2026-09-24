@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" font-family="'Helvetica Neue',Arial,sans-serif">
+  <rect width="1200" height="880" fill="#ffffff"/>
+
+  <text x="40" y="46" font-size="23" font-weight="700" fill="#1A1A1A">Where the Dust Goes: Four Fates</text>
+  <text x="40" y="76" font-size="13.5" fill="#6B6B6B">Once airborne, dust leaves the air by a small number of routes. All four matter, and only one of them is routinely measured.</text>
+
+  <!-- Card 1 -->
+  <rect x="40" y="104" width="545" height="250" rx="12" fill="#F7F4EF" stroke="#E4DCCF" stroke-width="1.5"/>
+  <rect x="40" y="104" width="5" height="250" rx="2.5" fill="#8A6A41"/>
+  <text x="64" y="138" font-size="15.5" font-weight="700" fill="#8A6A41">1  Back to the ground, then up again</text>
+  <text x="64" y="166" font-size="12" font-style="italic" fill="#6B5F52">The largest single fate, and the only one that repeats.</text>
+  <text x="64" y="198" font-size="11" fill="#4A3A3E">Settles under gravity (dry deposition) or is washed out by rain (wet deposition).</text>
+  <text x="64" y="218" font-size="11" fill="#4A3A3E">Where the surface is vegetated, it enters the soil and largely stays there.</text>
+  <text x="64" y="238" font-size="11" fill="#4A3A3E">Where the surface is a road, a pavement or a roof, a tyre or a gust lifts it again.</text>
+  <text x="64" y="258" font-size="11" fill="#4A3A3E">The same mass of dust can be raised and dropped many times before it leaves.</text>
+  <rect x="64" y="284" width="497" height="48" rx="8" fill="#FFFFFF" stroke="#E4DCCF" stroke-width="1.2"/>
+  <text x="80" y="304" font-size="11" font-weight="700" fill="#8A6A41">A street swept at noon can look grey again by evening.</text>
+  <text x="80" y="322" font-size="11" fill="#6B5F52">No new construction is needed for that to happen.</text>
+
+  <!-- Card 2 -->
+  <rect x="615" y="104" width="545" height="250" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="615" y="104" width="5" height="250" rx="2.5" fill="#A31F34"/>
+  <text x="639" y="138" font-size="15.5" font-weight="700" fill="#A31F34">2  Into secondary pollution</text>
+  <text x="639" y="166" font-size="12" font-style="italic" fill="#8A5A66">Dust is not only a mass of particles. It is also a reaction surface.</text>
+  <text x="639" y="198" font-size="11" fill="#4A3A3E">Sulphur dioxide, nitrogen oxides and organic gases oxidise in the air.</text>
+  <text x="639" y="218" font-size="11" fill="#4A3A3E">They combine with ammonia to form sulphate, nitrate and ammonium salts.</text>
+  <text x="639" y="238" font-size="11" fill="#4A3A3E">Those salts stay airborne for days and make up a large share of PM2.5 mass.</text>
+  <text x="639" y="258" font-size="11" fill="#4A3A3E">Airborne dust offers an alkaline surface on which some conversions run faster.</text>
+  <rect x="639" y="284" width="497" height="48" rx="8" fill="#FFFFFF" stroke="#F0D6DC" stroke-width="1.2"/>
+  <text x="655" y="304" font-size="11" font-weight="700" fill="#A31F34">The outcome is not dust plus haze. It is one combined problem.</text>
+  <text x="655" y="322" font-size="11" fill="#8A5A66">Reducing one input slows the other at the same time.</text>
+
+  <!-- Card 3 -->
+  <rect x="40" y="374" width="545" height="250" rx="12" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.5"/>
+  <rect x="40" y="374" width="5" height="250" rx="2.5" fill="#A31F34"/>
+  <text x="64" y="408" font-size="15.5" font-weight="700" fill="#A31F34">3  Into the lungs</text>
+  <text x="64" y="436" font-size="12" font-style="italic" fill="#8A5A66">The route that decides how much the other three actually matter.</text>
+  <text x="64" y="468" font-size="11" fill="#4A3A3E">PM10 lodges in the larger airways; PM2.5 crosses the lung barrier into the blood.</text>
+  <text x="64" y="488" font-size="11" fill="#4A3A3E">From there it reaches major organs rather than staying in the chest.</text>
+  <text x="64" y="508" font-size="11" fill="#4A3A3E">Associated with heart and respiratory disease, lung cancer and stroke.</text>
+  <text x="64" y="528" font-size="11" fill="#4A3A3E">In 2015 the IARC concluded that particulate matter in outdoor air causes lung</text>
+  <text x="64" y="546" font-size="11" fill="#4A3A3E">cancer. Children in high-PM2.5 areas show slower lung growth.</text>
+  <rect x="64" y="572" width="497" height="34" rx="8" fill="#FFFFFF" stroke="#F0D6DC" stroke-width="1.2"/>
+  <text x="80" y="593" font-size="11" font-weight="700" fill="#A31F34">The fraction that matters most is the fraction you cannot see.</text>
+
+  <!-- Card 4 -->
+  <rect x="615" y="374" width="545" height="250" rx="12" fill="#F4F7F9" stroke="#D8E3E9" stroke-width="1.5"/>
+  <rect x="615" y="374" width="5" height="250" rx="2.5" fill="#2E6F8E"/>
+  <text x="639" y="408" font-size="15.5" font-weight="700" fill="#2E6F8E">4  Into water, soil, plants and materials</text>
+  <text x="639" y="436" font-size="12" font-style="italic" fill="#456A80">The slow, quiet fate that outlasts the dust episode itself.</text>
+  <text x="639" y="468" font-size="11" fill="#3D5666">Deposits into water bodies, where it affects water quality and clarity.</text>
+  <text x="639" y="488" font-size="11" fill="#3D5666">Settles on leaves; the metals and organic compounds in it can affect growth.</text>
+  <text x="639" y="508" font-size="11" fill="#3D5666">Soils building facades, windows and solar panels.</text>
+  <text x="639" y="528" font-size="11" fill="#3D5666">Reduces visibility, and shifts the local heat balance: dark particles warm,</text>
+  <text x="639" y="546" font-size="11" fill="#3D5666">while sulphate and nitrate particles cool.</text>
+  <rect x="639" y="572" width="497" height="34" rx="8" fill="#FFFFFF" stroke="#D8E3E9" stroke-width="1.2"/>
+  <text x="655" y="593" font-size="11" font-weight="700" fill="#2E6F8E">Dust does not stay in the city that produced it.</text>
+
+  <!-- Loop -->
+  <rect x="40" y="644" width="1120" height="198" rx="12" fill="#FAFAFA" stroke="#E6E6E6" stroke-width="1.5"/>
+  <text x="64" y="678" font-size="15" font-weight="700" fill="#1A1A1A">Three of the four routes are not exits</text>
+  <text x="64" y="706" font-size="11.5" fill="#4A3A3E">Settled dust is a reservoir that waits for the next vehicle, the next gust or the next dry spell. Secondary</text>
+  <text x="64" y="724" font-size="11.5" fill="#4A3A3E">chemistry keeps converting gases into new particles. Inhaled dust does not disappear either — the body clears it</text>
+  <text x="64" y="742" font-size="11.5" fill="#4A3A3E">over time, and the material returns to surfaces and to soil.</text>
+
+  <rect x="64" y="762" width="1072" height="58" rx="9" fill="#FDF3F5" stroke="#F0D6DC" stroke-width="1.2"/>
+  <text x="84" y="786" font-size="12" font-weight="700" fill="#A31F34">The practical consequence: control has to work on the surface, not only in the air.</text>
+  <text x="84" y="808" font-size="11.5" fill="#8A5A66">Suppressing a plume in flight is one half of the job. Removing the material that can be lifted again is the other.</text>
+</svg>
