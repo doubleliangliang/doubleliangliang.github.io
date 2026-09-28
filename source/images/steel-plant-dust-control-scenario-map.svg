@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="700" fill="#FFFFFF"/>
+  <text x="40" y="46" font-size="25" font-weight="700" fill="#1F1F23">Fugitive Dust Scenarios in an Integrated Steel Plant</text>
+  <text x="40" y="74" font-size="13.5" fill="#606068">Group sources by place and operation, then match the measure. Colour marks the tool: cannon (area), dry fog (point), wheel wash (gate), capture (not spray).</text>
+
+  <!-- row 1 -->
+  <rect x="40" y="106" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="40" y="106" width="5" height="118" rx="2.5" fill="#A31F34"/>
+  <text x="66" y="136" font-size="15.5" font-weight="700" fill="#1F1F23">Raw material stockyard</text>
+  <text x="66" y="160" font-size="11.5" fill="#4A4A50">Stacking, reclaiming, hopper discharge,</text>
+  <text x="66" y="177" font-size="11.5" fill="#4A4A50">truck traffic and yard roads</text>
+  <text x="66" y="206" font-size="11.5" font-weight="700" fill="#A31F34">Fog cannon (area)</text>
+
+  <rect x="640" y="106" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="640" y="106" width="5" height="118" rx="2.5" fill="#22668C"/>
+  <text x="666" y="136" font-size="15.5" font-weight="700" fill="#1F1F23">Belt transfer tower and conveyor gallery</text>
+  <text x="666" y="160" font-size="11.5" fill="#4A4A50">Continuous transfer between belts;</text>
+  <text x="666" y="177" font-size="11.5" fill="#4A4A50">confined, fine and dry dust</text>
+  <text x="666" y="206" font-size="11.5" font-weight="700" fill="#22668C">Dry fog (point)</text>
+
+  <!-- row 2 -->
+  <rect x="40" y="244" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="40" y="244" width="5" height="118" rx="2.5" fill="#22668C"/>
+  <text x="66" y="274" font-size="15.5" font-weight="700" fill="#1F1F23">Crushing and screening station</text>
+  <text x="66" y="298" font-size="11.5" fill="#4A4A50">Enclosed crusher and screens,</text>
+  <text x="66" y="315" font-size="11.5" fill="#4A4A50">open tipping apron in front of them</text>
+  <text x="66" y="344" font-size="11.5" font-weight="700"><tspan fill="#22668C">Dry fog inside</tspan><tspan fill="#606068"> · </tspan><tspan fill="#A31F34">cannon on the apron</tspan></text>
+
+  <rect x="640" y="244" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="640" y="244" width="5" height="118" rx="2.5" fill="#A31F34"/>
+  <text x="666" y="274" font-size="15.5" font-weight="700" fill="#1F1F23">Coal and coke handling</text>
+  <text x="666" y="298" font-size="11.5" fill="#4A4A50">Open coal yard, grinding,</text>
+  <text x="666" y="315" font-size="11.5" fill="#4A4A50">bunkers and coke screening</text>
+  <text x="666" y="344" font-size="11.5" font-weight="700"><tspan fill="#A31F34">Cannon on the yard</tspan><tspan fill="#606068"> · </tspan><tspan fill="#606068">protected configuration in the coal system</tspan></text>
+
+  <!-- row 3 -->
+  <rect x="40" y="382" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="40" y="382" width="5" height="118" rx="2.5" fill="#606068"/>
+  <text x="66" y="412" font-size="15.5" font-weight="700" fill="#1F1F23">Sinter plant</text>
+  <text x="66" y="436" font-size="11.5" fill="#4A4A50">Organised emission from the strand;</text>
+  <text x="66" y="453" font-size="11.5" fill="#4A4A50">transfer points and screens on the route</text>
+  <text x="66" y="482" font-size="11.5" font-weight="700" fill="#606068">Capture and bag filtration first; dry fog at enclosed transfers</text>
+
+  <rect x="640" y="382" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="640" y="382" width="5" height="118" rx="2.5" fill="#606068"/>
+  <text x="666" y="412" font-size="15.5" font-weight="700" fill="#1F1F23">Blast furnace cast house</text>
+  <text x="666" y="436" font-size="11.5" fill="#4A4A50">Short, intense emission during tapping,</text>
+  <text x="666" y="453" font-size="11.5" fill="#4A4A50">strongly buoyant on rising heat</text>
+  <text x="666" y="482" font-size="11.5" font-weight="700" fill="#606068">Capture hood or air screen before any spray</text>
+
+  <!-- row 4 -->
+  <rect x="40" y="520" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="40" y="520" width="5" height="118" rx="2.5" fill="#A31F34"/>
+  <text x="66" y="550" font-size="15.5" font-weight="700" fill="#1F1F23">Steelmaking and slag handling</text>
+  <text x="66" y="574" font-size="11.5" fill="#4A4A50">Converter or EAF secondary emissions;</text>
+  <text x="66" y="591" font-size="11.5" fill="#4A4A50">slag pits and cooling</text>
+  <text x="66" y="620" font-size="11.5" font-weight="700"><tspan fill="#606068">Secondary capture</tspan><tspan fill="#606068"> · </tspan><tspan fill="#A31F34">cannon at the slag yard</tspan></text>
+
+  <rect x="640" y="520" width="560" height="118" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <rect x="640" y="520" width="5" height="118" rx="2.5" fill="#8A6A41"/>
+  <text x="666" y="550" font-size="15.5" font-weight="700" fill="#1F1F23">Haul roads and vehicle exits</text>
+  <text x="666" y="574" font-size="11.5" fill="#4A4A50">Re-suspended fines and carry-out,</text>
+  <text x="666" y="591" font-size="11.5" fill="#4A4A50">deposited onto public roads</text>
+  <text x="666" y="620" font-size="11.5" font-weight="700"><tspan fill="#A31F34">Cannon</tspan><tspan fill="#606068"> + </tspan><tspan fill="#4A4A50">sweeper</tspan><tspan fill="#606068"> + </tspan><tspan fill="#8A6A41">wheel wash</tspan></text>
+
+  <text x="40" y="676" font-size="12" fill="#808088">Four of these scenarios are the subject of this article. The grey entries mark where water is the wrong answer and capture, filtration or covering must lead.</text>
+</svg>

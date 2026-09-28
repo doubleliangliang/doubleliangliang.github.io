@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="500" fill="#FFFFFF"/>
+  <text x="60" y="46" font-size="25" font-weight="700" fill="#1F1F23">Match the Droplet to the Dust, and the Tool to the Distance</text>
+  <text x="60" y="74" font-size="13.5" fill="#606068">Inertial capture works best when droplet diameter and dust diameter are of the same order. Fine droplets only work close to the source.</text>
+
+  <!-- header row -->
+  <text x="60" y="106" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">DUST FRACTION</text>
+  <text x="450" y="106" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">MATCHING DROPLET</text>
+  <text x="840" y="106" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">EFFECTIVE DISTANCE</text>
+
+  <!-- row 1 -->
+  <rect x="60" y="118" width="340" height="106" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <text x="80" y="146" font-size="13.5" font-weight="700" fill="#1F1F23">Respirable dust</text>
+  <text x="80" y="170" font-size="11" fill="#4A4A50">PM2.5 and finer; stays airborne for</text>
+  <text x="80" y="187" font-size="11" fill="#4A4A50">a long time and travels with the wind</text>
+
+  <path d="M406 171 L436 171" stroke="#A31F34" stroke-width="1.6"/>
+  <path d="M430 165 L437 171 L430 177 Z" fill="#A31F34"/>
+
+  <rect x="450" y="118" width="340" height="106" rx="8" fill="#F5F9FB" stroke="#CFE0E9"/>
+  <text x="470" y="146" font-size="13.5" font-weight="700" fill="#22668C">Dry fog</text>
+  <text x="470" y="170" font-size="11" fill="#4A4A50">1 to 10 micron droplets; capture by</text>
+  <text x="470" y="187" font-size="11" fill="#4A4A50">diffusion and agglomeration</text>
+
+  <path d="M796 171 L826 171" stroke="#A31F34" stroke-width="1.6"/>
+  <path d="M820 165 L827 171 L820 177 Z" fill="#A31F34"/>
+
+  <rect x="840" y="118" width="300" height="106" rx="8" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <text x="860" y="150" font-size="15" font-weight="700" fill="#A31F34">A few metres</text>
+  <text x="860" y="174" font-size="11" fill="#4A4A50">The nozzle must sit at the source,</text>
+  <text x="860" y="191" font-size="11" fill="#4A4A50">inside an enclosure</text>
+
+  <!-- row 2 -->
+  <rect x="60" y="236" width="340" height="106" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <text x="80" y="264" font-size="13.5" font-weight="700" fill="#1F1F23">Inhalable dust</text>
+  <text x="80" y="288" font-size="11" fill="#4A4A50">PM10 and below; the fraction ambient</text>
+  <text x="80" y="305" font-size="11" fill="#4A4A50">limits and boundary monitors are written against</text>
+
+  <path d="M406 289 L436 289" stroke="#A31F34" stroke-width="1.6"/>
+  <path d="M430 283 L437 289 L430 295 Z" fill="#A31F34"/>
+
+  <rect x="450" y="236" width="340" height="106" rx="8" fill="#F5F9FB" stroke="#CFE0E9"/>
+  <text x="470" y="264" font-size="13.5" font-weight="700" fill="#22668C">Dry fog to cannon fine mist</text>
+  <text x="470" y="288" font-size="11" fill="#4A4A50">10 to 50 micron droplets; the regime</text>
+  <text x="470" y="305" font-size="11" fill="#4A4A50">where the two technologies overlap</text>
+
+  <path d="M796 289 L826 289" stroke="#A31F34" stroke-width="1.6"/>
+  <path d="M820 283 L827 289 L820 295 Z" fill="#A31F34"/>
+
+  <rect x="840" y="236" width="300" height="106" rx="8" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <text x="860" y="268" font-size="15" font-weight="700" fill="#A31F34">Metres to tens of metres</text>
+  <text x="860" y="292" font-size="11" fill="#4A4A50">Contact time has to be immediate;</text>
+  <text x="860" y="309" font-size="11" fill="#4A4A50">fine droplets evaporate over a long throw</text>
+
+  <!-- row 3 -->
+  <rect x="60" y="354" width="340" height="106" rx="8" fill="#F8F8F9" stroke="#E3E3E6"/>
+  <text x="80" y="382" font-size="13.5" font-weight="700" fill="#1F1F23">Coarse, wind-borne dust</text>
+  <text x="80" y="406" font-size="11" fill="#4A4A50">Above roughly 200 micron; settles</text>
+  <text x="80" y="423" font-size="11" fill="#4A4A50">quickly but is easily re-suspended by traffic</text>
+
+  <path d="M406 407 L436 407" stroke="#A31F34" stroke-width="1.6"/>
+  <path d="M430 401 L437 407 L430 413 Z" fill="#A31F34"/>
+
+  <rect x="450" y="354" width="340" height="106" rx="8" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <text x="470" y="382" font-size="13.5" font-weight="700" fill="#A31F34">Cannon coarse spray</text>
+  <text x="470" y="406" font-size="11" fill="#4A4A50">200 to 1000 micron droplets; brings a</text>
+  <text x="470" y="423" font-size="11" fill="#4A4A50">visible plume down over an area</text>
+
+  <path d="M796 407 L826 407" stroke="#A31F34" stroke-width="1.6"/>
+  <path d="M820 401 L827 407 L820 413 Z" fill="#A31F34"/>
+
+  <rect x="840" y="354" width="300" height="106" rx="8" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <text x="860" y="386" font-size="15" font-weight="700" fill="#A31F34">Tens to hundreds of metres</text>
+  <text x="860" y="410" font-size="11" fill="#4A4A50">Can work from a tower, so nobody</text>
+  <text x="860" y="427" font-size="11" fill="#4A4A50">has to stand in the dust</text>
+</svg>
