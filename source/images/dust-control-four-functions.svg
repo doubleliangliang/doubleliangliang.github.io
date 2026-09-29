@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="560" fill="#FFFFFF"/>
+  <text x="40" y="46" font-size="25" font-weight="700" fill="#1F1F23">Four Functions, Not One Product</text>
+  <text x="40" y="74" font-size="13.5" fill="#606068">Area, point, gate and loop each answer a different question. They are not a single family ranked by size.</text>
+
+  <!-- 1 AREA -->
+  <rect x="31" y="104" width="271" height="420" rx="10" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <rect x="31" y="104" width="271" height="6" rx="3" fill="#A31F34"/>
+  <text x="55" y="146" font-size="12" font-weight="700" fill="#A31F34" letter-spacing="1.5">AREA</text>
+  <text x="55" y="174" font-size="16.5" font-weight="700" fill="#1F1F23">Long-range fog cannon</text>
+  <text x="55" y="208" font-size="11.5" fill="#4A4A50">Projects atomised water across</text>
+  <text x="55" y="226" font-size="11.5" fill="#4A4A50">open ground and brings a visible</text>
+  <text x="55" y="244" font-size="11.5" fill="#4A4A50">plume down over an area.</text>
+  <text x="55" y="288" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT BELONGS</text>
+  <text x="55" y="312" font-size="11.5" fill="#3A3A40">Stockyards and tipping areas</text>
+  <text x="55" y="332" font-size="11.5" fill="#3A3A40">Crushing and screening platforms</text>
+  <text x="55" y="352" font-size="11.5" fill="#3A3A40">Slag yards</text>
+  <text x="55" y="372" font-size="11.5" fill="#3A3A40">Haul roads</text>
+  <text x="55" y="414" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">PRECONDITION</text>
+  <text x="55" y="438" font-size="11.5" fill="#3A3A40">Wind-aware layout and overlap;</text>
+  <text x="55" y="456" font-size="11.5" fill="#3A3A40">mechanical sweeping on the</text>
+  <text x="55" y="474" font-size="11.5" fill="#3A3A40">same route, on a defined schedule</text>
+
+  <!-- 2 POINT -->
+  <rect x="320" y="104" width="271" height="420" rx="10" fill="#F5F8FA" stroke="#D5E1E8"/>
+  <rect x="320" y="104" width="271" height="6" rx="3" fill="#2E6F8E"/>
+  <text x="344" y="146" font-size="12" font-weight="700" fill="#2E6F8E" letter-spacing="1.5">POINT</text>
+  <text x="344" y="174" font-size="16.5" font-weight="700" fill="#1F1F23">Dry fog system</text>
+  <text x="344" y="208" font-size="11.5" fill="#4A4A50">Atomises air and water to 1-10</text>
+  <text x="344" y="226" font-size="11.5" fill="#4A4A50">micron droplets that agglomerate</text>
+  <text x="344" y="244" font-size="11.5" fill="#4A4A50">fine dust at a fixed source.</text>
+  <text x="344" y="288" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT BELONGS</text>
+  <text x="344" y="312" font-size="11.5" fill="#3A3A40">Belt transfer points and skirts</text>
+  <text x="344" y="332" font-size="11.5" fill="#3A3A40">Crusher feed and discharge</text>
+  <text x="344" y="352" font-size="11.5" fill="#3A3A40">Screens, chutes, bucket elevators</text>
+  <text x="344" y="372" font-size="11.5" fill="#3A3A40">Bunker charging points</text>
+  <text x="344" y="414" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">PRECONDITION</text>
+  <text x="344" y="438" font-size="11.5" fill="#3A3A40">An enclosure or containment</text>
+  <text x="344" y="456" font-size="11.5" fill="#3A3A40">volume. Used in the open, the fog</text>
+  <text x="344" y="474" font-size="11.5" fill="#3A3A40">disperses and nothing is captured.</text>
+
+  <!-- 3 GATE -->
+  <rect x="609" y="104" width="271" height="420" rx="10" fill="#FAF7F2" stroke="#E6DCCD"/>
+  <rect x="609" y="104" width="271" height="6" rx="3" fill="#8A6A41"/>
+  <text x="633" y="146" font-size="12" font-weight="700" fill="#8A6A41" letter-spacing="1.5">GATE</text>
+  <text x="633" y="174" font-size="16.5" font-weight="700" fill="#1F1F23">Wheel wash station</text>
+  <text x="633" y="208" font-size="11.5" fill="#4A4A50">Cleans tyres and undercarriage</text>
+  <text x="633" y="226" font-size="11.5" fill="#4A4A50">so material stops leaving the site</text>
+  <text x="633" y="244" font-size="11.5" fill="#4A4A50">on the vehicles that serve it.</text>
+  <text x="633" y="288" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT BELONGS</text>
+  <text x="633" y="312" font-size="11.5" fill="#3A3A40">Site exits used by haulage</text>
+  <text x="633" y="332" font-size="11.5" fill="#3A3A40">Haul roads feeding the public road</text>
+  <text x="633" y="352" font-size="11.5" fill="#3A3A40">Material logistics exits</text>
+  <text x="633" y="414" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">PRECONDITION</text>
+  <text x="633" y="438" font-size="11.5" fill="#3A3A40">Water capture and sludge routine;</text>
+  <text x="633" y="456" font-size="11.5" fill="#3A3A40">a drainage or drying stage; traffic</text>
+  <text x="633" y="474" font-size="11.5" fill="#3A3A40">that actually drives through it</text>
+
+  <!-- 4 LOOP -->
+  <rect x="898" y="104" width="271" height="420" rx="10" fill="#F7F7F9" stroke="#DEDEE4"/>
+  <rect x="898" y="104" width="271" height="6" rx="3" fill="#5F5F5F"/>
+  <text x="922" y="146" font-size="12" font-weight="700" fill="#5F5F5F" letter-spacing="1.5">LOOP</text>
+  <text x="922" y="174" font-size="16.5" font-weight="700" fill="#1F1F23">Smart control layer</text>
+  <text x="922" y="208" font-size="11.5" fill="#4A4A50">Decides when the other three</text>
+  <text x="922" y="226" font-size="11.5" fill="#4A4A50">run, and produces the record</text>
+  <text x="922" y="244" font-size="11.5" fill="#4A4A50">when a review asks for one.</text>
+  <text x="922" y="288" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT BELONGS</text>
+  <text x="922" y="312" font-size="11.5" fill="#3A3A40">Across all of the above</text>
+  <text x="922" y="332" font-size="11.5" fill="#3A3A40">Boundary and in-plant sensing</text>
+  <text x="922" y="352" font-size="11.5" fill="#3A3A40">Event logs and reporting</text>
+  <text x="922" y="414" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">PRECONDITION</text>
+  <text x="922" y="438" font-size="11.5" fill="#3A3A40">Per-zone thresholds; a model that</text>
+  <text x="922" y="456" font-size="11.5" fill="#3A3A40">separates dust from steam;</text>
+  <text x="922" y="474" font-size="11.5" fill="#3A3A40">commissioning budgeted as scope</text>
+</svg>

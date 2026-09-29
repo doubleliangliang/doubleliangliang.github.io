@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="560" fill="#FFFFFF"/>
+  <text x="40" y="46" font-size="25" font-weight="700" fill="#1F1F23">The Three Bills Dust Sends You Every Month</text>
+  <text x="40" y="74" font-size="13.5" fill="#606068">None of these three arrives with an invoice — which is why they stay invisible in the budget meeting.</text>
+
+  <!-- BILL 1 -->
+  <rect x="31" y="104" width="368" height="416" rx="10" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <rect x="31" y="104" width="368" height="6" rx="3" fill="#A31F34"/>
+  <text x="55" y="145" font-size="12" font-weight="700" fill="#A31F34" letter-spacing="1.5">BILL ONE</text>
+  <text x="55" y="175" font-size="17" font-weight="700" fill="#1F1F23">Dust reaches people first</text>
+  <text x="55" y="199" font-size="12" fill="#606068">Exposure, fire and explosion</text>
+
+  <text x="55" y="238" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">HOW IT ACCUMULATES</text>
+  <text x="55" y="262" font-size="11.5" fill="#3A3A40">Respirable dust accumulates in</text>
+  <text x="55" y="280" font-size="11.5" fill="#3A3A40">people rather than in buildings.</text>
+  <text x="55" y="310" font-size="11.5" fill="#3A3A40">A settled layer smoulders quietly,</text>
+  <text x="55" y="328" font-size="11.5" fill="#3A3A40">then a disturbance suspends it</text>
+  <text x="55" y="346" font-size="11.5" fill="#3A3A40">into a secondary explosion.</text>
+
+  <text x="55" y="386" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT SHOWS UP</text>
+  <text x="55" y="410" font-size="11.5" fill="#3A3A40">Occupational health surveillance</text>
+  <text x="55" y="430" font-size="11.5" fill="#3A3A40">Process safety and insurance audit</text>
+
+  <rect x="55" y="456" width="320" height="44" rx="6" fill="#FFFFFF" stroke="#EBD3D8"/>
+  <text x="69" y="476" font-size="10.5" font-weight="700" fill="#A31F34">TARGET</text>
+  <text x="69" y="492" font-size="11.5" fill="#3A3A40">The settled layer, not only the plume</text>
+
+  <!-- BILL 2 -->
+  <rect x="416" y="104" width="368" height="416" rx="10" fill="#F5F8FA" stroke="#D5E1E8"/>
+  <rect x="416" y="104" width="368" height="6" rx="3" fill="#2E6F8E"/>
+  <text x="440" y="145" font-size="12" font-weight="700" fill="#2E6F8E" letter-spacing="1.5">BILL TWO</text>
+  <text x="440" y="175" font-size="17" font-weight="700" fill="#1F1F23">Dust blinds the plant</text>
+  <text x="440" y="199" font-size="12" fill="#606068">Lost visibility and lost sight distance</text>
+
+  <text x="440" y="238" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">HOW IT ACCUMULATES</text>
+  <text x="440" y="262" font-size="11.5" fill="#3A3A40">Airborne dust scatters light and</text>
+  <text x="440" y="280" font-size="11.5" fill="#3A3A40">compresses depth perception.</text>
+  <text x="440" y="298" font-size="11.5" fill="#3A3A40">Edges, openings and moving plant</text>
+  <text x="440" y="316" font-size="11.5" fill="#3A3A40">disappear from the operator's view.</text>
+  <text x="440" y="346" font-size="11.5" fill="#3A3A40">Dusted glass and visors degrade</text>
+  <text x="440" y="364" font-size="11.5" fill="#3A3A40">vision before anyone reports it.</text>
+
+  <text x="440" y="404" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT SHOWS UP</text>
+  <text x="440" y="428" font-size="11.5" fill="#3A3A40">Vehicle, plant and pedestrian incidents</text>
+  <text x="440" y="448" font-size="11.5" fill="#3A3A40">Opacity and visible-emission findings</text>
+
+  <rect x="440" y="468" width="320" height="32" rx="6" fill="#FFFFFF" stroke="#D5E1E8"/>
+  <text x="454" y="489" font-size="11.5" fill="#3A3A40">Visible-emission limit is legally enforceable</text>
+
+  <!-- BILL 3 -->
+  <rect x="801" y="104" width="368" height="416" rx="10" fill="#FAF7F2" stroke="#E6DCCD"/>
+  <rect x="801" y="104" width="368" height="6" rx="3" fill="#8A6A41"/>
+  <text x="825" y="145" font-size="12" font-weight="700" fill="#8A6A41" letter-spacing="1.5">BILL THREE</text>
+  <text x="825" y="175" font-size="17" font-weight="700" fill="#1F1F23">Dust wears out machines</text>
+  <text x="825" y="199" font-size="12" fill="#606068">Premature failure and unplanned downtime</text>
+
+  <text x="825" y="238" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">HOW IT ACCUMULATES</text>
+  <text x="825" y="262" font-size="11.5" fill="#3A3A40">Abrasive particles mix with grease</text>
+  <text x="825" y="280" font-size="11.5" fill="#3A3A40">and turn bearings into grinding paste.</text>
+  <text x="825" y="300" font-size="11.5" fill="#3A3A40">Settled dust blocks cooling paths,</text>
+  <text x="825" y="318" font-size="11.5" fill="#3A3A40">raising cabinet temperatures.</text>
+  <text x="825" y="338" font-size="11.5" fill="#3A3A40">Conductive dust bridges terminals;</text>
+  <text x="825" y="356" font-size="11.5" fill="#3A3A40">fouled sensors report the wrong thing.</text>
+
+  <text x="825" y="396" font-size="10.5" font-weight="700" fill="#808088" letter-spacing="1">WHERE IT SHOWS UP</text>
+  <text x="825" y="420" font-size="11.5" fill="#3A3A40">Maintenance variance and spares spend</text>
+  <text x="825" y="440" font-size="11.5" fill="#3A3A40">Lost production hours, booked elsewhere</text>
+
+  <rect x="825" y="466" width="320" height="34" rx="6" fill="#FFFFFF" stroke="#E6DCCD"/>
+  <text x="839" y="488" font-size="11.5" fill="#3A3A40">Availability problem, not a cleaning expense</text>
+</svg>

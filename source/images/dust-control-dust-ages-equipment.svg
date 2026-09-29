@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="560" fill="#FFFFFF"/>
+  <text x="40" y="46" font-size="25" font-weight="700" fill="#1F1F23">Five Ways Dust Shortens Machine Life</text>
+  <text x="40" y="74" font-size="13.5" fill="#606068">They act at the same time on different subsystems, so the symptoms get treated separately and the cause stays in place.</text>
+
+  <!-- 1 -->
+  <rect x="31" y="104" width="712" height="76" rx="9" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <circle cx="66" cy="142" r="17" fill="#A31F34"/>
+  <text x="66" y="148" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="98" y="135" font-size="15" font-weight="700" fill="#1F1F23">Abrasive wear</text>
+  <text x="98" y="158" font-size="11.5" fill="#4A4A50">Hard particles mixed with grease form a lapping paste. Bearings, guides, gearbox breathers and idler seals stop</text>
+  <text x="98" y="175" font-size="11.5" fill="#4A4A50">behaving like lubricated assemblies and start behaving like grinding machines.</text>
+
+  <!-- 2 -->
+  <rect x="31" y="192" width="712" height="76" rx="9" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <circle cx="66" cy="230" r="17" fill="#A31F34"/>
+  <text x="66" y="236" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="98" y="223" font-size="15" font-weight="700" fill="#1F1F23">Lubrication failure</text>
+  <text x="98" y="246" font-size="11.5" fill="#4A4A50">Contaminated oil and grease lose film strength. The machine keeps running, so nothing looks wrong, but the</text>
+  <text x="98" y="263" font-size="11.5" fill="#4A4A50">component reaches end of life early and the failure is recorded as a parts-quality problem.</text>
+
+  <!-- 3 -->
+  <rect x="31" y="280" width="712" height="76" rx="9" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <circle cx="66" cy="318" r="17" fill="#A31F34"/>
+  <text x="66" y="324" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="98" y="311" font-size="15" font-weight="700" fill="#1F1F23">Blocked cooling paths</text>
+  <text x="98" y="334" font-size="11.5" fill="#4A4A50">Dust on heat sinks, motor fins, radiator cores and ventilation filters raises operating temperature without</text>
+  <text x="98" y="351" font-size="11.5" fill="#4A4A50">tripping anything. As a rule of thumb, each 10 degC rise roughly halves electrolytic capacitor life.</text>
+
+  <!-- 4 -->
+  <rect x="31" y="368" width="712" height="76" rx="9" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <circle cx="66" cy="406" r="17" fill="#A31F34"/>
+  <text x="66" y="412" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="98" y="399" font-size="15" font-weight="700" fill="#1F1F23">Electrical and control contamination</text>
+  <text x="98" y="422" font-size="11.5" fill="#4A4A50">Conductive dust bridges clearances on terminals and connectors, producing leakage currents and nuisance trips.</text>
+  <text x="98" y="439" font-size="11.5" fill="#4A4A50">Fouled sensors, encoders and photo-switches report the wrong thing, which hides the real cause.</text>
+
+  <!-- 5 -->
+  <rect x="31" y="456" width="712" height="76" rx="9" fill="#FDF6F7" stroke="#EBD3D8"/>
+  <circle cx="66" cy="494" r="17" fill="#A31F34"/>
+  <text x="66" y="500" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+  <text x="98" y="487" font-size="15" font-weight="700" fill="#1F1F23">Hydraulic and pneumatic degradation</text>
+  <text x="98" y="510" font-size="11.5" fill="#4A4A50">Seals and valve spools are intolerant of particulate. Pressure loss, slower actuation and sticking valves are</text>
+  <text x="98" y="527" font-size="11.5" fill="#4A4A50">usually the first visible symptom of an environment problem rather than a component problem.</text>
+
+  <!-- side panel -->
+  <rect x="765" y="104" width="404" height="428" rx="10" fill="#FAF7F2" stroke="#E6DCCD"/>
+  <rect x="765" y="104" width="404" height="6" rx="3" fill="#8A6A41"/>
+  <text x="789" y="148" font-size="12" font-weight="700" fill="#8A6A41" letter-spacing="1.5">WHAT IT ACTUALLY COSTS</text>
+  <text x="789" y="180" font-size="16" font-weight="700" fill="#1F1F23">The bill is downtime,</text>
+  <text x="789" y="203" font-size="16" font-weight="700" fill="#1F1F23">not the spare part.</text>
+
+  <line x1="789" y1="228" x2="1145" y2="228" stroke="#E6DCCD"/>
+
+  <text x="789" y="258" font-size="20" font-weight="700" fill="#8A6A41">61%</text>
+  <text x="789" y="280" font-size="11.5" fill="#4A4A50">of manufacturers surveyed had</text>
+  <text x="789" y="297" font-size="11.5" fill="#4A4A50">unplanned downtime in one year</text>
+
+  <text x="789" y="332" font-size="20" font-weight="700" fill="#8A6A41">44%</text>
+  <text x="789" y="354" font-size="11.5" fill="#4A4A50">experience equipment-related</text>
+  <text x="789" y="371" font-size="11.5" fill="#4A4A50">interruptions at least monthly</text>
+
+  <text x="789" y="406" font-size="20" font-weight="700" fill="#8A6A41">$1.7M</text>
+  <text x="789" y="428" font-size="11.5" fill="#4A4A50">average cost reported per hour</text>
+  <text x="789" y="445" font-size="11.5" fill="#4A4A50">of unplanned downtime</text>
+
+  <text x="789" y="480" font-size="20" font-weight="700" fill="#8A6A41">~11%</text>
+  <text x="789" y="502" font-size="11.5" fill="#4A4A50">of revenue lost to unplanned</text>
+  <text x="789" y="519" font-size="11.5" fill="#4A4A50">downtime at large manufacturers</text>
+</svg>
