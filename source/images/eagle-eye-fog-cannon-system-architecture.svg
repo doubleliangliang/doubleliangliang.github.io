@@ -7,7 +7,7 @@
   <rect x="40" y="110" width="230" height="96" rx="10" fill="#0f766e"/>
   <text x="56" y="148" font-size="17" font-weight="700" fill="#ffffff">1. Perception Layer</text>
   <text x="56" y="172" font-size="13" fill="#ccfbf1">Sensing</text>
-  <text x="56" y="192" font-size="13" fill="#ccfbf1">现场感知</text>
+  <text x="56" y="192" font-size="13" fill="#ccfbf1">Continuous coverage</text>
 
   <rect x="300" y="110" width="270" height="96" rx="10" fill="#ecfdf5" stroke="#5eead4" stroke-width="2"/>
   <text x="318" y="146" font-size="15" font-weight="700" fill="#134e4a">AI Vision Cameras</text>
@@ -31,7 +31,7 @@
   <rect x="40" y="240" width="230" height="96" rx="10" fill="#1d4ed8"/>
   <text x="56" y="278" font-size="17" font-weight="700" fill="#ffffff">2. Edge AI Layer</text>
   <text x="56" y="302" font-size="13" fill="#dbeafe">Recognition</text>
-  <text x="56" y="322" font-size="13" fill="#dbeafe">智能识别</text>
+  <text x="56" y="322" font-size="13" fill="#dbeafe">Separating dust from steam</text>
 
   <rect x="300" y="240" width="270" height="96" rx="10" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
   <text x="318" y="276" font-size="15" font-weight="700" fill="#1e3a8a">Plume Detection Model</text>
@@ -55,7 +55,7 @@
   <rect x="40" y="370" width="230" height="96" rx="10" fill="#b45309"/>
   <text x="56" y="408" font-size="17" font-weight="700" fill="#ffffff">3. Control Layer</text>
   <text x="56" y="432" font-size="13" fill="#fef3c7">Linkage</text>
-  <text x="56" y="452" font-size="13" fill="#fef3c7">联动控制</text>
+  <text x="56" y="452" font-size="13" fill="#fef3c7">One source, one cannon group</text>
 
   <rect x="300" y="370" width="270" height="96" rx="10" fill="#fffbeb" stroke="#fcd34d" stroke-width="2"/>
   <text x="318" y="406" font-size="15" font-weight="700" fill="#78350f">Zone Strategy</text>
@@ -79,7 +79,7 @@
   <rect x="40" y="500" width="230" height="96" rx="10" fill="#7c3aed"/>
   <text x="56" y="538" font-size="17" font-weight="700" fill="#ffffff">4. Execution Layer</text>
   <text x="56" y="562" font-size="13" fill="#ede9fe">Suppression</text>
-  <text x="56" y="582" font-size="13" fill="#ede9fe">抑尘执行</text>
+  <text x="56" y="582" font-size="13" fill="#ede9fe">Suppression where it is needed</text>
 
   <rect x="300" y="500" width="270" height="96" rx="10" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
   <text x="318" y="536" font-size="15" font-weight="700" fill="#4c1d95">Long-Range Fog Cannon</text>
@@ -103,7 +103,7 @@
   <rect x="40" y="630" width="230" height="96" rx="10" fill="#334155"/>
   <text x="56" y="668" font-size="17" font-weight="700" fill="#ffffff">5. Data Layer</text>
   <text x="56" y="692" font-size="13" fill="#e2e8f0">Verification</text>
-  <text x="56" y="712" font-size="13" fill="#e2e8f0">数据核验</text>
+  <text x="56" y="712" font-size="13" fill="#e2e8f0">Records that hold up</text>
 
   <rect x="300" y="630" width="270" height="96" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
   <text x="318" y="666" font-size="15" font-weight="700" fill="#0f172a">Live Dashboard</text>
@@ -120,8 +120,8 @@
   <text x="898" y="688" font-size="12.5" fill="#475569">Traceable logbook for</text>
   <text x="898" y="708" font-size="12.5" fill="#475569">inspection and audit</text>
 
-  <!-- feedback loop -->
-  <path d="M1150 630 L1170 630 L1170 130 L600 130" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#a)"/>
+  <!-- feedback loop: compliance records -> threshold engine (layer 2, right column) -->
+  <path d="M1150 678 L1170 678 L1170 288 L1156 288" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#a)"/>
   <text x="1000" y="762" font-size="13" fill="#64748b" text-anchor="middle">Verification data feeds back into the threshold engine for continuous tuning</text>
 
   <defs>

@@ -8,7 +8,7 @@
   <text x="135" y="152" font-size="14" font-weight="700" fill="#134e4a" text-anchor="middle">1. Monitor</text>
   <text x="135" y="178" font-size="12" fill="#475569" text-anchor="middle">Camera + PM</text>
   <text x="135" y="196" font-size="12" fill="#475569" text-anchor="middle">+ weather</text>
-  <text x="135" y="222" font-size="12" font-weight="600" fill="#0f766e" text-anchor="middle">监测</text>
+  <text x="135" y="222" font-size="12" font-weight="600" fill="#0f766e" text-anchor="middle">24/7 coverage</text>
 
   <path d="M210 185 L246 185" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#c)"/>
 
@@ -16,7 +16,7 @@
   <text x="303" y="152" font-size="14" font-weight="700" fill="#1e3a8a" text-anchor="middle">2. Identify</text>
   <text x="303" y="178" font-size="12" fill="#475569" text-anchor="middle">Dust plume or</text>
   <text x="303" y="196" font-size="12" fill="#475569" text-anchor="middle">dusty operation</text>
-  <text x="303" y="222" font-size="12" font-weight="600" fill="#1d4ed8" text-anchor="middle">识别</text>
+  <text x="303" y="222" font-size="12" font-weight="600" fill="#1d4ed8" text-anchor="middle">dust vs steam</text>
 
   <path d="M378 185 L414 185" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#c)"/>
 
@@ -24,7 +24,7 @@
   <text x="471" y="152" font-size="14" font-weight="700" fill="#78350f" text-anchor="middle">3. Grade</text>
   <text x="471" y="178" font-size="12" fill="#475569" text-anchor="middle">Level I / II / III</text>
   <text x="471" y="196" font-size="12" fill="#475569" text-anchor="middle">by intensity</text>
-  <text x="471" y="222" font-size="12" font-weight="600" fill="#b45309" text-anchor="middle">分级</text>
+  <text x="471" y="222" font-size="12" font-weight="600" fill="#b45309" text-anchor="middle">matched response</text>
 
   <path d="M546 185 L582 185" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#c)"/>
 
@@ -32,7 +32,7 @@
   <text x="639" y="152" font-size="14" font-weight="700" fill="#4c1d95" text-anchor="middle">4. Trigger</text>
   <text x="639" y="178" font-size="12" fill="#475569" text-anchor="middle">Only the zone</text>
   <text x="639" y="196" font-size="12" fill="#475569" text-anchor="middle">involved sprays</text>
-  <text x="639" y="222" font-size="12" font-weight="600" fill="#7c3aed" text-anchor="middle">联动</text>
+  <text x="639" y="222" font-size="12" font-weight="600" fill="#7c3aed" text-anchor="middle">preset + PLC</text>
 
   <path d="M714 185 L750 185" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#c)"/>
 
@@ -40,7 +40,7 @@
   <text x="807" y="152" font-size="14" font-weight="700" fill="#7f1d1d" text-anchor="middle">5. Verify</text>
   <text x="807" y="178" font-size="12" fill="#475569" text-anchor="middle">Plume gone,</text>
   <text x="807" y="196" font-size="12" fill="#475569" text-anchor="middle">PM back to baseline</text>
-  <text x="807" y="222" font-size="12" font-weight="600" fill="#b91c1c" text-anchor="middle">复核</text>
+  <text x="807" y="222" font-size="12" font-weight="600" fill="#b91c1c" text-anchor="middle">not an opinion</text>
 
   <path d="M882 185 L918 185" stroke="#94a3b8" stroke-width="2.5" marker-end="url(#c)"/>
 
@@ -48,7 +48,7 @@
   <text x="975" y="152" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">6. Record</text>
   <text x="975" y="178" font-size="12" fill="#475569" text-anchor="middle">Image pair,</text>
   <text x="975" y="196" font-size="12" fill="#475569" text-anchor="middle">duration, water, power</text>
-  <text x="975" y="222" font-size="12" font-weight="600" fill="#334155" text-anchor="middle">留痕</text>
+  <text x="975" y="222" font-size="12" font-weight="600" fill="#334155" text-anchor="middle">inspection-ready</text>
 
   <!-- feedback -->
   <path d="M975 250 L975 330 L135 330 L135 256" fill="none" stroke="#0f766e" stroke-width="2.5" stroke-dasharray="7 6" marker-end="url(#d)"/>
