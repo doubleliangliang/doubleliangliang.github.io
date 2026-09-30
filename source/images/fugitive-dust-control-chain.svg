@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="540" viewBox="0 0 1100 540" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1100" height="540" fill="#FFFFFF"/>
+  <text x="40" y="50" font-size="26" font-weight="700" fill="#1F2430">Where the dust is generated decides what is installed</text>
+  <text x="40" y="80" font-size="15.5" fill="#5F6672">Fog covers the point. Cannons cover the area. A wheel wash covers what would leave.</text>
+
+  <g>
+    <rect x="40" y="106" width="320" height="300" rx="12" fill="#F1F6F9" stroke="#D3E2EA"/>
+    <text x="60" y="140" font-size="14" letter-spacing="2" fill="#2E6F8E" font-weight="700">POINT SOURCES</text>
+    <text x="60" y="176" font-size="16" font-weight="700" fill="#1F2430">Enclosed, fine, sticky</text>
+    <text x="60" y="202" font-size="13.5" fill="#5F6672">Conveyor transfer points,</text>
+    <text x="60" y="221" font-size="13.5" fill="#5F6672">crusher discharge chutes,</text>
+    <text x="60" y="240" font-size="13.5" fill="#5F6672">bucket elevators, silo tops.</text>
+    <line x1="200" y1="266" x2="200" y2="300" stroke="#2E6F8E" stroke-width="2"/>
+    <path d="M194 296 L200 308 L206 296 Z" fill="#2E6F8E"/>
+    <rect x="60" y="314" width="280" height="72" rx="8" fill="#FFFFFF" stroke="#B9D2DE"/>
+    <text x="76" y="342" font-size="16" font-weight="700" fill="#2E6F8E">DRY FOG</text>
+    <text x="76" y="366" font-size="13" fill="#5F6672">1-10 um droplets, moisture</text>
+    <text x="76" y="382" font-size="13" fill="#5F6672">added in parts per thousand</text>
+  </g>
+
+  <g>
+    <rect x="390" y="106" width="320" height="300" rx="12" fill="#FDF2F4" stroke="#EFD3D9"/>
+    <text x="410" y="140" font-size="14" letter-spacing="2" fill="#A31F34" font-weight="700">AREA SOURCES</text>
+    <text x="410" y="176" font-size="16" font-weight="700" fill="#1F2430">Open, coarse, wind-borne</text>
+    <text x="410" y="202" font-size="13.5" fill="#5F6672">Stockyards, crushing decks,</text>
+    <text x="410" y="221" font-size="13.5" fill="#5F6672">haul roads, material yards,</text>
+    <text x="410" y="240" font-size="13.5" fill="#5F6672">loading and unloading bays.</text>
+    <line x1="550" y1="266" x2="550" y2="300" stroke="#A31F34" stroke-width="2"/>
+    <path d="M544 296 L550 308 L556 296 Z" fill="#A31F34"/>
+    <rect x="410" y="314" width="280" height="72" rx="8" fill="#FFFFFF" stroke="#E8BFC7"/>
+    <text x="426" y="342" font-size="16" font-weight="700" fill="#A31F34">FOG CANNON</text>
+    <text x="426" y="366" font-size="13" fill="#5F6672">30-300 m throw, area</text>
+    <text x="426" y="382" font-size="13" fill="#5F6672">suppression against the wind</text>
+  </g>
+
+  <g>
+    <rect x="740" y="106" width="320" height="300" rx="12" fill="#FAF4EC" stroke="#EADCC9"/>
+    <text x="760" y="140" font-size="14" letter-spacing="2" fill="#B07A34" font-weight="700">CARRY-OUT</text>
+    <text x="760" y="176" font-size="16" font-weight="700" fill="#1F2430">Leaves on vehicles</text>
+    <text x="760" y="202" font-size="13.5" fill="#5F6672">Truck tyres and chassis,</text>
+    <text x="760" y="221" font-size="13.5" fill="#5F6672">spilled loads, unpaved</text>
+    <text x="760" y="240" font-size="13.5" fill="#5F6672">transport roads and gates.</text>
+    <line x1="900" y1="266" x2="900" y2="300" stroke="#B07A34" stroke-width="2"/>
+    <path d="M894 296 L900 308 L906 296 Z" fill="#B07A34"/>
+    <rect x="760" y="314" width="280" height="72" rx="8" fill="#FFFFFF" stroke="#E2CFB4"/>
+    <text x="776" y="342" font-size="16" font-weight="700" fill="#B07A34">WHEEL WASH</text>
+    <text x="776" y="366" font-size="13" fill="#5F6672">Wheel cleaning, hard-surfaced</text>
+    <text x="776" y="382" font-size="13" fill="#5F6672">roads, sheeting of loads</text>
+  </g>
+
+  <rect x="40" y="428" width="1020" height="80" rx="12" fill="#F0F6F4" stroke="#CFE3DD"/>
+  <text x="62" y="462" font-size="14" letter-spacing="2" fill="#2E7D6F" font-weight="700">THE CONTROL LAYER</text>
+  <text x="62" y="490" font-size="14.5" fill="#3C424E">Links suppression to PM10 / PM2.5 monitors, wind sensors and the operating status of the equipment served, so that</text>
+  <text x="62" y="510" font-size="14.5" fill="#3C424E">spraying starts when material is moving and stops when it is not. Unlinked systems run on a timer instead.</text>
+</svg>

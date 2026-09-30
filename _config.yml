@@ -68,6 +68,7 @@ index_generator:
 default_category: uncategorized
 category_map:
   Case Studies: case-studies
+  We do care: we-do-care
 tag_map:
 
 # Metadata elements

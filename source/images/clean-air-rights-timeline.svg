@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="560" viewBox="0 0 1240 560" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1240" height="560" fill="#FFFFFF"/>
+  <text x="40" y="54" font-size="27" font-weight="700" fill="#1F2430">From Stockholm to the courtroom</text>
+  <text x="40" y="88" font-size="16" fill="#5F6672">How clean air became a recognised human right</text>
+  <line x1="40" y1="140" x2="1200" y2="140" stroke="#A31F34" stroke-width="3"/>
+
+  <circle cx="156" cy="140" r="9" fill="#A31F34"/>
+  <circle cx="388" cy="140" r="9" fill="#A31F34"/>
+  <circle cx="620" cy="140" r="9" fill="#A31F34"/>
+  <circle cx="852" cy="140" r="9" fill="#A31F34"/>
+  <circle cx="1084" cy="140" r="9" fill="#A31F34"/>
+
+  <g>
+    <rect x="50" y="182" width="212" height="248" rx="10" fill="#F7F7F8" stroke="#E2E4E8"/>
+    <text x="66" y="220" font-size="21" font-weight="700" fill="#A31F34">1972</text>
+    <text x="66" y="252" font-size="15" font-weight="700" fill="#1F2430">Stockholm</text>
+    <text x="66" y="272" font-size="15" font-weight="700" fill="#1F2430">Declaration</text>
+    <text x="66" y="308" font-size="13.5" fill="#5F6672">Environment linked to</text>
+    <text x="66" y="328" font-size="13.5" fill="#5F6672">human well-being for</text>
+    <text x="66" y="348" font-size="13.5" fill="#5F6672">the first time.</text>
+  </g>
+  <g>
+    <rect x="282" y="182" width="212" height="248" rx="10" fill="#F7F7F8" stroke="#E2E4E8"/>
+    <text x="298" y="220" font-size="21" font-weight="700" fill="#A31F34">8 Oct 2021</text>
+    <text x="298" y="252" font-size="15" font-weight="700" fill="#1F2430">UN Human Rights</text>
+    <text x="298" y="272" font-size="15" font-weight="700" fill="#1F2430">Council</text>
+    <text x="298" y="308" font-size="13.5" fill="#5F6672">Resolution 48/13.</text>
+    <text x="298" y="328" font-size="13.5" fill="#5F6672">43 in favour,</text>
+    <text x="298" y="348" font-size="13.5" fill="#5F6672">4 abstentions.</text>
+  </g>
+  <g>
+    <rect x="514" y="182" width="212" height="248" rx="10" fill="#F7F7F8" stroke="#E2E4E8"/>
+    <text x="530" y="220" font-size="21" font-weight="700" fill="#A31F34">28 Jul 2022</text>
+    <text x="530" y="252" font-size="15" font-weight="700" fill="#1F2430">UN General</text>
+    <text x="530" y="272" font-size="15" font-weight="700" fill="#1F2430">Assembly</text>
+    <text x="530" y="308" font-size="13.5" fill="#5F6672">Resolution 76/300.</text>
+    <text x="530" y="328" font-size="13.5" fill="#5F6672">161 in favour,</text>
+    <text x="530" y="348" font-size="13.5" fill="#5F6672">none against.</text>
+  </g>
+  <g>
+    <rect x="746" y="182" width="212" height="248" rx="10" fill="#FDF2F4" stroke="#EFD3D9"/>
+    <text x="762" y="220" font-size="21" font-weight="700" fill="#A31F34">9 Apr 2024</text>
+    <text x="762" y="252" font-size="15" font-weight="700" fill="#1F2430">European Court</text>
+    <text x="762" y="272" font-size="15" font-weight="700" fill="#1F2430">of Human Rights</text>
+    <text x="762" y="308" font-size="13.5" fill="#5F6672">KlimaSeniorinnen</text>
+    <text x="762" y="328" font-size="13.5" fill="#5F6672">v. Switzerland.</text>
+    <text x="762" y="348" font-size="13.5" fill="#5F6672">Article 8 breached.</text>
+  </g>
+  <g>
+    <rect x="978" y="182" width="212" height="248" rx="10" fill="#F7F7F8" stroke="#E2E4E8"/>
+    <text x="994" y="220" font-size="21" font-weight="700" fill="#A31F34">2026</text>
+    <text x="994" y="252" font-size="15" font-weight="700" fill="#1F2430">Human Rights</text>
+    <text x="994" y="272" font-size="15" font-weight="700" fill="#1F2430">Council report</text>
+    <text x="994" y="308" font-size="13.5" fill="#5F6672">Clean air named as</text>
+    <text x="994" y="328" font-size="13.5" fill="#5F6672">an element of the</text>
+    <text x="994" y="348" font-size="13.5" fill="#5F6672">right. About 8m</text>
+    <text x="994" y="368" font-size="13.5" fill="#5F6672">deaths a year.</text>
+  </g>
+
+  <text x="40" y="482" font-size="14" fill="#8A909A">Sources: UN Human Rights Council resolutions 48/13 and 61st session report; UN General Assembly resolution 76/300;</text>
+  <text x="40" y="504" font-size="14" fill="#8A909A">European Court of Human Rights, Verein KlimaSeniorinnen Schweiz and Others v. Switzerland, 9 April 2024.</text>
+</svg>

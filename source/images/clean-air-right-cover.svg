@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#A31F34"/>
+  <text x="80" y="116" font-size="19" letter-spacing="5" fill="#A31F34" font-weight="700">FENGHUA INSIGHT</text>
+  <text x="80" y="228" font-size="74" font-weight="700" fill="#1F2430">Clean air is a right,</text>
+  <text x="80" y="318" font-size="74" font-weight="700" fill="#A31F34">not a privilege.</text>
+  <line x1="80" y1="368" x2="1120" y2="368" stroke="#E6E3E4" stroke-width="2"/>
+  <text x="80" y="422" font-size="27" fill="#555C68">The global response to fugitive dust —</text>
+  <text x="80" y="462" font-size="27" fill="#555C68">the pollution that never leaves a chimney</text>
+
+  <g>
+    <rect x="80" y="500" width="245" height="86" rx="10" fill="#FDF2F4" stroke="#EFD3D9"/>
+    <text x="100" y="534" font-size="13" letter-spacing="2" fill="#A31F34" font-weight="700">RECOGNISE</text>
+    <text x="100" y="563" font-size="14" fill="#3C424E">150+ states, international</text>
+    <text x="100" y="581" font-size="14" fill="#3C424E">courts and UN resolutions</text>
+  </g>
+  <g>
+    <rect x="345" y="500" width="245" height="86" rx="10" fill="#F1F6F9" stroke="#D3E2EA"/>
+    <text x="365" y="534" font-size="13" letter-spacing="2" fill="#2E6F8E" font-weight="700">REGULATE</text>
+    <text x="365" y="563" font-size="14" fill="#3C424E">EU IED and BAT, US opacity</text>
+    <text x="365" y="581" font-size="14" fill="#3C424E">limits, China action plans</text>
+  </g>
+  <g>
+    <rect x="610" y="500" width="245" height="86" rx="10" fill="#FAF4EC" stroke="#EADCC9"/>
+    <text x="630" y="534" font-size="13" letter-spacing="2" fill="#B07A34" font-weight="700">MEASURE</text>
+    <text x="630" y="563" font-size="14" fill="#3C424E">Opacity readings, PM10 and</text>
+    <text x="630" y="581" font-size="14" fill="#3C424E">PM2.5, camera recognition</text>
+  </g>
+  <g>
+    <rect x="875" y="500" width="245" height="86" rx="10" fill="#F0F6F4" stroke="#CFE3DD"/>
+    <text x="895" y="534" font-size="13" letter-spacing="2" fill="#2E7D6F" font-weight="700">CONTROL</text>
+    <text x="895" y="563" font-size="14" fill="#3C424E">Dry fog, fog cannons, wheel</text>
+    <text x="895" y="581" font-size="14" fill="#3C424E">wash, linked control layer</text>
+  </g>
+</svg>
