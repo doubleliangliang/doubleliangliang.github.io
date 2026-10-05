@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+
+  <text x="40" y="58" font-size="23" font-weight="700" fill="#1F1F1F">Five Ways to Enclose a Coal Yard — and What Each One Changes</text>
+  <text x="40" y="88" font-size="13.5" fill="#5F5F5F">An enclosure changes where the dust goes. It does not change how much dust is generated.</text>
+  <line x1="40" y1="110" x2="1160" y2="110" stroke="#E2E2E2" stroke-width="1"/>
+
+  <text x="68" y="142" font-size="11" font-weight="700" fill="#8A8A8A" letter-spacing="1.2">STRUCTURE</text>
+  <text x="320" y="142" font-size="11" font-weight="700" fill="#8A8A8A" letter-spacing="1.2">VENTILATION BEHAVIOUR</text>
+  <text x="640" y="142" font-size="11" font-weight="700" fill="#8A8A8A" letter-spacing="1.2">WHAT IT CHANGES INSIDE</text>
+
+  <rect x="40" y="160" width="1120" height="110" rx="6" fill="#9E9E9E" fill-opacity="0.08"/>
+  <rect x="40" y="160" width="5" height="110" fill="#9E9E9E"/>
+  <text x="68" y="222" font-size="16" font-weight="600" fill="#1F1F1F">Open stockpile</text>
+  <text x="320" y="222" font-size="13.5" fill="#3F3F3F">Fully wind-driven</text>
+  <text x="640" y="222" font-size="13.5" fill="#3F3F3F">Dust and heat escape freely — the fence line is the problem</text>
+
+  <rect x="40" y="278" width="1120" height="110" rx="6" fill="#A31F34" fill-opacity="0.07"/>
+  <rect x="40" y="278" width="5" height="110" fill="#A31F34"/>
+  <text x="68" y="340" font-size="16" font-weight="600" fill="#1F1F1F">Steel shed (bar-type)</text>
+  <text x="320" y="340" font-size="13.5" fill="#3F3F3F">Louvres and roof vents, natural draught</text>
+  <text x="640" y="340" font-size="13.5" fill="#3F3F3F">Large still-air volume — dust and heat stratify at roof level</text>
+
+  <rect x="40" y="396" width="1120" height="110" rx="6" fill="#C2691E" fill-opacity="0.08"/>
+  <rect x="40" y="396" width="5" height="110" fill="#C2691E"/>
+  <text x="68" y="458" font-size="16" font-weight="600" fill="#1F1F1F">Circular dome</text>
+  <text x="320" y="458" font-size="13.5" fill="#3F3F3F">One large span, few openings</text>
+  <text x="640" y="458" font-size="13.5" fill="#3F3F3F">Very large enclosed volume — air exchange is mechanical only</text>
+
+  <rect x="40" y="514" width="1120" height="110" rx="6" fill="#8A6A41" fill-opacity="0.09"/>
+  <rect x="40" y="514" width="5" height="110" fill="#8A6A41"/>
+  <text x="68" y="576" font-size="16" font-weight="600" fill="#1F1F1F">Silo / bunker battery</text>
+  <text x="320" y="576" font-size="13.5" fill="#3F3F3F">Essentially sealed, little or no airflow</text>
+  <text x="640" y="576" font-size="13.5" fill="#3F3F3F">High surface-to-volume — long residence favours self-heating</text>
+
+  <rect x="40" y="632" width="1120" height="110" rx="6" fill="#2E6F8E" fill-opacity="0.08"/>
+  <rect x="40" y="632" width="5" height="110" fill="#2E6F8E"/>
+  <text x="68" y="694" font-size="16" font-weight="600" fill="#1F1F1F">Air-supported structure</text>
+  <text x="320" y="694" font-size="13.5" fill="#3F3F3F">Held by slight internal pressure</text>
+  <text x="640" y="694" font-size="13.5" fill="#3F3F3F">Best containment, weakest exchange — gas and dust stay put</text>
+
+  <text x="40" y="778" font-size="13" fill="#5F5F5F">No single structure solves dust, heat and gas at once. The tighter the enclosure, the more the control has to be engineered.</text>
+</svg>
