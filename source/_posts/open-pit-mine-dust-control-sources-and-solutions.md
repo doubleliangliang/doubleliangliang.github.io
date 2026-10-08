@@ -7,6 +7,8 @@ tags:
   - Open-Pit Mining
   - Mine Dust Control
   - Haul Road Dust
+  - Autonomous Mining
+  - Conveyor Dust Control
   - Respirable Crystalline Silica
   - Fog Cannon
   - Dry Fog
@@ -16,14 +18,16 @@ tags:
   - Dust Suppression
 categories:
   - Case Studies
-description: 'Six of the eight dust sources in an open-pit mine are decided long before anyone buys a machine. Why unpaved haul roads account for 80 to 96 per cent of PM10 in published surface-mining inventories, why watering stops working by mid-morning, how respirable crystalline silica and boundary limits set the real target, and how four different methods map onto eight different sources.'
+description: 'Why unpaved haul roads still set the number at the fence even after a mine goes autonomous and electric, why watering stops working by mid-morning, how respirable crystalline silica and boundary limits define the real target, and why the crusher-to-stockyard chain and every dust control on it has to report to the same control room as the driverless trucks.'
 keywords:
   - open pit mine dust control
   - mine haul road dust suppression
-  - haul road watering
+  - autonomous mining truck dust
+  - electric mine haul truck
+  - mine dust monitoring platform
+  - conveyor transfer point dust control
   - respirable crystalline silica mining
   - blasting dust control
-  - wet drilling dust suppression
   - fog cannon for mining
   - dry fog dust suppression
   - quarry dust control
@@ -100,6 +104,20 @@ Which is the operational argument for doing three things instead of one: reduce 
 
 **It is quietly consuming the fleet.** Abrasive dust drawn into engines accelerates cylinder and ring wear; it blocks radiators and air filters, contaminates lubricants, and attacks electrical enclosures and switchgear contacts. On a site with tens of haul trucks, the maintenance line item is larger than the dust control budget that would have prevented part of it.
 
+## Autonomous Haulage Removed the Drivers. It Did Not Remove the Dust.
+
+China's open-pit mines are being converted to remote and autonomous operation faster than almost any other industrial setting in the world, and the numbers moved quickly. Autonomous haul trucks in operation at Chinese mines went from about **88 units in 2020 to more than 4,000 by the end of 2025**. One supplier alone runs more than 2,300 trucks across 26-plus sites, with the largest single-mine deployment above 500 units. Roughly two-thirds of the mines that have adopted autonomous haulage are open-pit coal operations, and autonomous trucks account for close to 88 per cent of the vehicles running at those sites. The performance figures have stopped being demonstration numbers: extended-range and battery-electric autonomous trucks have been reported at **98 to 107 per cent of manual transport efficiency**, with fuel savings of 20 to 30 per cent per unit. At one iron-ore operation, phased conversion of the haul fleet cut driver positions by about 150 — close to 80 per cent of the driving roster — with annual labour savings above 42 million yuan.
+
+The safety argument behind that conversion is worth stating precisely, because it is usually stated loosely. In the conventional model, haulage is where the people are: transport accounts for close to half of a mine's total labour. Every truck carries a driver. Every shovel carries operators. Around them run light vehicles — pickups, survey utes, supervisors, fitters, visitors — and on a mine these are traditionally marked with a **very tall flag on a pole**, because a person beside a light vehicle simply does not register in the field of view of a truck whose bonnet sits above the cab roof. Now put that traffic mix on a ramp where visibility is periodically reduced by the material this article is about. A dust plume is not a nuisance in that context. It is the condition under which a 300-tonne truck and a light vehicle share a road.
+
+Autonomy dissolves that configuration. It removes the drivers from the cabs and the fitters from the benches; it withdraws the light vehicles that existed mainly to carry people to machines; and it replaces eyesight with a sensor stack that does not tire and does not need to see through a windscreen. The 5G and 5G-A links, centimetre-level stopping accuracy and multi-modal perception marketed with these fleets are described in terms of safety and productivity, and they are — but they also describe a system that reads the road through lidar, millimetre-wave radar and cameras, and that holds station in visibility of a few tens of metres in snow, dust or darkness.
+
+**What autonomy does not touch is the source term.** An autonomous truck lifts the same mass of respirable dust off the running surface as a driven one, because the mechanism is tyres and silt, not the driver. Electrification does not change it either: a battery-electric haul truck has no exhaust particulate, which is a genuine and substantial gain, but the dust produced by tyre shear on an unpaved road is mechanical, not combustion-related. What autonomy changes is **who is exposed**. The occupational health problem moves sharply down the list. The environmental problem at the fence does not move at all — which is why a mine can be fully autonomous, fully electric, and still fail its boundary monitoring.
+
+There is a second-order effect that matters more than it first appears. **Removing the drivers also removes the people who used to notice the road.** A driver on a ten-hour haul cycle is a continuous, involuntary road-condition sensor: they feel the surface, see the plume in the mirror, and complain long before anyone measures anything. When the cab is empty, the road is only monitored if somebody is measuring it. Automation therefore raises the requirement for instrumentation rather than lowering it — and it shifts mine management from managing people to managing equipment, which is a data problem before it is anything else.
+
+![Autonomy removes the people from the haul but leaves the dust source term unchanged, and takes away the drivers who used to report road condition](/images/autonomous-haulage-risk-shift.svg)
+
 ## Matching the Method to the Source
 
 There is no single device for an open-pit mine, and the reason is that the four available methods are not rival versions of the same thing. They do different jobs, on different dust, with different response times.
@@ -116,6 +134,36 @@ There is no single device for an open-pit mine, and the reason is that the four 
 
 The grid in the diagram is deliberately not a specification. Its purpose is to make the mismatch visible: a fog cannon aimed at a haul road is doing the job of a water cart badly, and a water cart dispatched towards an airborne blast cloud will arrive after the cloud has gone. Both mistakes are common, and both are the result of choosing equipment before writing the inventory.
 
+## From the Crusher to the Stockyard: the Half of the Mine That Gets Left Out
+
+The haul road deserves the attention it gets, because that is where most of the mass is. But material does not stop at the crusher, and the second half of its journey is where dust control is simultaneously easier to do properly and, in most projects, less complete.
+
+Follow the material. It is loaded at the face, hauled up the ramp, tipped at a crusher or a run-of-mine stockpile, reclaimed onto a conveyor, transferred two, three or five times, stacked in a yard, and finally loaded out onto road trucks. That is five to seven additional dust sources connected in series, and each one generates dust by a different mechanism.
+
+**Crushers, screens and transfer points** produce the most concentrated dust on the site, and they are the easiest to control — because the equipment is fixed, the air volume is knowable, and the dust is inside a box that can be sealed. The mechanism is specific: material falling down a chute accelerates to five to eight metres per second and drags an induced air stream with it, and it is that induced air, not the wind, that carries the fines out of the transfer. The order of attack matters. A curved chute that slows the fall to two to three metres per second reduces the energy available; a sealed skirt with a double seal on the belt line keeps the displaced air inside; dry fog inside the enclosure wets the particles before they can escape. Vendor measurements for a properly designed transfer-point system put concentrations around the transfer **below 5 mg/m³**, and dry fog and water-air spray have been reported at **70 to 85 per cent reduction in respirable dust**, some of them at roughly a third of the water consumption of conventional water-only spray.
+
+**Conveyor lines** are a linear source over kilometres, exposed to cross wind, and are dealt with by enclosure, double-sealed skirt boards, and belt scrapers that stop the return strand from carrying material back along the line.
+
+**Stockyards and load-out** are the hardest half, because the surface is open and the material is loose: long slopes, exposed faces, wind erosion, self-heating on coal and sulphide material, and a plume at every tipping and loading point. Surface sealing, progressive rehabilitation, and suppression aimed at the fall of material are the practical measures — and they are the ones most often deferred, because they are the least visible.
+
+None of that is new equipment. **What is new is the requirement that all of it be connected** — and here the autonomous haulage described earlier sets the standard.
+
+A mine that has just spent several years wiring its trucks, shovels and dispatch system to a control centre has already built the network and the operating habits. What it usually has not done is extend the same discipline to the dust side of the plant. The result is a site that can tell you, to the metre, where every truck is, and cannot tell you whether the dry fog at transfer point 3 has been running since Tuesday. The material that automation has made possible is a chain in which four things are visible to the same control room, at the same time.
+
+**Production.** Conveyor start and stop, belt load, crusher current, stacker position, truck arrival. These are not only process data; they are the trigger signals. A suppression system that starts because a conveyor started is a system that also works on the night shift.
+
+**Pollution.** Particulate monitors at the crusher, the transfer points, the stockyard and the boundary, plus wind speed and direction at the pit rim, reporting continuously — PM2.5, PM10, TSP, and the wind field that decides where they go.
+
+**Dust control.** The state of every suppression device: running or stopped, water pressure, flow, nozzle status, fault alarms. A device that cannot report its own state is a device that will be discovered to have been broken for three weeks.
+
+**The record.** Data retained, so that the sequence — threshold exceeded, suppression started, concentration fell, suppression stopped — can be shown to a regulator or a client, and so that the control logic can be tuned against measured performance rather than against a design assumption.
+
+This loop already exists in Chinese mines, largely underground: ground-level centralised dust control platforms that collect from monitoring points around the clock, raise an audible and visual alarm on exceedance, and remotely start, stop and adjust every suppression device on the section, running unattended; AI video analytics on pan-tilt cameras that read visibility in the dust itself and trigger spray on that basis; infrared and belt interlocks that open a water curtain when the belt turns and close it when a vehicle passes. The open-pit chain — crusher, transfer, belt, yard — is where the gap is largest, and it is the part of the mine that most specifications still treat as a set of unrelated fittings.
+
+For anyone specifying equipment, this reframes the question. A dust suppression system bought as an unconnected appliance — a pump, a timer and a manual switch — will be operated like one, and will be found to have been idle for most of the year. The version that survives is specified as an **instrumented terminal of the control room**: it accepts a start signal from the process, it accepts a threshold from the monitor, it reports its own state, and it can be scheduled and interrogated remotely. The equipment is not harder to build that way. It is only harder to specify that way — and that is a decision taken at the beginning of a project, not at the end.
+
+![Dust sources from crusher and transfer points through conveyor lines and stockyards to load-out, with four data streams reporting to one control room and closing the suppression loop automatically](/images/crusher-to-stockpile-dust-data-loop.svg)
+
 ## The Sequence That Holds Up on Site
 
 **First, measure rather than estimate.** A source inventory built on site walks, dust readings over time, and wind data will contradict the intuition of everyone in the room, including the people who were right about the last project. It needs to establish which sources dominate by mass, which dominate by size fraction, and when each of them actually occurs.
@@ -124,7 +172,7 @@ The grid in the diagram is deliberately not a specification. Its purpose is to m
 
 **Third, match method to source** using the logic in the previous section, and accept that a site will need two or three of the four methods working together.
 
-**Fourth, automate the trigger logic.** Continuous sources and mobile sources cannot be served by a schedule. Start signals from conveyors and crushers, vehicle detection on approach, particulate readings over threshold, wind speed and direction at the pit rim — these are what make a system operate in month six rather than in week one. The interlock logic is where the design earns its cost, and it should be written down before it is programmed.
+**Fourth, automate the trigger logic.** Continuous sources and mobile sources cannot be served by a schedule. Start signals from conveyors and crushers, vehicle detection on approach, particulate readings over threshold, wind speed and direction at the pit rim — these are what make a system operate in month six rather than in week one. The interlock logic is where the design earns its cost, and it should be written down before it is programmed. Then connect it to the room the fleet already reports to: on a mine that has moved to autonomous haulage, a suppression device that cannot be seen from the control centre is a device nobody owns.
 
 **Fifth, verify with the same instrument you used at the start.** A dust programme that cannot show its own effect on the measurement that triggered it will not survive its second budget review.
 
@@ -154,7 +202,7 @@ Where a site needs a specific configuration — long-throw cannons on benches, d
 
 ## Questions Worth Asking Before You Buy
 
-None of these require a specification sheet, and most suppliers can answer all six without hesitating.
+None of these require a specification sheet, and most suppliers can answer all seven without hesitating.
 
 **Which source is this machine for?** A single answer — not "general dust control on the site".
 
@@ -167,6 +215,8 @@ None of these require a specification sheet, and most suppliers can answer all s
 **Who maintains it, from where, and with what access?**
 
 **What does it consume per operating hour — water, power, consumables and labour — and what does that cost over ten years?**
+
+**Does it report its own state to your control room, and over what protocol?** If the answer is a phone call and a clipboard, the mine will eventually be fully automated on the haul side and manual on the dust side. Those two halves should reach the same platform.
 
 The last question is the one that reframes the discussion. Purchase price is a fraction of the ten-year cost, and the fractions that dominate it are water, power, maintenance and downtime. A cheaper machine that cannot hold its droplet spectrum, or that needs a person to press a button every time the wind changes, is not cheaper.
 

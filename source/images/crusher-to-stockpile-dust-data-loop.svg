@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="720" fill="#FFFFFF"/>
+
+  <text x="40" y="54" font-size="23" font-weight="700" fill="#1F1F1F">From Crusher to Stockpile: Four Data Streams, One Control Room</text>
+  <text x="40" y="82" font-size="13.5" fill="#5F5F5F">The downstream half of the material path, its dust mechanisms, and what has to report back.</text>
+  <line x1="40" y1="102" x2="1160" y2="102" stroke="#E2E2E2" stroke-width="1"/>
+
+  <!-- process chain -->
+  <rect x="40" y="122" width="200" height="94" rx="8" fill="#2E6F8E" fill-opacity="0.07"/>
+  <text x="140" y="146" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">Crusher</text>
+  <text x="140" y="164" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">/ screen</text>
+  <text x="140" y="186" font-size="10.5" fill="#4A4A4A" text-anchor="middle">Material falls 5&#8211;8 m/s and</text>
+  <text x="140" y="202" font-size="10.5" fill="#4A4A4A" text-anchor="middle">drags an induced air stream</text>
+
+  <rect x="262" y="122" width="200" height="94" rx="8" fill="#8A6A41" fill-opacity="0.09"/>
+  <text x="362" y="146" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">Transfer</text>
+  <text x="362" y="164" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">points</text>
+  <text x="362" y="186" font-size="10.5" fill="#4A4A4A" text-anchor="middle">Chute impact, displaced air,</text>
+  <text x="362" y="202" font-size="10.5" fill="#4A4A4A" text-anchor="middle">the highest concentration</text>
+
+  <rect x="484" y="122" width="200" height="94" rx="8" fill="#C2691E" fill-opacity="0.08"/>
+  <text x="584" y="146" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">Conveyor</text>
+  <text x="584" y="164" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">line</text>
+  <text x="584" y="186" font-size="10.5" fill="#4A4A4A" text-anchor="middle">A linear surface source over</text>
+  <text x="584" y="202" font-size="10.5" fill="#4A4A4A" text-anchor="middle">kilometres, exposed to wind</text>
+
+  <rect x="706" y="122" width="200" height="94" rx="8" fill="#3F8F7A" fill-opacity="0.09"/>
+  <text x="806" y="146" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">Stockyard</text>
+  <text x="806" y="164" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">/ pile</text>
+  <text x="806" y="186" font-size="10.5" fill="#4A4A4A" text-anchor="middle">Wind erosion on open faces,</text>
+  <text x="806" y="202" font-size="10.5" fill="#4A4A4A" text-anchor="middle">plume at the tipping point</text>
+
+  <rect x="928" y="122" width="200" height="94" rx="8" fill="#A31F34" fill-opacity="0.06"/>
+  <text x="1028" y="146" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">Load-out</text>
+  <text x="1028" y="164" font-size="13.5" font-weight="700" fill="#1F1F1F" text-anchor="middle">to road</text>
+  <text x="1028" y="186" font-size="10.5" fill="#4A4A4A" text-anchor="middle">Drop height, spillage, and</text>
+  <text x="1028" y="202" font-size="10.5" fill="#4A4A4A" text-anchor="middle">recharge of the haul road</text>
+
+  <!-- chain arrows -->
+  <path d="M242,169 L258,169" stroke="#B9C4CC" stroke-width="2"/>
+  <path d="M258,169 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+  <path d="M464,169 L480,169" stroke="#B9C4CC" stroke-width="2"/>
+  <path d="M480,169 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+  <path d="M686,169 L702,169" stroke="#B9C4CC" stroke-width="2"/>
+  <path d="M702,169 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+  <path d="M908,169 L924,169" stroke="#B9C4CC" stroke-width="2"/>
+  <path d="M924,169 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+
+  <text x="40" y="244" font-size="12.5" font-weight="700" fill="#8A8A8A">WHAT EACH POINT HAS TO REPORT BACK</text>
+
+  <!-- four data streams -->
+  <rect x="40" y="258" width="266" height="120" rx="8" fill="#2E6F8E" fill-opacity="0.06"/>
+  <text x="56" y="284" font-size="13" font-weight="700" fill="#2E6F8E">1. Production</text>
+  <text x="56" y="308" font-size="11" fill="#4A4A4A">Conveyor start and stop, belt</text>
+  <text x="56" y="325" font-size="11" fill="#4A4A4A">load, crusher current, stacker</text>
+  <text x="56" y="342" font-size="11" fill="#4A4A4A">position, truck arrival.</text>
+  <text x="56" y="364" font-size="11" font-style="italic" fill="#2E6F8E">These are the trigger signals.</text>
+
+  <rect x="318" y="258" width="266" height="120" rx="8" fill="#8A6A41" fill-opacity="0.08"/>
+  <text x="334" y="284" font-size="13" font-weight="700" fill="#8A6A41">2. Pollution</text>
+  <text x="334" y="308" font-size="11" fill="#4A4A4A">PM2.5, PM10 and TSP monitors</text>
+  <text x="334" y="325" font-size="11" fill="#4A4A4A">at crusher, transfers, yard and</text>
+  <text x="334" y="342" font-size="11" fill="#4A4A4A">boundary, plus wind speed and</text>
+  <text x="334" y="359" font-size="11" fill="#4A4A4A">direction at the pit rim.</text>
+  <text x="334" y="364" font-size="11" font-style="italic" fill="#8A6A41"></text>
+
+  <rect x="596" y="258" width="266" height="120" rx="8" fill="#3F8F7A" fill-opacity="0.08"/>
+  <text x="612" y="284" font-size="13" font-weight="700" fill="#3F8F7A">3. Dust control</text>
+  <text x="612" y="308" font-size="11" fill="#4A4A4A">Running or stopped, water</text>
+  <text x="612" y="325" font-size="11" fill="#4A4A4A">pressure, flow rate, nozzle</text>
+  <text x="612" y="342" font-size="11" fill="#4A4A4A">status, fault alarms.</text>
+  <text x="612" y="364" font-size="11" font-style="italic" fill="#3F8F7A">A silent device is a suspect device.</text>
+
+  <rect x="874" y="258" width="266" height="120" rx="8" fill="#C2691E" fill-opacity="0.07"/>
+  <text x="890" y="284" font-size="13" font-weight="700" fill="#C2691E">4. The record</text>
+  <text x="890" y="308" font-size="11" fill="#4A4A4A">Retained data and trends, so</text>
+  <text x="890" y="325" font-size="11" fill="#4A4A4A">the effect on the measurement</text>
+  <text x="890" y="342" font-size="11" fill="#4A4A4A">that triggered the spend can be</text>
+  <text x="890" y="359" font-size="11" fill="#4A4A4A">shown and the logic retuned.</text>
+
+  <!-- convergence arrows -->
+  <path d="M173,382 L173,404 L590,404" stroke="#B9C4CC" stroke-width="1.6" fill="none"/>
+  <path d="M451,382 L451,404" stroke="#B9C4CC" stroke-width="1.6"/>
+  <path d="M729,382 L729,404 L600,404" stroke="#B9C4CC" stroke-width="1.6" fill="none"/>
+  <path d="M1007,382 L1007,404 L610,404" stroke="#B9C4CC" stroke-width="1.6" fill="none"/>
+  <path d="M600,404 l0,14" stroke="#B9C4CC" stroke-width="1.6"/>
+  <path d="M600,422 l-5,-8 l10,0 z" fill="#B9C4CC"/>
+
+  <!-- control room -->
+  <rect x="200" y="426" width="800" height="66" rx="8" fill="#1F1F1F" fill-opacity="0.05" stroke="#2E6F8E" stroke-width="1"/>
+  <text x="600" y="454" font-size="15" font-weight="700" fill="#1F1F1F" text-anchor="middle">The pit control room &#8212; the same one the autonomous trucks report to</text>
+  <text x="600" y="478" font-size="11.5" fill="#4A4A4A" text-anchor="middle">Not a new platform. The same network, the same habits, extended to the dust side of the plant.</text>
+
+  <!-- closed loop -->
+  <rect x="200" y="512" width="800" height="118" rx="8" fill="#2E6F8E" fill-opacity="0.05"/>
+  <text x="220" y="538" font-size="12.5" font-weight="700" fill="#1F1F1F">The loop that has to close automatically, at three in the morning</text>
+
+  <rect x="220" y="554" width="176" height="44" rx="6" fill="#FFFFFF" stroke="#DCE6EE" stroke-width="1"/>
+  <text x="308" y="575" font-size="11.5" font-weight="700" fill="#A31F34" text-anchor="middle">Threshold exceeded</text>
+  <text x="308" y="590" font-size="10.5" fill="#8A8A8A" text-anchor="middle">monitor at the transfer</text>
+
+  <path d="M400,576 L424,576" stroke="#B9C4CC" stroke-width="2"/><path d="M424,576 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+
+  <rect x="428" y="554" width="176" height="44" rx="6" fill="#FFFFFF" stroke="#DCE6EE" stroke-width="1"/>
+  <text x="516" y="575" font-size="11.5" font-weight="700" fill="#2E6F8E" text-anchor="middle">Suppression starts</text>
+  <text x="516" y="590" font-size="10.5" fill="#8A8A8A" text-anchor="middle">dry fog, no operator needed</text>
+
+  <path d="M608,576 L632,576" stroke="#B9C4CC" stroke-width="2"/><path d="M632,576 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+
+  <rect x="636" y="554" width="176" height="44" rx="6" fill="#FFFFFF" stroke="#DCE6EE" stroke-width="1"/>
+  <text x="724" y="575" font-size="11.5" font-weight="700" fill="#3F8F7A" text-anchor="middle">Concentration falls</text>
+  <text x="724" y="590" font-size="10.5" fill="#8A8A8A" text-anchor="middle">the same monitor confirms it</text>
+
+  <path d="M816,576 L840,576" stroke="#B9C4CC" stroke-width="2"/><path d="M840,576 l-6,-4 l0,8 z" fill="#B9C4CC"/>
+
+  <rect x="844" y="554" width="136" height="44" rx="6" fill="#FFFFFF" stroke="#DCE6EE" stroke-width="1"/>
+  <text x="912" y="575" font-size="11.5" font-weight="700" fill="#8A6A41" text-anchor="middle">Water stops</text>
+  <text x="912" y="590" font-size="10.5" fill="#8A8A8A" text-anchor="middle">no runoff, no waste</text>
+
+  <text x="220" y="620" font-size="11" font-style="italic" fill="#4A4A4A">Nothing in this sequence requires a person to be standing at the transfer point &#8212; which is the point of building it.</text>
+
+  <text x="40" y="668" font-size="11" fill="#8A8A8A">Emission control on the downstream chain is not a harder engineering problem than the haul road. It is a fixed, enclosed, measurable problem &#8212; and it is the half of the mine most often left out of the specification.</text>
+  <text x="40" y="692" font-size="11" fill="#8A8A8A">A properly designed and sealed transfer point has been measured at below 5 mg/m&#179; around the transfer; dry fog and water-air spray have been reported at 70 to 85 per cent reduction in respirable dust.</text>
+</svg>

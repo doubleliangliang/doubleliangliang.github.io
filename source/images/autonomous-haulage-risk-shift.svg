@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="720" fill="#FFFFFF"/>
+
+  <text x="40" y="56" font-size="23" font-weight="700" fill="#1F1F1F">Autonomy Removed the People, Not the Dust</text>
+  <text x="40" y="86" font-size="13.5" fill="#5F5F5F">What changes when the cab is empty &#8212; and the one line that does not.</text>
+  <line x1="40" y1="108" x2="1160" y2="108" stroke="#E2E2E2" stroke-width="1"/>
+
+  <text x="286" y="140" font-size="12.5" font-weight="700" fill="#8A8A8A">CONVENTIONAL HAULAGE</text>
+  <text x="736" y="140" font-size="12.5" font-weight="700" fill="#2E6F8E">AUTONOMOUS AND ELECTRIC HAULAGE</text>
+
+  <!-- row backgrounds -->
+  <rect x="40" y="156" width="1120" height="58" rx="6" fill="#F5F7F9"/>
+  <rect x="40" y="276" width="1120" height="58" rx="6" fill="#F5F7F9"/>
+  <rect x="40" y="396" width="1120" height="58" rx="6" fill="#F5F7F9"/>
+  <rect x="40" y="516" width="1120" height="58" rx="6" fill="#F5F7F9"/>
+
+  <!-- row 1 -->
+  <text x="48" y="180" font-size="13" font-weight="700" fill="#1F1F1F">People on the haul</text>
+  <text x="48" y="199" font-size="10.5" fill="#8A8A8A">Who is physically present</text>
+  <text x="286" y="180" font-size="11.5" fill="#4A4A4A">A driver in every truck, operators on every shovel, fitters and</text>
+  <text x="286" y="199" font-size="11.5" fill="#4A4A4A">supervisors moving around the benches all shift.</text>
+  <text x="736" y="180" font-size="11.5" fill="#2E6F8E">Cabs removed entirely; crews relocated to a control room that</text>
+  <text x="736" y="199" font-size="11.5" fill="#2E6F8E">may be kilometres from the pit, on a 5G or 5G-A link.</text>
+
+  <!-- row 2 -->
+  <text x="48" y="300" font-size="13" font-weight="700" fill="#1F1F1F">Light vehicles</text>
+  <text x="48" y="319" font-size="10.5" fill="#8A8A8A">The flag-on-a-pole fleet</text>
+  <text x="286" y="300" font-size="11.5" fill="#4A4A4A">Pickups, survey utes and visitors &#8212; every one carrying a tall flag,</text>
+  <text x="286" y="319" font-size="11.5" fill="#4A4A4A">because a person is invisible to a truck that sits above the cab roof.</text>
+  <text x="736" y="300" font-size="11.5" fill="#2E6F8E">Largely withdrawn. Fewer people to carry means fewer light</text>
+  <text x="736" y="319" font-size="11.5" fill="#2E6F8E">vehicles, and fewer of the closest misjudgements on the ramps.</text>
+
+  <!-- row 3 -->
+  <text x="48" y="420" font-size="13" font-weight="700" fill="#1F1F1F">Visibility risk</text>
+  <text x="48" y="439" font-size="10.5" fill="#8A8A8A">Shared road, degraded view</text>
+  <text x="286" y="420" font-size="11.5" fill="#4A4A4A">Human eyesight, periodically reduced by dust, on roads shared</text>
+  <text x="286" y="439" font-size="11.5" fill="#4A4A4A">with vehicles in the 200 to 400 tonne class.</text>
+  <text x="736" y="420" font-size="11.5" fill="#2E6F8E">Lidar, millimetre-wave radar and camera stacks hold station in</text>
+  <text x="736" y="439" font-size="11.5" fill="#2E6F8E">tens of metres of visibility, in snow, dust and darkness.</text>
+
+  <!-- row 4 -->
+  <text x="48" y="540" font-size="13" font-weight="700" fill="#1F1F1F">Who carries the exposure</text>
+  <text x="48" y="559" font-size="10.5" fill="#8A8A8A">Occupational health</text>
+  <text x="286" y="540" font-size="11.5" fill="#4A4A4A">Silica, noise, vibration, dust and collision risk are borne by</text>
+  <text x="286" y="559" font-size="11.5" fill="#4A4A4A">people, continuously, for a working lifetime.</text>
+  <text x="736" y="540" font-size="11.5" fill="#2E6F8E">Occupational exposure falls sharply; dust becomes a maintenance,</text>
+  <text x="736" y="559" font-size="11.5" fill="#2E6F8E">permit and boundary compliance problem instead.</text>
+
+  <!-- the unchanged line -->
+  <rect x="40" y="588" width="1120" height="52" rx="6" fill="#A31F34" fill-opacity="0.07" stroke="#A31F34" stroke-opacity="0.28" stroke-width="1"/>
+  <text x="48" y="612" font-size="13" font-weight="700" fill="#A31F34">Dust generated per tonne moved</text>
+  <text x="48" y="631" font-size="10.5" fill="#A31F34">Unchanged by either technology</text>
+  <text x="286" y="612" font-size="11.5" fill="#4A4A4A">Tyres shear the running surface and lift the silt fraction, driven by</text>
+  <text x="286" y="631" font-size="11.5" fill="#4A4A4A">speed, axle load and moisture &#8212; none of which know who is driving.</text>
+  <text x="736" y="612" font-size="11.5" fill="#A31F34">Zero tailpipe particulate is a real gain, but mechanical dust is not</text>
+  <text x="736" y="631" font-size="11.5" fill="#A31F34">combustion dust. The source term stays where it was.</text>
+
+  <!-- second-order effect -->
+  <rect x="40" y="652" width="1120" height="46" rx="6" fill="#2E6F8E" fill-opacity="0.05"/>
+  <text x="48" y="672" font-size="12" font-weight="700" fill="#1F1F1F">The second-order effect: the road loses its sensors.</text>
+  <text x="48" y="690" font-size="11.5" fill="#4A4A4A">A driver on a ten-hour haul cycle feels every rut and reports the plume in the mirror. An empty cab measures nothing &#8212; so an autonomous mine needs more instrumentation, not less.</text>
+</svg>
