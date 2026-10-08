@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="720" fill="#FFFFFF"/>
+
+  <text x="40" y="58" font-size="23" font-weight="700" fill="#1F1F1F">What Actually Drives Dust Off a Haul Road</text>
+  <text x="40" y="88" font-size="13.5" fill="#5F5F5F">Four variables. Two of them are fixed when the road is designed; two change every shift.</text>
+  <line x1="40" y1="110" x2="1160" y2="110" stroke="#E2E2E2" stroke-width="1"/>
+
+  <!-- card 1 -->
+  <rect x="40" y="136" width="520" height="118" rx="8" fill="#2E6F8E" fill-opacity="0.07"/>
+  <circle cx="70" cy="166" r="15" fill="#2E6F8E"/>
+  <text x="70" y="172" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="98" y="164" font-size="15" font-weight="700" fill="#1F1F1F">Vehicle speed</text>
+  <text x="98" y="190" font-size="11.5" fill="#4A4A4A">Concentration rises as a power law with speed, not linearly. A speed</text>
+  <text x="98" y="208" font-size="11.5" fill="#4A4A4A">limit that is actually enforced is a dust control measure, and one of</text>
+  <text x="98" y="226" font-size="11.5" fill="#4A4A4A">the cheapest available.</text>
+
+  <!-- card 2 -->
+  <rect x="40" y="264" width="520" height="118" rx="8" fill="#8A6A41" fill-opacity="0.08"/>
+  <circle cx="70" cy="294" r="15" fill="#8A6A41"/>
+  <text x="70" y="300" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="98" y="292" font-size="15" font-weight="700" fill="#1F1F1F">Payload and axle load</text>
+  <text x="98" y="318" font-size="11.5" fill="#4A4A4A">Heavier trucks crush the running surface into more fines, then lift</text>
+  <text x="98" y="336" font-size="11.5" fill="#4A4A4A">more of them. The effect compounds with every pass over the same</text>
+  <text x="98" y="354" font-size="11.5" fill="#4A4A4A">grade.</text>
+
+  <!-- card 3 -->
+  <rect x="40" y="392" width="520" height="118" rx="8" fill="#C2691E" fill-opacity="0.08"/>
+  <circle cx="70" cy="422" r="15" fill="#C2691E"/>
+  <text x="70" y="428" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="98" y="420" font-size="15" font-weight="700" fill="#1F1F1F">Silt content of the running surface</text>
+  <text x="98" y="446" font-size="11.5" fill="#4A4A4A">This is the reservoir. Everything else on this page only decides how</text>
+  <text x="98" y="464" font-size="11.5" fill="#4A4A4A">quickly it is emptied. Material tracking out of the pit and onto the</text>
+  <text x="98" y="482" font-size="11.5" fill="#4A4A4A">road is what recharges it.</text>
+
+  <!-- card 4 -->
+  <rect x="40" y="520" width="520" height="118" rx="8" fill="#3F8F7A" fill-opacity="0.09"/>
+  <circle cx="70" cy="550" r="15" fill="#3F8F7A"/>
+  <text x="70" y="556" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="98" y="548" font-size="15" font-weight="700" fill="#1F1F1F">Surface moisture</text>
+  <text x="98" y="574" font-size="11.5" fill="#4A4A4A">The one variable that changes within hours, and the cheapest lever</text>
+  <text x="98" y="592" font-size="11.5" fill="#4A4A4A">on the list. The first three are design decisions. This one is an</text>
+  <text x="98" y="610" font-size="11.5" fill="#4A4A4A">operating decision, taken every shift.</text>
+
+  <!-- right panel -->
+  <rect x="600" y="136" width="560" height="502" rx="8" fill="#2E6F8E" fill-opacity="0.04"/>
+  <text x="660" y="174" font-size="12.5" font-weight="700" fill="#1F1F1F">PM10 against surface moisture &#8212; the shape of the relationship</text>
+
+  <!-- shaded high-emission zone -->
+  <rect x="660" y="192" width="94" height="368" fill="#A31F34" fill-opacity="0.06"/>
+  <!-- axes -->
+  <line x1="660" y1="192" x2="660" y2="560" stroke="#D8D8D8" stroke-width="1"/>
+  <line x1="660" y1="560" x2="1140" y2="560" stroke="#D8D8D8" stroke-width="1"/>
+  <text x="0" y="0" transform="translate(630,400) rotate(-90)" font-size="11.5" fill="#8A8A8A" text-anchor="middle">PM10 from tyre disturbance</text>
+  <text x="660" y="600" font-size="11.5" fill="#8A8A8A">Surface moisture content (%)</text>
+  <text x="660" y="580" font-size="11" fill="#8A8A8A" text-anchor="middle">0</text>
+  <text x="754" y="580" font-size="11" fill="#C2691E" font-weight="700" text-anchor="middle">2</text>
+  <text x="848" y="580" font-size="11" fill="#8A8A8A" text-anchor="middle">4</text>
+  <text x="942" y="580" font-size="11" fill="#8A8A8A" text-anchor="middle">6</text>
+  <text x="1036" y="580" font-size="11" fill="#8A8A8A" text-anchor="middle">8</text>
+  <text x="1130" y="580" font-size="11" fill="#8A8A8A" text-anchor="middle">10</text>
+
+  <!-- threshold line -->
+  <line x1="754" y1="192" x2="754" y2="560" stroke="#C2691E" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <text x="746" y="208" font-size="11.5" font-weight="700" fill="#C2691E" text-anchor="end">&#8776; 2% moisture</text>
+  <text x="710" y="548" font-size="11" font-weight="700" fill="#A31F34" text-anchor="middle">high-emission zone</text>
+
+  <!-- curve -->
+  <path d="M660,205 L683.5,276.5 L707,335.5 L730.5,379.3 L754,415.7 L801,468 L848,501.3 L895,522.6 L942,536.1 L1036,550.3 L1130,556"
+        fill="none" stroke="#2E6F8E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1040" y="470" font-size="11" font-style="italic" fill="#2E6F8E" text-anchor="middle">the flat part of the curve</text>
+
+  <!-- callout -->
+  <rect x="780" y="194" width="360" height="140" rx="8" fill="#FFFFFF" fill-opacity="0.95" stroke="#DCE6EE" stroke-width="1"/>
+  <text x="800" y="222" font-size="13.5" font-weight="700" fill="#1F1F1F">Where the curve turns</text>
+  <text x="800" y="248" font-size="11.5" fill="#4A4A4A">At roughly 2% silt moisture, measured</text>
+  <text x="800" y="266" font-size="11.5" fill="#4A4A4A">PM10 from tyre disturbance stayed</text>
+  <text x="800" y="284" font-size="11.5" fill="#4A4A4A">below 10 mg/m&#179;. Left of that line, every</text>
+  <text x="800" y="302" font-size="11.5" fill="#4A4A4A">dry pass recharges the air.</text>
+  <text x="800" y="322" font-size="11.5" font-style="italic" fill="#2E6F8E">The goal is a road that stays on the flat part.</text>
+
+  <text x="40" y="676" font-size="11" fill="#8A8A8A">The first two variables are settled by fleet choice and road design; the third by how well the pit is kept off the road; the fourth by whether watering and stabilising are scheduled or improvised.</text>
+  <text x="40" y="696" font-size="11" fill="#8A8A8A">A dust programme that only ever moves the fourth lever is fighting the other three.</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="700" fill="#FFFFFF"/>
+
+  <text x="40" y="58" font-size="23" font-weight="700" fill="#1F1F1F">Where Dust Leaves an Open-Pit Mine: Eight Sources, in Process Order</text>
+  <text x="40" y="88" font-size="13.5" fill="#5F5F5F">Drilling through to wind erosion. The sources differ in size, in timing, and in how far they travel.</text>
+  <line x1="40" y1="110" x2="1160" y2="110" stroke="#E2E2E2" stroke-width="1"/>
+
+  <!-- Row 1 -->
+  <rect x="40" y="136" width="270" height="150" rx="8" fill="#8A6A41" fill-opacity="0.08"/>
+  <circle cx="70" cy="168" r="16" fill="#8A6A41"/>
+  <text x="70" y="174" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">01</text>
+  <text x="96" y="166" font-size="15.5" font-weight="700" fill="#1F1F1F">Drilling</text>
+  <text x="96" y="188" font-size="11" fill="#7A7A7A">Point source &#183; continuous</text>
+  <text x="56" y="214" font-size="11.5" fill="#4A4A4A">Cuttings blown from the hole collar.</text>
+  <text x="56" y="232" font-size="11.5" fill="#4A4A4A">Fine, sustained, and often the highest-</text>
+  <text x="56" y="250" font-size="11.5" fill="#4A4A4A">silica stream on the whole site.</text>
+
+  <rect x="330" y="136" width="270" height="150" rx="8" fill="#A31F34" fill-opacity="0.08"/>
+  <circle cx="360" cy="168" r="16" fill="#A31F34"/>
+  <text x="360" y="174" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">02</text>
+  <text x="386" y="166" font-size="15.5" font-weight="700" fill="#1F1F1F">Blasting</text>
+  <text x="386" y="188" font-size="11" fill="#7A7A7A">Event &#183; seconds</text>
+  <text x="346" y="214" font-size="11.5" fill="#4A4A4A">A short, violent cloud of fines and gas.</text>
+  <text x="346" y="232" font-size="11.5" fill="#4A4A4A">Concentrations measured immediately</text>
+  <text x="346" y="250" font-size="11.5" fill="#4A4A4A">after detonation reach tens of g/m&#179;.</text>
+
+  <rect x="620" y="136" width="270" height="150" rx="8" fill="#C2691E" fill-opacity="0.08"/>
+  <circle cx="650" cy="168" r="16" fill="#C2691E"/>
+  <text x="650" y="174" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+  <text x="676" y="166" font-size="15.5" font-weight="700" fill="#1F1F1F">Loading</text>
+  <text x="676" y="188" font-size="11" fill="#7A7A7A">Point source &#183; repeated</text>
+  <text x="636" y="214" font-size="11.5" fill="#4A4A4A">Bucket drop, truck loading, bench clean-</text>
+  <text x="636" y="232" font-size="11.5" fill="#4A4A4A">up. Repeated hundreds of times a shift</text>
+  <text x="636" y="250" font-size="11.5" fill="#4A4A4A">at the working face.</text>
+
+  <rect x="910" y="136" width="270" height="150" rx="8" fill="#2E6F8E" fill-opacity="0.09"/>
+  <circle cx="940" cy="168" r="16" fill="#2E6F8E"/>
+  <text x="940" y="174" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">04</text>
+  <text x="966" y="166" font-size="15.5" font-weight="700" fill="#1F1F1F">Haulage</text>
+  <text x="966" y="188" font-size="11" fill="#7A7A7A">Line source &#183; all shift</text>
+  <text x="926" y="214" font-size="11.5" fill="#4A4A4A">Unpaved roads. The dominant source by</text>
+  <text x="926" y="232" font-size="11.5" fill="#4A4A4A">a wide margin, and the one most often</text>
+  <text x="926" y="250" font-size="11.5" fill="#4A4A4A">left out of the budget.</text>
+
+  <!-- Row 2 -->
+  <rect x="40" y="306" width="270" height="150" rx="8" fill="#3F8F7A" fill-opacity="0.09"/>
+  <circle cx="70" cy="338" r="16" fill="#3F8F7A"/>
+  <text x="70" y="344" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">05</text>
+  <text x="96" y="336" font-size="15.5" font-weight="700" fill="#1F1F1F">Dumping</text>
+  <text x="96" y="358" font-size="11" fill="#7A7A7A">Point source &#183; repeated</text>
+  <text x="56" y="384" font-size="11.5" fill="#4A4A4A">Overburden and ore tips. Drop height,</text>
+  <text x="56" y="402" font-size="11.5" fill="#4A4A4A">tip geometry and wind decide how far</text>
+  <text x="56" y="420" font-size="11.5" fill="#4A4A4A">the plume travels.</text>
+
+  <rect x="330" y="306" width="270" height="150" rx="8" fill="#6A4C93" fill-opacity="0.08"/>
+  <circle cx="360" cy="338" r="16" fill="#6A4C93"/>
+  <text x="360" y="344" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">06</text>
+  <text x="386" y="336" font-size="15.5" font-weight="700" fill="#1F1F1F">Crushing</text>
+  <text x="386" y="358" font-size="11" fill="#7A7A7A">Point source &#183; continuous</text>
+  <text x="346" y="384" font-size="11.5" fill="#4A4A4A">Concentrated, partly enclosed, and best</text>
+  <text x="346" y="402" font-size="11.5" fill="#4A4A4A">handled at the enclosure rather than out</text>
+  <text x="346" y="420" font-size="11.5" fill="#4A4A4A">in the open air.</text>
+
+  <rect x="620" y="306" width="270" height="150" rx="8" fill="#5B7DB1" fill-opacity="0.09"/>
+  <circle cx="650" cy="338" r="16" fill="#5B7DB1"/>
+  <text x="650" y="344" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">07</text>
+  <text x="676" y="336" font-size="15.5" font-weight="700" fill="#1F1F1F">Stockpiles</text>
+  <text x="676" y="358" font-size="11" fill="#7A7A7A">Area source &#183; continuous</text>
+  <text x="636" y="384" font-size="11.5" fill="#4A4A4A">Large exposed surfaces. Only surface</text>
+  <text x="636" y="402" font-size="11.5" fill="#4A4A4A">moisture or a binder holds the fine</text>
+  <text x="636" y="420" font-size="11.5" fill="#4A4A4A">fraction down.</text>
+
+  <rect x="910" y="306" width="270" height="150" rx="8" fill="#6B6B6B" fill-opacity="0.08"/>
+  <circle cx="940" cy="338" r="16" fill="#6B6B6B"/>
+  <text x="940" y="344" font-size="13.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">08</text>
+  <text x="966" y="336" font-size="15.5" font-weight="700" fill="#1F1F1F">Wind erosion</text>
+  <text x="966" y="358" font-size="11" fill="#7A7A7A">Area source &#183; weather-driven</text>
+  <text x="926" y="384" font-size="11.5" fill="#4A4A4A">Not tied to any single operation. Worst</text>
+  <text x="926" y="402" font-size="11.5" fill="#4A4A4A">on dry, windy days and on freshly</text>
+  <text x="926" y="420" font-size="11.5" fill="#4A4A4A">disturbed ground.</text>
+
+  <!-- Band -->
+  <rect x="40" y="486" width="1120" height="110" rx="8" fill="#A31F34" fill-opacity="0.06"/>
+  <text x="60" y="514" font-size="15" font-weight="700" fill="#1F1F1F">Two different clocks on one site</text>
+  <text x="60" y="542" font-size="12.5" font-weight="700" fill="#A31F34">Short-lived events</text>
+  <text x="60" y="564" font-size="11.5" fill="#4A4A4A">Blasting, dumping, loading. A large mass released in seconds &#8212; controlled by</text>
+  <text x="60" y="582" font-size="11.5" fill="#4A4A4A">pre-wetting the bench, and by immediate suppression once the cloud forms.</text>
+  <text x="620" y="542" font-size="12.5" font-weight="700" fill="#2E6F8E">Continuous release</text>
+  <text x="620" y="564" font-size="11.5" fill="#4A4A4A">Drilling, haulage, crushing, stockpiles, wind erosion. Controlled by automation</text>
+  <text x="620" y="582" font-size="11.5" fill="#4A4A4A">that runs whether or not anyone is watching that particular source.</text>
+
+  <text x="40" y="632" font-size="11" fill="#8A8A8A">Contribution shares differ between studies because inventories count different size fractions against different baselines.</text>
+  <text x="40" y="652" font-size="11" fill="#8A8A8A">What does not differ is the ranking: transport on unpaved roads sits at the top of every published inventory.</text>
+</svg>

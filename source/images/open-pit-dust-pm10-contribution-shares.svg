@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="680" fill="#FFFFFF"/>
+
+  <text x="40" y="58" font-size="23" font-weight="700" fill="#1F1F1F">One Source Dominates Every Inventory: Transport on Unpaved Roads</text>
+  <text x="40" y="88" font-size="13.5" fill="#5F5F5F">Reported shares of particulate emissions from surface mining operations, by source group.</text>
+  <line x1="40" y1="110" x2="1160" y2="110" stroke="#E2E2E2" stroke-width="1"/>
+
+  <!-- axis -->
+  <line x1="338" y1="146" x2="338" y2="560" stroke="#D8D8D8" stroke-width="1"/>
+  <line x1="340" y1="560" x2="1100" y2="560" stroke="#D8D8D8" stroke-width="1"/>
+  <line x1="530" y1="150" x2="530" y2="560" stroke="#EFEFEF" stroke-width="1"/>
+  <line x1="720" y1="150" x2="720" y2="560" stroke="#EFEFEF" stroke-width="1"/>
+  <line x1="910" y1="150" x2="910" y2="560" stroke="#EFEFEF" stroke-width="1"/>
+  <line x1="1100" y1="150" x2="1100" y2="560" stroke="#EFEFEF" stroke-width="1"/>
+  <text x="340" y="580" font-size="11.5" fill="#8A8A8A" text-anchor="middle">0%</text>
+  <text x="530" y="580" font-size="11.5" fill="#8A8A8A" text-anchor="middle">25%</text>
+  <text x="720" y="580" font-size="11.5" fill="#8A8A8A" text-anchor="middle">50%</text>
+  <text x="910" y="580" font-size="11.5" fill="#8A8A8A" text-anchor="middle">75%</text>
+  <text x="1100" y="580" font-size="11.5" fill="#8A8A8A" text-anchor="middle">100%</text>
+  <text x="340" y="604" font-size="11.5" fill="#8A8A8A">Share of reported particulate emissions (%)</text>
+
+  <!-- row 1 -->
+  <text x="340" y="163" font-size="12.5" font-weight="700" fill="#1F1F1F">Transport on unpaved haul roads</text>
+  <rect x="340" y="175" width="730" height="24" rx="3" fill="#A31F34" fill-opacity="0.18"/>
+  <rect x="340" y="175" width="608" height="24" rx="3" fill="#A31F34"/>
+  <text x="936" y="192" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">80% of PM10</text>
+  <text x="340" y="220" font-size="11" fill="#8A8A8A">Reported range across studies: 80&#8211;96% of PM10, and around 60% of TSP. Light band shows the upper end of the range.</text>
+
+  <!-- row 2 -->
+  <text x="340" y="248" font-size="12.5" font-weight="700" fill="#1F1F1F">Wind erosion of exposed overburden and stockpiles</text>
+  <rect x="340" y="260" width="205" height="24" rx="3" fill="#5B7DB1"/>
+  <text x="533" y="277" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">~27%</text>
+
+  <!-- row 3 -->
+  <text x="340" y="333" font-size="12.5" font-weight="700" fill="#1F1F1F">Dozers, grading and bench preparation</text>
+  <rect x="340" y="345" width="61" height="24" rx="3" fill="#C2691E"/>
+  <text x="411" y="362" font-size="12" font-weight="700" fill="#8A5A18">~8%</text>
+
+  <!-- row 4 -->
+  <text x="340" y="418" font-size="12.5" font-weight="700" fill="#1F1F1F">Blasting</text>
+  <rect x="340" y="430" width="46" height="24" rx="3" fill="#A31F34"/>
+  <text x="396" y="447" font-size="12" font-weight="700" fill="#A31F34">~6%</text>
+
+  <!-- row 5 -->
+  <text x="340" y="503" font-size="12.5" font-weight="700" fill="#1F1F1F">Overburden dumping</text>
+  <rect x="340" y="515" width="30" height="24" rx="3" fill="#3F8F7A"/>
+  <text x="380" y="532" font-size="12" font-weight="700" fill="#3F8F7A">~4%</text>
+
+  <!-- callout -->
+  <rect x="700" y="316" width="450" height="162" rx="8" fill="#2E6F8E" fill-opacity="0.07"/>
+  <rect x="700" y="316" width="4" height="162" rx="2" fill="#2E6F8E"/>
+  <text x="724" y="348" font-size="14.5" font-weight="700" fill="#1F1F1F">A number worth remembering</text>
+  <text x="724" y="376" font-size="11.5" fill="#4A4A4A">Around 0.18 kg of PM10 and 0.73 kg of TSP have</text>
+  <text x="724" y="396" font-size="11.5" fill="#4A4A4A">been estimated per tonne of coal produced, from</text>
+  <text x="724" y="416" font-size="11.5" fill="#4A4A4A">unpaved haul road transport alone.</text>
+  <text x="724" y="446" font-size="11.5" font-style="italic" fill="#2E6F8E">It is the fraction nobody sends you an invoice for.</text>
+
+  <text x="40" y="646" font-size="11" fill="#8A8A8A">Shares differ between inventories because studies count different size fractions (PM10, PM2.5, TSP) against different production baselines.</text>
+  <text x="40" y="666" font-size="11" fill="#8A8A8A">The ranking is what is consistent: haulage on unpaved roads sits at the top of every published open-pit dust inventory.</text>
+</svg>

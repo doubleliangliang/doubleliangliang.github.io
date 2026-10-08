@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="700" fill="#FFFFFF"/>
+
+  <text x="40" y="58" font-size="23" font-weight="700" fill="#1F1F1F">Matching the Method to the Source</text>
+  <text x="40" y="88" font-size="13.5" fill="#5F5F5F">No single device covers an open-pit mine. The fit follows the state of the dust, and whether the source moves.</text>
+  <line x1="40" y1="110" x2="1160" y2="110" stroke="#E2E2E2" stroke-width="1"/>
+
+  <!-- header band -->
+  <rect x="310" y="140" width="860" height="76" rx="6" fill="#4A4A4A" fill-opacity="0.05"/>
+  <text x="410" y="168" font-size="12" font-weight="700" fill="#A31F34" text-anchor="middle">Fog cannon</text>
+  <text x="410" y="188" font-size="11" fill="#6A6A6A" text-anchor="middle">long throw, 30&#8211;300 m</text>
+  <text x="630" y="168" font-size="12" font-weight="700" fill="#2E6F8E" text-anchor="middle">Dry fog / fine mist</text>
+  <text x="630" y="188" font-size="11" fill="#6A6A6A" text-anchor="middle">applied at the enclosure</text>
+  <text x="850" y="168" font-size="12" font-weight="700" fill="#3F8F7A" text-anchor="middle">Water cart, binder</text>
+  <text x="850" y="188" font-size="11" fill="#6A6A6A" text-anchor="middle">surface treatment</text>
+  <text x="1070" y="168" font-size="12" font-weight="700" fill="#6A4C93" text-anchor="middle">Enclosure &amp; extraction</text>
+  <text x="1070" y="188" font-size="11" fill="#6A6A6A" text-anchor="middle">collect, then treat</text>
+
+  <!-- row backgrounds -->
+  <rect x="40" y="224" width="1130" height="68" rx="6" fill="#FAFAFA"/>
+  <rect x="40" y="368" width="1130" height="68" rx="6" fill="#FAFAFA"/>
+  <rect x="40" y="512" width="1130" height="68" rx="6" fill="#FAFAFA"/>
+
+  <!-- row 1 drilling -->
+  <text x="56" y="252" font-size="12.5" font-weight="700" fill="#1F1F1F">Drilling</text>
+  <text x="56" y="272" font-size="11" fill="#8A8A8A">fixed, point source</text>
+  <circle cx="410" cy="258" r="11" fill="#FFFFFF" stroke="#A31F34" stroke-width="2.5"/>
+  <circle cx="630" cy="258" r="11" fill="#2E6F8E"/>
+  <circle cx="850" cy="258" r="5" fill="#3F8F7A"/>
+  <circle cx="1070" cy="258" r="11" fill="#6A4C93"/>
+
+  <!-- row 2 blasting -->
+  <text x="56" y="324" font-size="12.5" font-weight="700" fill="#1F1F1F">Blasting</text>
+  <text x="56" y="344" font-size="11" fill="#8A8A8A">event, moving cloud</text>
+  <circle cx="410" cy="330" r="11" fill="#A31F34"/>
+  <line x1="624" y1="330" x2="636" y2="330" stroke="#C0C0C0" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="850" cy="330" r="11" fill="#3F8F7A"/>
+  <line x1="1064" y1="330" x2="1076" y2="330" stroke="#C0C0C0" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- row 3 loading -->
+  <text x="56" y="396" font-size="12.5" font-weight="700" fill="#1F1F1F">Loading and working face</text>
+  <text x="56" y="416" font-size="11" fill="#8A8A8A">mobile, point source</text>
+  <circle cx="410" cy="402" r="11" fill="#A31F34"/>
+  <circle cx="630" cy="402" r="11" fill="#FFFFFF" stroke="#2E6F8E" stroke-width="2.5"/>
+  <circle cx="850" cy="402" r="11" fill="#FFFFFF" stroke="#3F8F7A" stroke-width="2.5"/>
+  <circle cx="1070" cy="402" r="5" fill="#6A4C93"/>
+
+  <!-- row 4 haul roads -->
+  <text x="56" y="468" font-size="12.5" font-weight="700" fill="#1F1F1F">Haul roads</text>
+  <text x="56" y="488" font-size="11" fill="#8A8A8A">linear, continuous</text>
+  <circle cx="410" cy="474" r="5" fill="#A31F34"/>
+  <line x1="624" y1="474" x2="636" y2="474" stroke="#C0C0C0" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="850" cy="474" r="11" fill="#3F8F7A"/>
+  <line x1="1064" y1="474" x2="1076" y2="474" stroke="#C0C0C0" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- row 5 crushing -->
+  <text x="56" y="540" font-size="12.5" font-weight="700" fill="#1F1F1F">Crushing, transfer, stockpiles</text>
+  <text x="56" y="560" font-size="11" fill="#8A8A8A">fixed, area source</text>
+  <circle cx="410" cy="546" r="11" fill="#FFFFFF" stroke="#A31F34" stroke-width="2.5"/>
+  <circle cx="630" cy="546" r="11" fill="#2E6F8E"/>
+  <circle cx="850" cy="546" r="5" fill="#3F8F7A"/>
+  <circle cx="1070" cy="546" r="11" fill="#6A4C93"/>
+
+  <!-- legend -->
+  <line x1="40" y1="600" x2="1170" y2="600" stroke="#E2E2E2" stroke-width="1"/>
+  <circle cx="58" cy="626" r="10" fill="#4A4A4A"/>
+  <text x="76" y="630" font-size="11.5" fill="#4A4A4A">Primary method</text>
+  <circle cx="228" cy="626" r="10" fill="#FFFFFF" stroke="#4A4A4A" stroke-width="2.5"/>
+  <text x="246" y="630" font-size="11.5" fill="#4A4A4A">Useful support</text>
+  <circle cx="386" cy="626" r="5" fill="#4A4A4A"/>
+  <text x="400" y="630" font-size="11.5" fill="#4A4A4A">Limited or conditional</text>
+  <line x1="562" y1="626" x2="576" y2="626" stroke="#C0C0C0" stroke-width="2" stroke-linecap="round"/>
+  <text x="586" y="630" font-size="11.5" fill="#4A4A4A">Not applicable</text>
+  <text x="760" y="630" font-size="11.5" font-style="italic" fill="#6A6A6A">Every combination is a design question, not a catalogue entry.</text>
+
+  <text x="40" y="670" font-size="11" fill="#8A8A8A">A cannon aimed at a haul road is doing the job of a water cart badly; a water cart sent at an airborne blast cloud arrives long after the cloud has moved.</text>
+</svg>
