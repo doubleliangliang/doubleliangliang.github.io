@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="620" viewBox="0 0 1240 620" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1240" height="620" fill="#FFFFFF"/>
+  <text x="40" y="54" font-size="27" font-weight="700" fill="#1F2430">What thirty years on one subject adds up to</text>
+  <text x="40" y="88" font-size="16" fill="#5F6672">Checked by somebody other than the company</text>
+  <line x1="40" y1="116" x2="1200" y2="116" stroke="#A31F34" stroke-width="3"/>
+
+  <g>
+    <rect x="40" y="140" width="373" height="196" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="64" y="180" font-size="19" font-weight="700" fill="#1F2430">Standard-setter</text>
+    <text x="64" y="212" font-size="14" fill="#5F6672">First-listed drafting unit for the national</text>
+    <text x="64" y="232" font-size="14" fill="#5F6672">machinery standard JB/T 13562-2018 on</text>
+    <text x="64" y="252" font-size="14" fill="#5F6672">air-assisted spraying devices for dust</text>
+    <text x="64" y="272" font-size="14" fill="#5F6672">suppression. In force May 2019.</text>
+    <text x="64" y="308" font-size="13" fill="#A31F34" font-weight="700">It had to define good, for everyone.</text>
+  </g>
+
+  <g>
+    <rect x="433" y="140" width="373" height="196" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="457" y="180" font-size="19" font-weight="700" fill="#1F2430">Independently assessed</text>
+    <text x="457" y="212" font-size="14" fill="#5F6672">The China Machinery Industry Federation</text>
+    <text x="457" y="232" font-size="14" fill="#5F6672">found the dust-suppression equipment at</text>
+    <text x="457" y="252" font-size="14" fill="#5F6672">internationally advanced level, filling a</text>
+    <text x="457" y="272" font-size="14" fill="#5F6672">domestic technology gap.</text>
+    <text x="457" y="308" font-size="13" fill="#A31F34" font-weight="700">Not our word for it.</text>
+  </g>
+
+  <g>
+    <rect x="826" y="140" width="373" height="196" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="850" y="180" font-size="19" font-weight="700" fill="#1F2430">Qualified and listed</text>
+    <text x="850" y="212" font-size="14" fill="#5F6672">National high-tech enterprise, Guangdong</text>
+    <text x="850" y="232" font-size="14" fill="#5F6672">famous trademark, contract-honouring and</text>
+    <text x="850" y="252" font-size="14" fill="#5F6672">credit-keeping enterprise, and listed by</text>
+    <text x="850" y="272" font-size="14" fill="#5F6672">MIIT under the air-treatment conditions.</text>
+    <text x="850" y="308" font-size="13" fill="#A31F34" font-weight="700">Audited, not claimed.</text>
+  </g>
+
+  <g>
+    <rect x="40" y="356" width="373" height="196" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="64" y="396" font-size="19" font-weight="700" fill="#1F2430">State-encouraged</text>
+    <text x="64" y="428" font-size="14" fill="#5F6672">Included in the Catalogue of Major</text>
+    <text x="64" y="448" font-size="14" fill="#5F6672">Environmental Protection Technology</text>
+    <text x="64" y="468" font-size="14" fill="#5F6672">Equipment Encouraged by the State, and in</text>
+    <text x="64" y="488" font-size="14" fill="#5F6672">coal-industry saving and abatement lists.</text>
+    <text x="64" y="524" font-size="13" fill="#A31F34" font-weight="700">Picked by ministries, not by us.</text>
+  </g>
+
+  <g>
+    <rect x="433" y="356" width="373" height="196" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="457" y="396" font-size="19" font-weight="700" fill="#1F2430">Patents</text>
+    <text x="457" y="428" font-size="14" fill="#5F6672">Dozens of granted patents, including ten</text>
+    <text x="457" y="448" font-size="14" fill="#5F6672">invention patents — filings that began the</text>
+    <text x="457" y="468" font-size="14" fill="#5F6672">year copies of the sprayer appeared and a</text>
+    <text x="457" y="488" font-size="14" fill="#5F6672">law student decided to protect his work.</text>
+    <text x="457" y="524" font-size="13" fill="#A31F34" font-weight="700">A maker, not an imitator.</text>
+  </g>
+
+  <g>
+    <rect x="826" y="356" width="373" height="196" rx="8" fill="#FBF5F6" stroke="#A31F34"/>
+    <text x="850" y="396" font-size="19" font-weight="700" fill="#1F2430">Reach and people</text>
+    <text x="850" y="428" font-size="14" fill="#5F6672">Exported to eighteen countries and regions,</text>
+    <text x="850" y="448" font-size="14" fill="#5F6672">working at ports, mines, steel plants and</text>
+    <text x="850" y="468" font-size="14" fill="#5F6672">city roads. In 2020 the design and R&amp;D</text>
+    <text x="850" y="488" font-size="14" fill="#5F6672">department was named a Guangdong</text>
+    <text x="850" y="508" font-size="14" fill="#5F6672">Province Advanced Collective.</text>
+    <text x="850" y="544" font-size="13" fill="#A31F34" font-weight="700">The people, recognised by name.</text>
+  </g>
+
+  <text x="40" y="588" font-size="14" fill="#8A909C">None of this is why the company was started. It is what accumulated while it stayed on the same subject.</text>
+</svg>

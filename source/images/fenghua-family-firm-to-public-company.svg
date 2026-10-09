@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="470" viewBox="0 0 1240 470" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1240" height="470" fill="#FFFFFF"/>
+  <text x="40" y="54" font-size="27" font-weight="700" fill="#1F2430">From a rented shed to a public company</text>
+  <text x="40" y="88" font-size="16" fill="#5F6672">Four stages of the same family business</text>
+  <line x1="40" y1="118" x2="1200" y2="118" stroke="#A31F34" stroke-width="3"/>
+
+  <line x1="40" y1="188" x2="1200" y2="188" stroke="#E6E3E4" stroke-width="2"/>
+
+  <g>
+    <rect x="40" y="188" width="272" height="240" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="64" y="226" font-size="15" font-weight="700" fill="#A31F34">EARLY 1990s</text>
+    <text x="64" y="262" font-size="21" font-weight="700" fill="#1F2430">A rented shed</text>
+    <text x="64" y="296" font-size="15" fill="#5F6672">Five hundred square</text>
+    <text x="64" y="318" font-size="15" fill="#5F6672">metres, a dozen</text>
+    <text x="64" y="340" font-size="15" fill="#5F6672">workers. He is both</text>
+    <text x="64" y="362" font-size="15" fill="#5F6672">manager and fitter.</text>
+    <text x="64" y="400" font-size="14" fill="#8A909C">Thirty-odd products</text>
+    <text x="64" y="420" font-size="14" fill="#8A909C">come out of it.</text>
+  </g>
+
+  <g>
+    <rect x="336" y="188" width="272" height="240" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="360" y="226" font-size="15" font-weight="700" fill="#A31F34">1996</text>
+    <text x="360" y="262" font-size="21" font-weight="700" fill="#1F2430">A registered</text>
+    <text x="360" y="284" font-size="21" font-weight="700" fill="#1F2430">company</text>
+    <text x="360" y="318" font-size="15" fill="#5F6672">Spray and irrigation</text>
+    <text x="360" y="340" font-size="15" fill="#5F6672">machinery for farms</text>
+    <text x="360" y="362" font-size="15" fill="#5F6672">and forests, plus</text>
+    <text x="360" y="384" font-size="15" fill="#5F6672">disinfection.</text>
+    <text x="360" y="420" font-size="14" fill="#8A909C">A husband and wife.</text>
+  </g>
+
+  <g>
+    <rect x="632" y="188" width="272" height="240" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="656" y="226" font-size="15" font-weight="700" fill="#A31F34">2014</text>
+    <text x="656" y="262" font-size="21" font-weight="700" fill="#1F2430">A public company</text>
+    <text x="656" y="296" font-size="15" fill="#5F6672">Restructured into a</text>
+    <text x="656" y="318" font-size="15" fill="#5F6672">joint-stock company:</text>
+    <text x="656" y="340" font-size="15" fill="#5F6672">board, auditors,</text>
+    <text x="656" y="362" font-size="15" fill="#5F6672">published accounts,</text>
+    <text x="656" y="384" font-size="15" fill="#5F6672">disclosure.</text>
+    <text x="656" y="420" font-size="14" fill="#8A909C">It has to explain itself.</text>
+  </g>
+
+  <g>
+    <rect x="928" y="188" width="272" height="240" rx="8" fill="#FBF5F6" stroke="#A31F34"/>
+    <text x="952" y="226" font-size="15" font-weight="700" fill="#A31F34">TODAY</text>
+    <text x="952" y="262" font-size="21" font-weight="700" fill="#1F2430">Two generations</text>
+    <text x="952" y="296" font-size="15" fill="#5F6672">Father stays chairman</text>
+    <text x="952" y="318" font-size="15" fill="#5F6672">and controlling</text>
+    <text x="952" y="340" font-size="15" fill="#5F6672">shareholder; son is</text>
+    <text x="952" y="362" font-size="15" fill="#5F6672">general manager and</text>
+    <text x="952" y="384" font-size="15" fill="#5F6672">legal representative.</text>
+    <text x="952" y="420" font-size="14" fill="#8A909C">Same standard, audited.</text>
+  </g>
+</svg>

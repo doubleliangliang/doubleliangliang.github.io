@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#A31F34"/>
+
+  <text x="80" y="112" font-size="19" letter-spacing="5" fill="#A31F34" font-weight="700">WE DO CARE</text>
+  <text x="80" y="238" font-size="72" font-weight="700" fill="#1F2430">From an orange</text>
+  <text x="80" y="326" font-size="72" font-weight="700" fill="#A31F34">grove to a public</text>
+  <text x="80" y="414" font-size="72" font-weight="700" fill="#1F2430">company.</text>
+
+  <line x1="80" y1="462" x2="1120" y2="462" stroke="#E6E3E4" stroke-width="2"/>
+  <text x="80" y="512" font-size="26" fill="#555C68">One family, one technology, and thirty years on</text>
+  <text x="80" y="550" font-size="26" fill="#555C68">the same subject.</text>
+
+  <text x="80" y="600" font-size="17" fill="#8A909C">Guangdong Fenghua Environmental Protection Equipment · Meizhou, China</text>
+
+  <g opacity="0.9">
+    <rect x="880" y="470" width="240" height="72" rx="6" fill="#FBF5F6"/>
+    <text x="900" y="500" font-size="15" fill="#A31F34" font-weight="700">1996 — 2026</text>
+    <text x="900" y="524" font-size="14" fill="#5F6672">Thirty years of spray</text>
+  </g>
+</svg>

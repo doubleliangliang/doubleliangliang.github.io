@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="470" viewBox="0 0 1240 470" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1240" height="470" fill="#FFFFFF"/>
+  <text x="40" y="54" font-size="27" font-weight="700" fill="#1F2430">One technology, five problems</text>
+  <text x="40" y="88" font-size="16" fill="#5F6672">The same idea, applied in order — and the moment that opened each door</text>
+  <line x1="40" y1="118" x2="1200" y2="118" stroke="#A31F34" stroke-width="3"/>
+
+  <g>
+    <rect x="40" y="150" width="212" height="270" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="60" y="184" font-size="14" font-weight="700" fill="#A31F34">1990s</text>
+    <text x="60" y="214" font-size="17" font-weight="700" fill="#1F2430">Irrigation &amp;</text>
+    <text x="60" y="236" font-size="17" font-weight="700" fill="#1F2430">crop protection</text>
+    <text x="60" y="270" font-size="13" fill="#5F6672">The planting boom.</text>
+    <text x="60" y="290" font-size="13" fill="#5F6672">Counties set up fruit-</text>
+    <text x="60" y="310" font-size="13" fill="#5F6672">tree teams that</text>
+    <text x="60" y="330" font-size="13" fill="#5F6672">needed mechanised</text>
+    <text x="60" y="350" font-size="13" fill="#5F6672">spraying.</text>
+    <text x="60" y="392" font-size="12" fill="#8A909C">In the registered</text>
+    <text x="60" y="408" font-size="12" fill="#8A909C">name from day one.</text>
+  </g>
+
+  <g>
+    <rect x="272" y="150" width="212" height="270" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="292" y="184" font-size="14" font-weight="700" fill="#A31F34">2003</text>
+    <text x="292" y="214" font-size="17" font-weight="700" fill="#1F2430">Disinfection &amp;</text>
+    <text x="292" y="236" font-size="17" font-weight="700" fill="#1F2430">epidemic control</text>
+    <text x="292" y="270" font-size="13" fill="#5F6672">SARS. Large-area</text>
+    <text x="292" y="290" font-size="13" fill="#5F6672">disinfection became</text>
+    <text x="292" y="310" font-size="13" fill="#5F6672">urgent for people</text>
+    <text x="292" y="330" font-size="13" fill="#5F6672">who had never</text>
+    <text x="292" y="350" font-size="13" fill="#5F6672">thought about it.</text>
+    <text x="292" y="392" font-size="12" fill="#8A909C">Already in the</text>
+    <text x="292" y="408" font-size="12" fill="#8A909C">business scope.</text>
+  </g>
+
+  <g>
+    <rect x="504" y="150" width="212" height="270" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="524" y="184" font-size="14" font-weight="700" fill="#A31F34">2000s</text>
+    <text x="524" y="214" font-size="17" font-weight="700" fill="#1F2430">Fire smoke</text>
+    <text x="524" y="236" font-size="17" font-weight="700" fill="#1F2430">extraction</text>
+    <text x="524" y="270" font-size="13" fill="#5F6672">Same throw, used to</text>
+    <text x="524" y="290" font-size="13" fill="#5F6672">pull smoke out of a</text>
+    <text x="524" y="310" font-size="13" fill="#5F6672">structure and bring</text>
+    <text x="524" y="330" font-size="13" fill="#5F6672">the temperature</text>
+    <text x="524" y="350" font-size="13" fill="#5F6672">down.</text>
+    <text x="524" y="392" font-size="12" fill="#8A909C">Cooling as well as</text>
+    <text x="524" y="408" font-size="12" fill="#8A909C">smoke removal.</text>
+  </g>
+
+  <g>
+    <rect x="736" y="150" width="212" height="270" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+    <text x="756" y="184" font-size="14" font-weight="700" fill="#A31F34">2007 — 2008</text>
+    <text x="756" y="214" font-size="17" font-weight="700" fill="#1F2430">Industrial dust</text>
+    <text x="756" y="270" font-size="13" fill="#5F6672">Webworm stripped</text>
+    <text x="756" y="290" font-size="13" fill="#5F6672">city trees; a fan</text>
+    <text x="756" y="310" font-size="13" fill="#5F6672">behind the spray</text>
+    <text x="756" y="330" font-size="13" fill="#5F6672">reached them. Then</text>
+    <text x="756" y="350" font-size="13" fill="#5F6672">the mines and ports.</text>
+    <text x="756" y="392" font-size="12" fill="#8A909C">From a machine to</text>
+    <text x="756" y="408" font-size="12" fill="#8A909C">a complete solution.</text>
+  </g>
+
+  <g>
+    <rect x="968" y="150" width="212" height="270" rx="8" fill="#FBF5F6" stroke="#A31F34"/>
+    <text x="988" y="184" font-size="14" font-weight="700" fill="#A31F34">TODAY</text>
+    <text x="988" y="214" font-size="17" font-weight="700" fill="#1F2430">Urban air,</text>
+    <text x="988" y="236" font-size="17" font-weight="700" fill="#1F2430">PM10 &amp; PM2.5</text>
+    <text x="988" y="270" font-size="13" fill="#5F6672">Truck-mounted units,</text>
+    <text x="988" y="290" font-size="13" fill="#5F6672">fixed fog cannons,</text>
+    <text x="988" y="310" font-size="13" fill="#5F6672">spray lines on lamp</text>
+    <text x="988" y="330" font-size="13" fill="#5F6672">posts, monitoring,</text>
+    <text x="988" y="350" font-size="13" fill="#5F6672">and maintenance.</text>
+    <text x="988" y="392" font-size="12" fill="#8A909C">Selling the outcome,</text>
+    <text x="988" y="408" font-size="12" fill="#8A909C">not the machine.</text>
+  </g>
+</svg>

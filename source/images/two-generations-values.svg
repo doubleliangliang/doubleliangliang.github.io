@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="560" viewBox="0 0 1240 560" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  <rect width="1240" height="560" fill="#FFFFFF"/>
+  <text x="40" y="54" font-size="27" font-weight="700" fill="#1F2430">What was inherited was values, not titles</text>
+  <text x="40" y="88" font-size="16" fill="#5F6672">Liang Huaxin founded it. Liang Liang runs it. Eight years of handover, in public.</text>
+  <line x1="40" y1="116" x2="1200" y2="116" stroke="#A31F34" stroke-width="3"/>
+
+  <rect x="40" y="150" width="500" height="200" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+  <text x="68" y="190" font-size="15" font-weight="700" fill="#A31F34">THE FOUNDER</text>
+  <text x="68" y="228" font-size="25" font-weight="700" fill="#1F2430">Liang Huaxin</text>
+  <text x="68" y="262" font-size="15" fill="#5F6672">Navy veteran. Came home, planted thirty</text>
+  <text x="68" y="284" font-size="15" fill="#5F6672">mu of oranges, and built a machine when</text>
+  <text x="68" y="306" font-size="15" fill="#5F6672">the pests came and nothing on the market</text>
+  <text x="68" y="328" font-size="15" fill="#5F6672">could save them.</text>
+
+  <rect x="700" y="150" width="500" height="200" rx="8" fill="#FBF5F6" stroke="#A31F34"/>
+  <text x="728" y="190" font-size="15" font-weight="700" fill="#A31F34">THE SECOND GENERATION</text>
+  <text x="728" y="228" font-size="25" font-weight="700" fill="#1F2430">Liang Liang</text>
+  <text x="728" y="262" font-size="15" fill="#5F6672">Assistant to the general manager when the</text>
+  <text x="728" y="284" font-size="15" fill="#5F6672">shares began trading, general manager by</text>
+  <text x="728" y="306" font-size="15" fill="#5F6672">2019, legal representative from 2022.</text>
+  <text x="728" y="328" font-size="15" fill="#5F6672">Describes the company by what it worked out.</text>
+
+  <line x1="556" y1="250" x2="684" y2="250" stroke="#A31F34" stroke-width="3"/>
+  <path d="M684 250 L668 242 L668 258 Z" fill="#A31F34"/>
+  <text x="556" y="228" font-size="14" fill="#8A909C">passed on</text>
+
+  <rect x="40" y="390" width="373" height="134" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+  <text x="64" y="424" font-size="17" font-weight="700" fill="#1F2430">Technology first,</text>
+  <text x="64" y="446" font-size="17" font-weight="700" fill="#1F2430">market second</text>
+  <text x="64" y="478" font-size="14" fill="#5F6672">Do not ask what is selling. Ask what the</text>
+  <text x="64" y="498" font-size="14" fill="#5F6672">machine is good for.</text>
+
+  <rect x="433" y="390" width="373" height="134" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+  <text x="457" y="424" font-size="17" font-weight="700" fill="#1F2430">The improvement,</text>
+  <text x="457" y="446" font-size="17" font-weight="700" fill="#1F2430">not the machine</text>
+  <text x="457" y="478" font-size="14" fill="#5F6672">Two hundred metres means nothing if the</text>
+  <text x="457" y="498" font-size="14" fill="#5F6672">dust still reaches the houses.</text>
+
+  <rect x="826" y="390" width="373" height="134" rx="8" fill="#FAFAFB" stroke="#E6E3E4"/>
+  <text x="850" y="424" font-size="17" font-weight="700" fill="#1F2430">Procedures are</text>
+  <text x="850" y="446" font-size="17" font-weight="700" fill="#1F2430">the product</text>
+  <text x="850" y="478" font-size="14" fill="#5F6672">Wear parts, water quality, winter draining.</text>
+  <text x="850" y="498" font-size="14" fill="#5F6672">Inherited, not taught.</text>
+</svg>
