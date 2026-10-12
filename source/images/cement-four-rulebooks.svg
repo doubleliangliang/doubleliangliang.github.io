@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="612" viewBox="0 0 1200 612" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Four rulebooks and four ways of judging the same cement plant dust: the EU BAT conclusions, US opacity standards, the IFC and World Bank guidelines, and China's visible-emission programme">
+  <rect width="1200" height="612" fill="#FAF7F5"/>
+  <text x="30" y="48" font-size="25" font-weight="700" fill="#2B2622">Four rulebooks, four ways of judging the same plume</text>
+  <text x="30" y="76" font-size="13.5" fill="#6B625C">They do not agree on how to describe the problem, even where they agree on the physics. Reading them together is what makes a proposal portable.</text>
+
+  <!-- panel 1 : EU -->
+  <g>
+    <rect x="30" y="104" width="270" height="396" rx="12" fill="#ffffff" stroke="#E4DCD6"/>
+    <rect x="30" y="104" width="270" height="38" rx="12" fill="#A31F34"/>
+    <rect x="30" y="128" width="270" height="14" fill="#A31F34"/>
+    <text x="48" y="129" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="0.8">EUROPEAN UNION</text>
+    <text x="48" y="178" font-size="13.5" font-weight="700" fill="#2B2622">IED 2010/75/EU</text>
+    <text x="48" y="198" font-size="11.5" fill="#4A423D">BAT conclusions 2013/163/EU</text>
+    <line x1="48" y1="222" x2="282" y2="222" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="48" y="248" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">HOW IT IS JUDGED</text>
+    <text x="48" y="274" font-size="11.5" fill="#4A423D">Against a list of accepted</text>
+    <text x="48" y="292" font-size="11.5" fill="#4A423D">techniques, with a duty to</text>
+    <text x="48" y="310" font-size="11.5" fill="#4A423D">prevent and contain</text>
+    <line x1="48" y1="338" x2="282" y2="338" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="48" y="364" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">WHAT IT MEANS FOR EQUIPMENT</text>
+    <text x="48" y="390" font-size="11.5" fill="#4A423D">Techniques, not numbers — and</text>
+    <text x="48" y="408" font-size="11.5" fill="#4A423D">automatic control is itself one</text>
+    <text x="48" y="426" font-size="11.5" fill="#4A423D">of the accepted techniques</text>
+    <rect x="48" y="450" width="234" height="30" rx="6" fill="#F0E3E6"/>
+    <text x="165" y="469" font-size="11" font-weight="600" fill="#A31F34" text-anchor="middle">Reviewed against a technique list</text>
+  </g>
+
+  <!-- panel 2 : US -->
+  <g>
+    <rect x="320" y="104" width="270" height="396" rx="12" fill="#ffffff" stroke="#E4DCD6"/>
+    <rect x="320" y="104" width="270" height="38" rx="12" fill="#2E6F8E"/>
+    <rect x="320" y="128" width="270" height="14" fill="#2E6F8E"/>
+    <text x="338" y="129" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="0.8">UNITED STATES</text>
+    <text x="338" y="178" font-size="13.5" font-weight="700" fill="#2B2622">40 CFR Part 60</text>
+    <text x="338" y="198" font-size="11.5" fill="#4A423D">Subpart OOO</text>
+    <line x1="338" y1="222" x2="572" y2="222" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="338" y="248" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">HOW IT IS JUDGED</text>
+    <text x="338" y="274" font-size="11.5" fill="#4A423D">Visually, by opacity, using</text>
+    <text x="338" y="292" font-size="11.5" fill="#4A423D">EPA Method 9 — 7 percent</text>
+    <text x="338" y="310" font-size="11.5" fill="#4A423D">generally, 12 percent at a crusher</text>
+    <line x1="338" y1="338" x2="572" y2="338" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="338" y="364" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">WHAT IT MEANS FOR EQUIPMENT</text>
+    <text x="338" y="390" font-size="11.5" fill="#4A423D">Water sprays are named, carry an</text>
+    <text x="338" y="408" font-size="11.5" fill="#4A423D">inspection duty, and are exempt</text>
+    <text x="338" y="426" font-size="11.5" fill="#4A423D">from the opacity reading</text>
+    <rect x="338" y="450" width="234" height="30" rx="6" fill="#E1EBF1"/>
+    <text x="455" y="469" font-size="11" font-weight="600" fill="#2E6F8E" text-anchor="middle">Read at the fence line</text>
+  </g>
+
+  <!-- panel 3 : lenders -->
+  <g>
+    <rect x="610" y="104" width="270" height="396" rx="12" fill="#ffffff" stroke="#E4DCD6"/>
+    <rect x="610" y="104" width="270" height="38" rx="12" fill="#8A6A41"/>
+    <rect x="610" y="128" width="270" height="14" fill="#8A6A41"/>
+    <text x="628" y="129" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="0.8">LENDERS</text>
+    <text x="628" y="178" font-size="13.5" font-weight="700" fill="#2B2622">IFC Performance Standards</text>
+    <text x="628" y="198" font-size="11.5" fill="#4A423D">World Bank EHS Guidelines</text>
+    <line x1="628" y1="222" x2="862" y2="222" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="628" y="248" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">HOW IT IS JUDGED</text>
+    <text x="628" y="274" font-size="11.5" fill="#4A423D">Against a management system,</text>
+    <text x="628" y="292" font-size="11.5" fill="#4A423D">from before commissioning —</text>
+    <text x="628" y="310" font-size="11.5" fill="#4A423D">documented and auditable</text>
+    <line x1="628" y1="338" x2="862" y2="338" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="628" y="364" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">WHAT IT MEANS FOR EQUIPMENT</text>
+    <text x="628" y="390" font-size="11.5" fill="#4A423D">Evidence carries as much weight</text>
+    <text x="628" y="408" font-size="11.5" fill="#4A423D">as hardware; dust and silica</text>
+    <text x="628" y="426" font-size="11.5" fill="#4A423D">exposure is a named hazard</text>
+    <rect x="628" y="450" width="234" height="30" rx="6" fill="#F1EBE2"/>
+    <text x="745" y="469" font-size="11" font-weight="600" fill="#8A6A41" text-anchor="middle">Proven by the paper trail</text>
+  </g>
+
+  <!-- panel 4 : China -->
+  <g>
+    <rect x="900" y="104" width="270" height="396" rx="12" fill="#ffffff" stroke="#E4DCD6"/>
+    <rect x="900" y="104" width="270" height="38" rx="12" fill="#5F5F5F"/>
+    <rect x="900" y="128" width="270" height="14" fill="#5F5F5F"/>
+    <text x="918" y="129" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="0.8">CHINA</text>
+    <text x="918" y="178" font-size="13.5" font-weight="700" fill="#2B2622">National emissions</text>
+    <text x="918" y="198" font-size="11.5" fill="#4A423D">programme for the sector</text>
+    <line x1="918" y1="222" x2="1152" y2="222" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="918" y="248" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">HOW IT IS JUDGED</text>
+    <text x="918" y="274" font-size="11.5" fill="#4A423D">Against a visible criterion — no</text>
+    <text x="918" y="292" font-size="11.5" fill="#4A423D">visible dust escaping, no</text>
+    <text x="918" y="310" font-size="11.5" fill="#4A423D">accumulated dust</text>
+    <line x1="918" y1="338" x2="1152" y2="338" stroke="#EDE5DF" stroke-width="2"/>
+    <text x="918" y="364" font-size="10.5" font-weight="700" fill="#8A807A" letter-spacing="1">WHAT IT MEANS FOR EQUIPMENT</text>
+    <text x="918" y="390" font-size="11.5" fill="#4A423D">Enclosed storage and conveying,</text>
+    <text x="918" y="408" font-size="11.5" fill="#4A423D">plus wheel and body wash at</text>
+    <text x="918" y="426" font-size="11.5" fill="#4A423D">the yard exits</text>
+    <rect x="918" y="450" width="234" height="30" rx="6" fill="#EEEEEE"/>
+    <text x="1035" y="469" font-size="11" font-weight="600" fill="#5F5F5F" text-anchor="middle">Judged by what can be seen</text>
+  </g>
+
+  <!-- convergence banner -->
+  <rect x="30" y="524" width="1140" height="66" rx="10" fill="#F3EFEA" stroke="#E0D8D0"/>
+  <rect x="30" y="524" width="7" height="66" rx="3.5" fill="#3D5A6C"/>
+  <text x="56" y="550" font-size="13" font-weight="700" fill="#2B2622">Four vocabularies, one engineering reality. All four end up asking the same four things:</text>
+  <text x="56" y="572" font-size="12.5" fill="#4A423D">bring the dust down across open ground &#183; lock it down at enclosed points &#183; stop it leaving on wheels &#183; show that it happened</text>
+</svg>

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Four distinct roles in cement plant fugitive dust control: area suppression, point suppression, carry-out control and the control layer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Four obligations in cement plant fugitive dust control, and the tool that settles each: area suppression, point suppression, carry-out control and the control layer">
   <rect width="1200" height="580" fill="#FAF7F5"/>
-  <text x="30" y="46" font-size="25" font-weight="700" fill="#2B2622">Four tools, four different jobs</text>
-  <text x="30" y="74" font-size="13.5" fill="#6B625C">Not one product family ranked by size. Only one of the four involves a decision about how much water goes into the air.</text>
+  <text x="30" y="46" font-size="25" font-weight="700" fill="#2B2622">Four obligations, and the tool that settles each</text>
+  <text x="30" y="74" font-size="13.5" fill="#6B625C">The rulebooks ask four questions. Each one is answered by a different tool — and only one of the four is a decision about how much water goes into the air.</text>
 
   <!-- panel 1 : fog cannon -->
   <g>
@@ -15,14 +15,14 @@
       <path d="M112 24 L158 10 M112 40 L162 34 M112 52 L162 58 M112 66 L158 82" stroke="#A31F34" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
     </g>
     <text x="165" y="284" font-size="17" font-weight="700" fill="#2B2622" text-anchor="middle">Fog cannon</text>
-    <text x="165" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">A large atomised volume</text>
-    <text x="165" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">projected across open ground</text>
+    <text x="165" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Bringing a plume down across</text>
+    <text x="165" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">open ground</text>
     <line x1="58" y1="360" x2="272" y2="360" stroke="#EDE5DF" stroke-width="2"/>
-    <text x="58" y="386" font-size="11" fill="#8A807A">WORKING DISTANCE</text>
-    <text x="58" y="408" font-size="12.5" font-weight="600" fill="#2B2622">Tens to a few hundred metres</text>
-    <text x="58" y="444" font-size="11" fill="#8A807A">WHERE IT BELONGS</text>
-    <text x="58" y="466" font-size="12.5" fill="#2B2622">Open yards, tipping aprons,</text>
-    <text x="58" y="484" font-size="12.5" fill="#2B2622">haul roads</text>
+    <text x="58" y="386" font-size="11" fill="#8A807A">THE OBLIGATION</text>
+    <text x="58" y="408" font-size="12.5" font-weight="600" fill="#2B2622">Open, coarse, wind-driven</text>
+    <text x="58" y="444" font-size="11" fill="#8A807A">WHERE IT SITS IN THE RULEBOOK</text>
+    <text x="58" y="466" font-size="12.5" fill="#2B2622">Named as watering of piles —</text>
+    <text x="58" y="484" font-size="12.5" fill="#2B2622">one technique in the BAT list</text>
   </g>
 
   <!-- panel 2 : dry fog -->
@@ -39,14 +39,14 @@
       <circle cx="100" cy="62" r="2.5" fill="#2E6F8E"/><circle cx="70" cy="46" r="2.5" fill="#2E6F8E"/>
     </g>
     <text x="455" y="284" font-size="17" font-weight="700" fill="#2B2622" text-anchor="middle">Dry fog</text>
-    <text x="455" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Micron droplets released at</text>
-    <text x="455" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">one fixed, enclosed source</text>
+    <text x="455" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Locking a source down where</text>
+    <text x="455" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">it starts</text>
     <line x1="348" y1="360" x2="562" y2="360" stroke="#EDE5DF" stroke-width="2"/>
-    <text x="348" y="386" font-size="11" fill="#8A807A">WORKING DISTANCE</text>
-    <text x="348" y="408" font-size="12.5" font-weight="600" fill="#2B2622">A few metres</text>
-    <text x="348" y="444" font-size="11" fill="#8A807A">WHERE IT BELONGS</text>
-    <text x="348" y="466" font-size="12.5" fill="#2B2622">Enclosed transfers, hoppers,</text>
-    <text x="348" y="484" font-size="12.5" fill="#2B2622">screens, chute loading points</text>
+    <text x="348" y="386" font-size="11" fill="#8A807A">THE OBLIGATION</text>
+    <text x="348" y="408" font-size="12.5" font-weight="600" fill="#2B2622">Confined, fine, continuous</text>
+    <text x="348" y="444" font-size="11" fill="#8A807A">WHERE IT SITS IN THE RULEBOOK</text>
+    <text x="348" y="466" font-size="12.5" fill="#2B2622">Answers the enclosure and</text>
+    <text x="348" y="484" font-size="12.5" fill="#2B2622">encapsulation clause</text>
   </g>
 
   <!-- panel 3 : wheel wash -->
@@ -63,14 +63,14 @@
       <path d="M22 42 L32 22 M55 38 L55 18 M88 42 L78 22" stroke="#2E6F8E" stroke-width="2.5" stroke-linecap="round"/>
     </g>
     <text x="745" y="284" font-size="17" font-weight="700" fill="#2B2622" text-anchor="middle">Wheel wash</text>
-    <text x="745" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Cleans tyres, chassis and body</text>
-    <text x="745" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">before the vehicle leaves</text>
+    <text x="745" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Stopping the dust that</text>
+    <text x="745" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">leaves on wheels</text>
     <line x1="638" y1="360" x2="852" y2="360" stroke="#EDE5DF" stroke-width="2"/>
-    <text x="638" y="386" font-size="11" fill="#8A807A">WORKING DISTANCE</text>
-    <text x="638" y="408" font-size="12.5" font-weight="600" fill="#2B2622">At the site exit</text>
-    <text x="638" y="444" font-size="11" fill="#8A807A">WHAT IT IS</text>
-    <text x="638" y="466" font-size="12.5" fill="#2B2622">A materials containment</text>
-    <text x="638" y="484" font-size="12.5" fill="#2B2622">device, not an air device</text>
+    <text x="638" y="386" font-size="11" fill="#8A807A">THE OBLIGATION</text>
+    <text x="638" y="408" font-size="12.5" font-weight="600" fill="#2B2622">Vehicles at the site exit</text>
+    <text x="638" y="444" font-size="11" fill="#8A807A">WHERE IT SITS IN THE RULEBOOK</text>
+    <text x="638" y="466" font-size="12.5" fill="#2B2622">Named as wheel-cleaning</text>
+    <text x="638" y="484" font-size="12.5" fill="#2B2622">equipment, and often required</text>
   </g>
 
   <!-- panel 4 : control layer -->
@@ -88,13 +88,13 @@
       <path d="M55 25 L55 46 M82 71 L64 61 M28 71 L46 61" stroke="#3D5A6C" stroke-width="2" opacity="0.6"/>
     </g>
     <text x="1035" y="284" font-size="17" font-weight="700" fill="#2B2622" text-anchor="middle">Smart control</text>
-    <text x="1035" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Decides when the other three</text>
-    <text x="1035" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">run, and when they stop</text>
+    <text x="1035" y="318" font-size="11.5" fill="#4A423D" text-anchor="middle">Producing the evidence that</text>
+    <text x="1035" y="335" font-size="11.5" fill="#4A423D" text-anchor="middle">the other three ran</text>
     <line x1="928" y1="360" x2="1142" y2="360" stroke="#EDE5DF" stroke-width="2"/>
-    <text x="928" y="386" font-size="11" fill="#8A807A">SCOPE</text>
+    <text x="928" y="386" font-size="11" fill="#8A807A">THE OBLIGATION</text>
     <text x="928" y="408" font-size="12.5" font-weight="600" fill="#2B2622">Every zone, continuously</text>
-    <text x="928" y="444" font-size="11" fill="#8A807A">WHAT IT ALSO DOES</text>
-    <text x="928" y="466" font-size="12.5" fill="#2B2622">Produces the record that</text>
-    <text x="928" y="484" font-size="12.5" fill="#2B2622">survives review</text>
+    <text x="928" y="444" font-size="11" fill="#8A807A">WHERE IT SITS IN THE RULEBOOK</text>
+    <text x="928" y="466" font-size="12.5" fill="#2B2622">Named as automatic devices</text>
+    <text x="928" y="484" font-size="12.5" fill="#2B2622">and control systems</text>
   </g>
 </svg>
