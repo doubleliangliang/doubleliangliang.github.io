@@ -174,3 +174,5 @@ If you are working through a specific case — a clinker yard that keeps failing
 
 - Website: <http://www.cannonsprayer.com/>
 - Email: <greenpath19960117@gmail.com>
+
+*This article approaches cement plant dust from a Chinese policy perspective. For the same problem read against EU BAT conclusions, US opacity standards and lender requirements — and for the case for treating a wheel wash station and a control layer as compliance items in their own right — see [Cement Plant Fugitive Dust: Which Rulebook Will Your Project Be Judged By?](/2026/10/12/cement-plant-fugitive-dust-fog-cannon-dry-fog-wheel-wash/).*

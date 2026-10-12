@@ -197,3 +197,5 @@ If you are working through a specific case — a raw material yard that keeps fa
 
 - Website: http://www.cannonsprayer.com/
 - Email: greenpath19960117@gmail.com
+
+*For the China-side view — the 2024 ultra-low emission programme, a nine-scenario map of a cement works, and the grain of a fog cannon data sheet — see [Fog Cannon Applications in the Cement Industry: Dust Control from Quarry to Packing Plant](/2026/09/23/fog-cannon-cement-industry-dust-control/).*
