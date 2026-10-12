@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Along a cement plant process chain, where water-based dust suppression is permitted and where added water becomes a quality defect">
+  <rect width="1200" height="600" fill="#FAF7F5"/>
+  <text x="30" y="44" font-size="25" font-weight="700" fill="#2B2622">Where water can go, and where it cannot</text>
+  <text x="30" y="72" font-size="13.5" fill="#6B625C">Cement is a hydraulic binder. The line that matters on a cement plant drawing is not the boundary of the plant — it is the point after</text>
+  <text x="30" y="91" font-size="13.5" fill="#6B625C">which added water stops being dust control and becomes a quality problem.</text>
+
+  <!-- upper band -->
+  <rect x="30" y="106" width="1140" height="152" rx="12" fill="#EEF4EC" stroke="#C7D9C2"/>
+  <text x="52" y="138" font-size="14" font-weight="700" fill="#3F6B3A">Water is a permitted tool here — open or semi-open, coarse material, wind- and traffic-driven</text>
+  <g font-size="14" font-weight="600" fill="#2B2622" text-anchor="middle">
+    <rect x="60" y="158" width="200" height="72" rx="8" fill="#ffffff" stroke="#C7D9C2"/>
+    <text x="160" y="188">Quarry</text>
+    <text x="160" y="212" font-size="11" font-weight="400" fill="#5C6B58">open face, haul roads</text>
+    <rect x="280" y="158" width="200" height="72" rx="8" fill="#ffffff" stroke="#C7D9C2"/>
+    <text x="380" y="188">Crushing apron</text>
+    <text x="380" y="212" font-size="11" font-weight="400" fill="#5C6B58">open tipping area</text>
+    <rect x="500" y="158" width="200" height="72" rx="8" fill="#ffffff" stroke="#C7D9C2"/>
+    <text x="600" y="188">Raw material yards</text>
+    <text x="600" y="212" font-size="11" font-weight="400" fill="#5C6B58">stacking, reclaiming</text>
+    <rect x="720" y="158" width="200" height="72" rx="8" fill="#ffffff" stroke="#C7D9C2"/>
+    <text x="820" y="188">Clinker storage</text>
+    <text x="820" y="212" font-size="11" font-weight="400" fill="#5C6B58">silo discharge, piles</text>
+    <rect x="940" y="158" width="200" height="72" rx="8" fill="#ffffff" stroke="#C7D9C2"/>
+    <text x="1040" y="188">Plant and haul roads</text>
+    <text x="1040" y="212" font-size="11" font-weight="400" fill="#5C6B58">traffic re-entrainment</text>
+  </g>
+
+  <!-- boundary -->
+  <line x1="30" y1="296" x2="1170" y2="296" stroke="#A31F34" stroke-width="3" stroke-dasharray="12 8"/>
+  <rect x="392" y="276" width="416" height="40" rx="20" fill="#A31F34"/>
+  <text x="600" y="302" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">The hydration boundary sits at the cement mill</text>
+
+  <!-- lower band -->
+  <rect x="30" y="328" width="1140" height="152" rx="12" fill="#F7ECEC" stroke="#E2C6C6"/>
+  <text x="52" y="360" font-size="14" font-weight="700" fill="#A31F34">Added water here is a quality defect — fine, sticky, enclosed, and the material is already the product</text>
+  <g font-size="14" font-weight="600" fill="#2B2622" text-anchor="middle">
+    <rect x="60" y="380" width="200" height="72" rx="8" fill="#ffffff" stroke="#E2C6C6"/>
+    <text x="160" y="410">Cement mill</text>
+    <text x="160" y="434" font-size="11" font-weight="400" fill="#6B5858">finish grinding</text>
+    <rect x="280" y="380" width="200" height="72" rx="8" fill="#ffffff" stroke="#E2C6C6"/>
+    <text x="380" y="410">Cement silos</text>
+    <text x="380" y="434" font-size="11" font-weight="400" fill="#6B5858">storage, discharge</text>
+    <rect x="500" y="380" width="200" height="72" rx="8" fill="#ffffff" stroke="#E2C6C6"/>
+    <text x="600" y="410">Packers</text>
+    <text x="600" y="434" font-size="11" font-weight="400" fill="#6B5858">bag filling</text>
+    <rect x="720" y="380" width="200" height="72" rx="8" fill="#ffffff" stroke="#E2C6C6"/>
+    <text x="820" y="410">Loading heads</text>
+    <text x="820" y="434" font-size="11" font-weight="400" fill="#6B5858">bulk and bag</text>
+    <rect x="940" y="380" width="200" height="72" rx="8" fill="#ffffff" stroke="#E2C6C6"/>
+    <text x="1040" y="410">Air slides</text>
+    <text x="1040" y="434" font-size="11" font-weight="400" fill="#6B5858">pneumatic conveying</text>
+  </g>
+
+  <!-- note -->
+  <rect x="30" y="502" width="1140" height="68" rx="10" fill="#F3EFEA" stroke="#E0D8D0"/>
+  <text x="52" y="528" font-size="12.5" fill="#4A423D">Finished cement leaves the mill specified below roughly 0.5 percent moisture. Above it, the industry calls the result pre-hydration:</text>
+  <text x="52" y="552" font-size="12.5" fill="#4A423D">caking on silo walls, blocked discharge chutes, poor flow in air slides, slipping belts, and a product that no longer meets its declared strength class.</text>
+</svg>

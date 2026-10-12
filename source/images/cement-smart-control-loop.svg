@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Six functions of a closed-loop dust control system in a cement plant: monitor, identify, grade, trigger, verify, record">
+  <defs>
+    <marker id="arw" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#3D5A6C"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="580" fill="#FAF7F5"/>
+  <text x="30" y="46" font-size="25" font-weight="700" fill="#2B2622">Replacing the timer with an event: six functions in a loop</text>
+  <text x="30" y="74" font-size="13.5" fill="#6B625C">A timer and a contactor spray whether or not anything is moving. A loop does the same work, on the right zone, and leaves a record behind.</text>
+
+  <!-- row 1 -->
+  <g>
+    <rect x="60" y="106" width="340" height="118" rx="10" fill="#ffffff" stroke="#D9E2E8"/>
+    <circle cx="88" cy="134" r="15" fill="#3D5A6C"/>
+    <text x="88" y="139" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="114" y="140" font-size="16" font-weight="700" fill="#2B2622">Monitor</text>
+    <text x="78" y="176" font-size="11.5" fill="#4A423D">Cameras at the emission points, particulate</text>
+    <text x="78" y="194" font-size="11.5" fill="#4A423D">monitors, and a local weather station</text>
+  </g>
+  <g>
+    <rect x="430" y="106" width="340" height="118" rx="10" fill="#ffffff" stroke="#D9E2E8"/>
+    <circle cx="458" cy="134" r="15" fill="#3D5A6C"/>
+    <text x="458" y="139" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="484" y="140" font-size="16" font-weight="700" fill="#2B2622">Identify</text>
+    <text x="448" y="176" font-size="11.5" fill="#4A423D">Detect the plume, and separate dust from</text>
+    <text x="448" y="194" font-size="11.5" fill="#4A423D">steam and water vapour</text>
+  </g>
+  <g>
+    <rect x="800" y="106" width="340" height="118" rx="10" fill="#ffffff" stroke="#D9E2E8"/>
+    <circle cx="828" cy="134" r="15" fill="#3D5A6C"/>
+    <text x="828" y="139" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="854" y="140" font-size="16" font-weight="700" fill="#2B2622">Grade</text>
+    <text x="818" y="176" font-size="11.5" fill="#4A423D">Turn a detection into a proportionate</text>
+    <text x="818" y="194" font-size="11.5" fill="#4A423D">response for that zone, not a binary alarm</text>
+  </g>
+
+  <!-- arrows row1 -->
+  <line x1="404" y1="165" x2="424" y2="165" stroke="#3D5A6C" stroke-width="3" marker-end="url(#arw)"/>
+  <line x1="774" y1="165" x2="794" y2="165" stroke="#3D5A6C" stroke-width="3" marker-end="url(#arw)"/>
+  <!-- 3 -> 4 wrap -->
+  <path d="M1140 165 L1170 165 L1170 419 L1146 419" fill="none" stroke="#3D5A6C" stroke-width="3" marker-end="url(#arw)"/>
+
+  <!-- centre label -->
+  <text x="600" y="300" font-size="14" font-style="italic" fill="#8A807A" text-anchor="middle">a loop, not a schedule — each step feeds the next, and the last feeds the first</text>
+
+  <!-- row 2 (reverse order) -->
+  <g>
+    <rect x="800" y="360" width="340" height="118" rx="10" fill="#ffffff" stroke="#D9E2E8"/>
+    <circle cx="828" cy="388" r="15" fill="#3D5A6C"/>
+    <text x="828" y="393" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="854" y="394" font-size="16" font-weight="700" fill="#2B2622">Trigger</text>
+    <text x="818" y="430" font-size="11.5" fill="#4A423D">Run only the affected zone, on stored</text>
+    <text x="818" y="448" font-size="11.5" fill="#4A423D">presets for angle, flow and duration</text>
+  </g>
+  <g>
+    <rect x="430" y="360" width="340" height="118" rx="10" fill="#ffffff" stroke="#D9E2E8"/>
+    <circle cx="458" cy="388" r="15" fill="#3D5A6C"/>
+    <text x="458" y="393" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="484" y="394" font-size="16" font-weight="700" fill="#2B2622">Verify</text>
+    <text x="448" y="430" font-size="11.5" fill="#4A423D">Confirm the plume cleared; escalate if it</text>
+    <text x="448" y="448" font-size="11.5" fill="#4A423D">did not, instead of spraying on</text>
+  </g>
+  <g>
+    <rect x="60" y="360" width="340" height="118" rx="10" fill="#ffffff" stroke="#D9E2E8"/>
+    <circle cx="88" cy="388" r="15" fill="#3D5A6C"/>
+    <text x="88" y="393" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="114" y="394" font-size="16" font-weight="700" fill="#2B2622">Record</text>
+    <text x="78" y="430" font-size="11.5" fill="#4A423D">Zone status, events, consumption, and the</text>
+    <text x="78" y="448" font-size="11.5" fill="#4A423D">evidence a reviewer asks for</text>
+  </g>
+
+  <!-- arrows row2 (right to left) -->
+  <line x1="796" y1="419" x2="776" y2="419" stroke="#3D5A6C" stroke-width="3" marker-end="url(#arw)"/>
+  <line x1="426" y1="419" x2="406" y2="419" stroke="#3D5A6C" stroke-width="3" marker-end="url(#arw)"/>
+  <!-- 6 -> 1 return -->
+  <path d="M60 419 L30 419 L30 165 L54 165" fill="none" stroke="#3D5A6C" stroke-width="3" marker-end="url(#arw)"/>
+</svg>
