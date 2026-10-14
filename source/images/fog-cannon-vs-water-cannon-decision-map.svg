@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1200" height="740" fill="#FFFFFF"/>
+  <text x="40" y="44" font-size="25" font-weight="bold" fill="#1F2933">Seven Site Conditions Decide It</text>
+  <text x="40" y="72" font-size="15" fill="#5F6B76">Walk the conditions in order. Any one of them can remove a machine from the shortlist.</text>
+
+  <!-- legend -->
+  <rect x="880" y="28" width="16" height="16" rx="3" fill="#2E6F8E"/>
+  <text x="904" y="41" font-size="13" fill="#3E4C59">Fog cannon</text>
+  <rect x="984" y="28" width="16" height="16" rx="3" fill="#A31F34"/>
+  <text x="1008" y="41" font-size="13" fill="#3E4C59">Monitor</text>
+  <rect x="1080" y="28" width="16" height="16" rx="3" fill="#8A6A41"/>
+  <text x="1104" y="41" font-size="13" fill="#3E4C59">Neither</text>
+
+  <!-- rows -->
+  <!-- 1 -->
+  <rect x="40" y="96" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="134" r="17" fill="#2E6F8E"/>
+  <text x="72" y="141" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="104" y="126" font-size="17" font-weight="bold" fill="#1F2933">How far does the dust have to travel?</text>
+  <text x="104" y="152" font-size="13" fill="#5F6B76">Measure mount point to the far edge of the emission zone, not to its centre.</text>
+  <rect x="820" y="112" width="120" height="30" rx="15" fill="#2E6F8E"/>
+  <text x="880" y="132" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">beyond ~50 m</text>
+  <rect x="952" y="112" width="112" height="30" rx="15" fill="#A31F34"/>
+  <text x="1008" y="132" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">inside ~20 m</text>
+
+  <!-- 2 -->
+  <rect x="40" y="180" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="218" r="17" fill="#8A6A41"/>
+  <text x="72" y="225" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="104" y="210" font-size="17" font-weight="bold" fill="#1F2933">Is the source open to the sky, or enclosed?</text>
+  <text x="104" y="236" font-size="13" fill="#5F6B76">A fog cloud needs room to travel. Enclosed points leave this comparison entirely.</text>
+  <rect x="820" y="196" width="120" height="30" rx="15" fill="#2E6F8E"/>
+  <text x="880" y="216" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">open air</text>
+  <rect x="952" y="196" width="112" height="30" rx="15" fill="#A31F34"/>
+  <text x="1008" y="216" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">close quarters</text>
+  <rect x="1076" y="196" width="72" height="30" rx="15" fill="#8A6A41"/>
+  <text x="1112" y="216" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">sealed</text>
+
+  <!-- 3 -->
+  <rect x="40" y="264" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="302" r="17" fill="#8A6A41"/>
+  <text x="72" y="309" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="104" y="294" font-size="17" font-weight="bold" fill="#1F2933">Can the material be allowed to get wet?</text>
+  <text x="104" y="320" font-size="13" fill="#5F6B76">Water is a tool before the process boundary and a defect after it.</text>
+  <rect x="820" y="280" width="120" height="30" rx="15" fill="#2E6F8E"/>
+  <text x="880" y="300" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">tolerates wetting</text>
+  <rect x="952" y="280" width="196" height="30" rx="15" fill="#8A6A41"/>
+  <text x="1050" y="300" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">capture or dry fog instead</text>
+
+  <!-- 4 -->
+  <rect x="40" y="348" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="386" r="17" fill="#2E6F8E"/>
+  <text x="72" y="393" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="104" y="378" font-size="17" font-weight="bold" fill="#1F2933">What do wind and shelter do to the plume?</text>
+  <text x="104" y="404" font-size="13" fill="#5F6B76">Record direction and speed by season, then mark what the air stream can reach.</text>
+  <rect x="820" y="364" width="120" height="30" rx="15" fill="#2E6F8E"/>
+  <text x="880" y="384" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">wind helps it</text>
+  <rect x="952" y="364" width="112" height="30" rx="15" fill="#A31F34"/>
+  <text x="1008" y="384" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">aimed, not blanket</text>
+
+  <!-- 5 -->
+  <rect x="40" y="432" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="470" r="17" fill="#8A6A41"/>
+  <text x="72" y="477" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+  <text x="104" y="462" font-size="17" font-weight="bold" fill="#1F2933">Power, water quality, winter freeze?</text>
+  <text x="104" y="488" font-size="13" fill="#5F6B76">Every site constraint becomes a number: connected load, hardness, freeze exposure.</text>
+  <rect x="820" y="448" width="160" height="30" rx="15" fill="#2E6F8E"/>
+  <text x="900" y="468" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">fan + pump load</text>
+  <rect x="992" y="448" width="156" height="30" rx="15" fill="#A31F34"/>
+  <text x="1070" y="468" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">pump only, simpler</text>
+
+  <!-- 6 -->
+  <rect x="40" y="516" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="554" r="17" fill="#2E6F8E"/>
+  <text x="72" y="561" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">6</text>
+  <text x="104" y="546" font-size="17" font-weight="bold" fill="#1F2933">Who turns it on, and at three in the morning?</text>
+  <text x="104" y="572" font-size="13" fill="#5F6B76">The least technical question decides more outcomes than the other five combined.</text>
+  <rect x="820" y="532" width="164" height="30" rx="15" fill="#2E6F8E"/>
+  <text x="902" y="552" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">unattended baseline</text>
+  <rect x="996" y="532" width="152" height="30" rx="15" fill="#A31F34"/>
+  <text x="1072" y="552" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">attended, on demand</text>
+
+  <!-- 7 -->
+  <rect x="40" y="600" width="1120" height="76" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <circle cx="72" cy="638" r="17" fill="#1F2933"/>
+  <text x="72" y="645" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">7</text>
+  <text x="104" y="630" font-size="17" font-weight="bold" fill="#1F2933">Then, and only then, choose the machine</text>
+  <text x="104" y="656" font-size="13" fill="#5F6B76">Specify by throw distance and atomisation performance, never by output power.</text>
+  <rect x="820" y="616" width="328" height="30" rx="15" fill="#EDF1F4"/>
+  <text x="984" y="636" font-size="13" font-weight="bold" fill="#1F2933" text-anchor="middle">Steps 1 to 6 are free. A site visit and a wind record.</text>
+
+  <rect x="40" y="694" width="1120" height="2" fill="#DDE3E8"/>
+  <text x="40" y="722" font-size="14" font-weight="bold" fill="#1F2933">On a well-run site the answer is usually both: the fog cannon holds the open area, the monitor handles the close and variable point.</text>
+</svg>
