@@ -6,7 +6,7 @@
   <rect x="856" y="28" width="16" height="16" rx="3" fill="#2E6F8E"/>
   <text x="880" y="41" font-size="13" fill="#3E4C59">Fog system</text>
   <rect x="976" y="28" width="16" height="16" rx="3" fill="#A31F34"/>
-  <text x="1000" y="41" font-size="13" fill="#3E4C59">Water cannon</text>
+  <text x="1000" y="41" font-size="13" fill="#3E4C59">Safety asset</text>
   <rect x="1096" y="28" width="16" height="16" rx="3" fill="#8A6A41"/>
   <text x="1120" y="41" font-size="13" fill="#3E4C59">Neither</text>
 
@@ -14,12 +14,12 @@
   <circle cx="74" cy="140" r="18" fill="#A31F34"/>
   <text x="74" y="147" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
   <text x="108" y="126" font-size="17" font-weight="bold" fill="#1F2933">What is the droplet spectrum on offer?</text>
-  <text x="108" y="150" font-size="13" fill="#5F6B76">Ask every supplier for it in writing. Below 20 um will not settle; above 150 um falls past</text>
-  <text x="108" y="170" font-size="13" fill="#5F6B76">the dust. Neither belongs in open-area suppression, and neither can be fixed by aiming.</text>
+  <text x="108" y="150" font-size="13" fill="#5F6B76">Ask every supplier two things: what duty it is for, and the droplet spectrum. Below 20 um will</text>
+  <text x="108" y="170" font-size="13" fill="#5F6B76">not settle; above 150 um falls past the dust. Neither belongs in area suppression.</text>
   <rect x="846" y="118" width="130" height="32" rx="16" fill="#2E6F8E"/>
   <text x="911" y="139" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">30-100 um</text>
   <rect x="988" y="118" width="160" height="32" rx="16" fill="#A31F34"/>
-  <text x="1068" y="139" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A wet yard, not dust</text>
+  <text x="1068" y="139" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Fire duty, not dust duty</text>
 
   <rect x="40" y="196" width="1120" height="82" rx="8" fill="#F5F8FB" stroke="#DDE6EC"/>
   <circle cx="74" cy="237" r="18" fill="#8A6A41"/>

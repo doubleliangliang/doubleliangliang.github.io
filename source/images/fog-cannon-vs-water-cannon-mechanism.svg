@@ -60,7 +60,7 @@
   <rect x="620" y="100" width="540" height="500" rx="10" fill="#FBF6F2" stroke="#A31F34" stroke-width="2"/>
   <rect x="620" y="100" width="540" height="46" rx="10" fill="#A31F34"/>
   <rect x="620" y="130" width="540" height="16" fill="#A31F34"/>
-  <text x="640" y="130" font-size="19" font-weight="bold" fill="#FFFFFF">High-pressure water spray monitor</text>
+  <text x="640" y="130" font-size="19" font-weight="bold" fill="#FFFFFF">Water cannon / safety duty</text>
 
   <text x="642" y="180" font-size="14" font-weight="bold" fill="#A31F34">WATER PATH</text>
 
@@ -92,17 +92,17 @@
   <text x="1034" y="371" font-size="12" fill="#5F6B76" text-anchor="middle">but the droplets fall past the dust</text>
 
   <rect x="644" y="404" width="492" height="70" rx="6" fill="#FFFFFF" stroke="#E0CBD1"/>
-  <text x="660" y="428" font-size="13" font-weight="bold" fill="#1F2933">Wets surfaces well</text>
-  <text x="660" y="449" font-size="12.5" fill="#3E4C59">Washing down spillage, wetting a haul road, short nuisance plumes.</text>
-  <text x="660" y="466" font-size="12.5" fill="#3E4C59">That is wetting — it is not the same as reducing a concentration.</text>
+  <text x="660" y="428" font-size="13" font-weight="bold" fill="#1F2933">Specified by fire duty</text>
+  <text x="660" y="449" font-size="12.5" fill="#3E4C59">Fire response, stockpile self-heating control, emergency use.</text>
+  <text x="660" y="466" font-size="12.5" fill="#3E4C59">A safety duty — not the same job as reducing a concentration.</text>
 
   <rect x="644" y="492" width="492" height="88" rx="6" fill="#FFFFFF" stroke="#E0CBD1"/>
   <text x="660" y="516" font-size="13" font-weight="bold" fill="#1F2933">Sensitivity</text>
   <text x="660" y="537" font-size="12.5" fill="#3E4C59">Unaffected by wind, because a droplet this heavy was never airborne.</text>
-  <text x="660" y="556" font-size="12.5" fill="#3E4C59">No change to aim or pressure will fix the size. Only the machine will.</text>
-  <text x="660" y="573" font-size="12.5" fill="#3E4C59">Which is why it fails quietly: a wet yard looks clean on day one.</text>
+  <text x="660" y="556" font-size="12.5" fill="#3E4C59">Specified by fire load and code, not by dust rate.</text>
+  <text x="660" y="573" font-size="12.5" fill="#3E4C59">Counted as dust control afterwards, on a wet yard.</text>
 
   <!-- footer rule -->
   <rect x="40" y="618" width="1120" height="2" fill="#DDE3E8"/>
-  <text x="40" y="644" font-size="14" font-weight="bold" fill="#1F2933">Rule of thumb: ask for the droplet spectrum first. Reach, power and price all come after that answer.</text>
+  <text x="40" y="644" font-size="14" font-weight="bold" fill="#1F2933">Rule of thumb: ask what duty the machine is specified for. Fire response and dust control are two different specifications.</text>
 </svg>

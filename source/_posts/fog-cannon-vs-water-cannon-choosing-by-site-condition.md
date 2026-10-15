@@ -72,7 +72,9 @@ If the droplet size question has been answered, the distance question becomes mu
 
 **Wherever the suppression is happening, the droplets have to be in the working band.** Coarse droplets falling fast will wet the ground and miss the plume. Very fine droplets that never settle will keep the concentration in the air rather than reducing it. The published figures for industrial fog systems cluster in the tens-of-microns range, and the industry reference value for open-area suppression sits around 50 to 100 µm — a band that both collides well with airborne mineral and coal dust and retains enough fall velocity to reach the ground afterwards.
 
-**A water cannon is the wrong instrument for this, at any distance.** Its droplet band is fixed by the nozzle and the pressure, and it sits above the working band. It has legitimate uses — washing down surfaces, wetting a haul road, knocking down a short-term nuisance plume at close range — but wetting a surface and suppressing suspended dust are different jobs, and only one of them is what a dust problem needs.
+**A water cannon is the wrong instrument for this, at any distance.** Its droplet band is fixed by the nozzle and the pressure, and it sits above the working band. And there is a second reason, which has nothing to do with physics: on most sites of this kind the machine is not there for dust at all. It is a fire-protection asset, and the dust-control case for it is constructed after the fact.
+
+Two different duties, two different machines, two different sets of numbers. Wetting a surface and suppressing suspended dust are not the same job, and only one of them is what a dust problem needs.
 
 **Where a fog cannon belongs, distance then decides the model.** Within the family, throw distance is the sizing variable: the stand-off distance available on a site is set by the layout — the width of a stockpile, the depth of an open pit, the length of a haul road, the distance between the fence line and the nearest building. Specify the model by the distance from the proposed mount point to the far edge of the emission zone, not to the centre of the pile. Dust does not stay at the centre.
 
@@ -100,7 +102,7 @@ There is a second boundary of the same kind. In applications involving combustib
 
 An air-assisted fog cannon is a wind-dependent device, and this is both its strength and its weakness. It works *with* the air: in a light breeze a fog plume travels further than the quoted throw and spreads across a wider area, which is exactly what an open yard needs. Against a strong wind it loses reach, and the plume can shear off the target.
 
-A jet monitor is largely indifferent to wind over its short throw, because its delivery is hydraulic momentum rather than a suspended cloud. That is a real advantage when the question is washing a surface. It is not an advantage for suppression, because a droplet that is unaffected by wind is also a droplet large enough to fall straight through the plume.
+A water cannon is largely indifferent to wind over its short throw, because its delivery is hydraulic momentum rather than a suspended cloud. That is a real advantage in an emergency, where the operator needs to put water on a specific point regardless of which way the wind is blowing. It is not an advantage for suppression, because a droplet that is unaffected by wind is also a droplet large enough to fall straight through the plume.
 
 The practical consequence is that wind should be recorded rather than assumed. Direction and speed across a normal working day, by season, determine how many azimuth positions a fixed fog cannon needs, and which sheltered zones inside the site need a second unit positioned to reach them. Sites with strong seasonal variation often end up with fog cannons at several azimuths, sized for the far edge of the emission zone rather than for its centre.
 
@@ -122,9 +124,9 @@ The least technical question on this list decides more outcomes than the other f
 
 A fixed fog cannon is normally configured for automatic or scheduled operation, and that is where its value is greatest: it suppresses the emission before it travels rather than after someone notices. Integrated with on-site particulate and weather monitoring, it can start ahead of a dust-forming event and hold concentration below a limit continuously, instead of relying on a last-minute correction. It also produces a record rather than an opinion.
 
-An attended water cannon is a different kind of instrument. It is fast and it is adaptable, and it puts water exactly where you point it — which makes it the right tool for washing a spillage, wetting a haul road, or knocking down a short-term nuisance plume. But it needs a person with water, a hose and a clear line of sight, and if the person is not there at 03:00 when a conveyor trips and dumps a load, it does nothing.
+An attended water cannon is a different kind of instrument. It is fast and it is adaptable, and it puts water exactly where you point it — which is what makes it the right tool for an emergency response, and the wrong tool for a daily duty cycle. It needs a person with water, a hose and a clear line of sight, and its operating schedule is set by a risk assessment rather than by the dust generation rate. That is a legitimate way to run it. It is not a way to reduce a concentration.
 
-The difference in kind is what matters. A coarse monitor is often used as if it were suppression, producing a wet surface that nobody questions. A fog system is asked to produce a concentration reading it can defend, and it leaves a record of having done so.
+The difference in kind is what matters. A water cannon installed for fire response is often counted afterwards as dust control, on the basis of a wet yard that nobody questions. A fog system is asked to produce a concentration reading it can defend, and it leaves a record of having done so.
 
 ## A Decision Sequence That Survives Contact With a Site Visit
 
@@ -139,17 +141,23 @@ A workable sequence, in order:
 7. **Check power, water quality and freeze exposure** at each candidate location, and decide the operating model: which points need continuous unattended coverage and which need attended response.
 8. **Then choose the machine**, and specify it by throw distance and atomisation performance rather than by output power.
 
-![Seven site conditions, each of which can remove a machine from the shortlist](/images/fog-cannon-vs-water-cannon-decision-map.svg)
+![Eight site checks, each of which can remove a machine from the shortlist](/images/fog-cannon-vs-water-cannon-decision-map.svg)
 
 Seven of those steps are free. They take a site visit and a wind record. Skipping them is the expensive way to buy equipment.
 
-## Where the Honest Answer Is Two Systems
+## The Water Cannon Is a Safety Asset, Not a Dust Measure
 
-On a well-run site, the two technologies are not competitors at all. A fog system holds the open area — the stockpile, the yard, the road, the far field where the plume is already forming. A dry fog line handles what is close, specific and fine: a transfer point, a chute, a conveyor gallery, a point source where the material must not be wetted.
+On a site that stores coal, ore or any other combustible bulk material, a high-pressure water cannon is usually present, and it is usually present for fire protection. That is a real duty and it should be resourced properly — but it should be counted as a safety item, not as dust control.
 
-The water cannon belongs in neither list. It has its place, but the place is not suppression: washing down spillage, wetting a haul road, knocking down a short-term nuisance plume at close range, and the plant-safety work that goes with all three. When one is installed to do those jobs and then counted as dust control, the yard looks clean on the day and the concentration does not move.
+What it is actually specified for is well established. Enclosed coal storage facilities are required to install fixed water cannon extinguishing systems under Chinese design codes, with requirements that are unambiguous about purpose: at least one cannon's stream must be able to reach any point inside the storage area, each cannon's flow should be no less than 20 L/s, and the system must offer both straight-jet and water-mist modes. Standards for coal stockpiles go further in some cases, requiring fixed cannon systems specifically where Class I readily self-heating coal is stored or where the site is too large to be separated by firewalls, with indoor cannon flow of 60 L/s or more.
 
-That is the distinction worth carrying out of a selection discussion. **Wetting a surface is not the same as reducing a concentration**, and only one of them shows up in a monitoring record.
+Those numbers are not dust-suppression numbers. They are fire and emergency-response numbers, and they are chosen for reach, flow and the ability to penetrate into the body of a stockpile to knock down smouldering material that a sprinkler layout cannot reach. Newer installations pair the cannon with thermal or optical detection that tracks the hot spot and aims the stream at it automatically.
+
+The same logic applies outside the enclosed case. Coal self-heating is managed by temperature thresholds and by response: at 40–50 °C, increase patrol frequency; at 50–60 °C, inject water and prioritise reclaim; at 60–80 °C, continuous water injection plus compaction; above 80 °C, dig out the material and keep injecting until it is cool. Wetting the pile with water is one step in that sequence, and its purpose there is to remove heat and cut off air — not to lower a particulate reading. Road watering for dust on the same site is normally handled by a separate vehicle or system, because it is a different duty on a different schedule.
+
+**So the honest statement is not "a water cannon cannot suppress dust." It is that a machine specified for fire response is the wrong specification for dust, on three counts at once:** its droplet band sits above the working range for capture, its duty cycle is set by an emergency that may never arrive rather than by dust generation, and its capital has already been committed to a safety obligation that a dust project cannot fund.
+
+The confusion is understandable. Both machines pressurise water and both are called water cannons in conversation. But one is specified against a fire load, an emergency response time and a code requirement; the other is specified against a dust generation rate, a droplet spectrum and a concentration limit. A quotation that does not say which of those two it is selling has not answered the question.
 
 Where a supplier can be useful is not in declaring one machine superior. It is in sizing to measured conditions: how much material, how much dust, what stand-off distance, what water, what power, what wind, and what the operating model is. Guangdong Fenghua Environmental Protection Equipment has built air-assisted spraying devices to the mechanical industry standard JB/T 13562—2018 as first drafting unit, with a 30–300 m product range; the value in a selection discussion is the same as the value in a design: parameters that are measured rather than copied from a template.
 

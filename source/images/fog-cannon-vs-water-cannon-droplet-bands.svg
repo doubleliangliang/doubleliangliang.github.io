@@ -68,5 +68,5 @@
   <text x="40" y="518" font-size="14" fill="#3E4C59">A wet yard looks clean on the day of commissioning and tells you nothing about what is still suspended in the air. Only a concentration record does.</text>
 
   <rect x="40" y="540" width="1120" height="44" rx="6" fill="#F5F8FB" stroke="#DDE6EC"/>
-  <text x="60" y="567" font-size="14" fill="#1F2933">Ask every supplier for the droplet spectrum of the machine you are being offered. If it is not in the quote, ask why.</text>
+  <text x="60" y="567" font-size="14" fill="#1F2933">Ask every supplier for two things: what duty the machine is specified for, and the droplet spectrum. If either is missing, ask why.</text>
 </svg>
