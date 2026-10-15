@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" font-family="Arial, Helvetica, sans-serif">
   <rect width="1200" height="660" fill="#FFFFFF"/>
-  <text x="40" y="44" font-size="25" font-weight="bold" fill="#1F2933">Two Machines, Two Ways of Moving Water</text>
-  <text x="40" y="72" font-size="15" fill="#5F6B76">One carries a cloud of droplets. The other drives a pressurised jet. The selection follows from this difference.</text>
+  <text x="40" y="44" font-size="25" font-weight="bold" fill="#1F2933">Two Machines, Two Droplet Spectra</text>
+  <text x="40" y="72" font-size="15" fill="#5F6B76">Both put water in the air. Only one of them makes droplets small enough to catch dust. Reach is the second question, not the first.</text>
 
   <!-- LEFT: fog cannon -->
   <rect x="40" y="100" width="540" height="500" rx="10" fill="#F5F8FB" stroke="#2E6F8E" stroke-width="2"/>
@@ -23,7 +23,7 @@
   <!-- air shear -->
   <rect x="276" y="200" width="140" height="52" rx="6" fill="#FFFFFF" stroke="#9FB4C2"/>
   <text x="346" y="223" font-size="14" font-weight="bold" fill="#1F2933" text-anchor="middle">Sheared by air</text>
-  <text x="346" y="241" font-size="12" fill="#5F6B76" text-anchor="middle">droplets 20-150 um</text>
+  <text x="346" y="241" font-size="12" fill="#5F6B76" text-anchor="middle">droplets in the working band</text>
 
   <!-- fog cloud -->
   <circle cx="470" cy="222" r="16" fill="#BDD7E5"/>
@@ -53,8 +53,8 @@
   <rect x="64" y="492" width="492" height="88" rx="6" fill="#FFFFFF" stroke="#C8D6DF"/>
   <text x="80" y="516" font-size="13" font-weight="bold" fill="#1F2933">Sensitivity</text>
   <text x="80" y="537" font-size="12.5" fill="#3E4C59">Needs wind direction and speed by season to place azimuths.</text>
-  <text x="80" y="556" font-size="12.5" fill="#3E4C59">Connected load = fan + pump. Water quality controls atomisation.</text>
-  <text x="80" y="573" font-size="12.5" fill="#3E4C59">Can be scheduled and interlocked with on-site monitoring.</text>
+  <text x="80" y="556" font-size="12.5" fill="#3E4C59">Connected load = fan + pump. Water quality controls the spectrum.</text>
+  <text x="80" y="573" font-size="12.5" fill="#3E4C59">Can be scheduled, interlocked, and asked to produce a reading.</text>
 
   <!-- RIGHT: water spray monitor -->
   <rect x="620" y="100" width="540" height="500" rx="10" fill="#FBF6F2" stroke="#A31F34" stroke-width="2"/>
@@ -71,7 +71,7 @@
   <polygon points="830,226 794,214 794,238" fill="#A31F34"/>
   <rect x="844" y="200" width="140" height="52" rx="6" fill="#FFFFFF" stroke="#D8B9C0"/>
   <text x="914" y="223" font-size="14" font-weight="bold" fill="#1F2933" text-anchor="middle">High-pressure pump</text>
-  <text x="914" y="241" font-size="12" fill="#5F6B76" text-anchor="middle">order 100 bar and above</text>
+  <text x="914" y="241" font-size="12" fill="#5F6B76" text-anchor="middle">no air assist at all</text>
 
   <polygon points="984,226 1012,216 1012,236" fill="#A31F34"/>
   <line x1="1016" y1="226" x2="1064" y2="226" stroke="#A31F34" stroke-width="4"/>
@@ -79,7 +79,7 @@
   <circle cx="1092" cy="226" r="5" fill="#A31F34"/>
   <circle cx="1110" cy="220" r="4" fill="#E2B9C2"/>
   <circle cx="1128" cy="228" r="4" fill="#E2B9C2"/>
-  <text x="1058" y="272" font-size="12" fill="#A31F34" text-anchor="middle">coherent jet</text>
+  <text x="1058" y="272" font-size="12" fill="#A31F34" text-anchor="middle">coarse jet, above 150 um</text>
 
   <text x="642" y="312" font-size="14" font-weight="bold" fill="#A31F34">DELIVERY</text>
   <rect x="644" y="330" width="200" height="52" rx="6" fill="#FFFFFF" stroke="#D8B9C0"/>
@@ -89,20 +89,20 @@
   <polygon points="910,350 924,356 910,362" fill="#A31F34"/>
   <rect x="932" y="330" width="204" height="52" rx="6" fill="#F8E9EC" stroke="#A31F34"/>
   <text x="1034" y="353" font-size="14" font-weight="bold" fill="#1F2933" text-anchor="middle">Throw 10 - 30 m</text>
-  <text x="1034" y="371" font-size="12" fill="#5F6B76" text-anchor="middle">precision beats range</text>
+  <text x="1034" y="371" font-size="12" fill="#5F6B76" text-anchor="middle">but the droplets fall past the dust</text>
 
   <rect x="644" y="404" width="492" height="70" rx="6" fill="#FFFFFF" stroke="#E0CBD1"/>
-  <text x="660" y="428" font-size="13" font-weight="bold" fill="#1F2933">Works at short range</text>
-  <text x="660" y="449" font-size="12.5" fill="#3E4C59">Loading points, transfer platforms, chute mouths, galleries, sheds.</text>
-  <text x="660" y="466" font-size="12.5" fill="#3E4C59">High wetting force per second onto a defined surface.</text>
+  <text x="660" y="428" font-size="13" font-weight="bold" fill="#1F2933">Wets surfaces well</text>
+  <text x="660" y="449" font-size="12.5" fill="#3E4C59">Washing down spillage, wetting a haul road, short nuisance plumes.</text>
+  <text x="660" y="466" font-size="12.5" fill="#3E4C59">That is wetting — it is not the same as reducing a concentration.</text>
 
   <rect x="644" y="492" width="492" height="88" rx="6" fill="#FFFFFF" stroke="#E0CBD1"/>
   <text x="660" y="516" font-size="13" font-weight="bold" fill="#1F2933">Sensitivity</text>
-  <text x="660" y="537" font-size="12.5" fill="#3E4C59">Almost unaffected by wind over a short throw. Aimed, not blanket.</text>
-  <text x="660" y="556" font-size="12.5" fill="#3E4C59">Connected load = pump only. Fewer water-treatment constraints.</text>
-  <text x="660" y="573" font-size="12.5" fill="#3E4C59">Normally attended: it needs a person, a hose and a clear line.</text>
+  <text x="660" y="537" font-size="12.5" fill="#3E4C59">Unaffected by wind, because a droplet this heavy was never airborne.</text>
+  <text x="660" y="556" font-size="12.5" fill="#3E4C59">No change to aim or pressure will fix the size. Only the machine will.</text>
+  <text x="660" y="573" font-size="12.5" fill="#3E4C59">Which is why it fails quietly: a wet yard looks clean on day one.</text>
 
   <!-- footer rule -->
   <rect x="40" y="618" width="1120" height="2" fill="#DDE3E8"/>
-  <text x="40" y="644" font-size="14" font-weight="bold" fill="#1F2933">Rule of thumb: beyond about 50 m choose the fog cannon; inside about 20 m the monitor usually wins.</text>
+  <text x="40" y="644" font-size="14" font-weight="bold" fill="#1F2933">Rule of thumb: ask for the droplet spectrum first. Reach, power and price all come after that answer.</text>
 </svg>

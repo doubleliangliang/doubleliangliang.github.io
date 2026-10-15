@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1200" height="600" fill="#FFFFFF"/>
+  <text x="40" y="44" font-size="25" font-weight="bold" fill="#1F2933">Droplet Size Decides It — Not Reach, Not Power</text>
+  <text x="40" y="72" font-size="15" fill="#5F6B76">A droplet has to be small enough to catch the dust and heavy enough to fall afterwards. Miss the band either way and the water never touches the problem.</text>
+
+  <!-- band 1: too fine -->
+  <rect x="40" y="104" width="360" height="330" rx="10" fill="#F5F8FB" stroke="#6B8FA8" stroke-width="2"/>
+  <rect x="40" y="104" width="360" height="56" rx="10" fill="#6B8FA8"/>
+  <rect x="40" y="140" width="360" height="20" fill="#6B8FA8"/>
+  <text x="60" y="130" font-size="18" font-weight="bold" fill="#FFFFFF">Below about 20 um</text>
+  <text x="60" y="152" font-size="13" fill="#E8F1F6">too fine to settle</text>
+
+  <text x="62" y="190" font-size="13" font-weight="bold" fill="#6B8FA8">WHAT HAPPENS</text>
+  <text x="62" y="214" font-size="13.5" fill="#3E4C59">Mass is tiny, so the droplet hangs in</text>
+  <text x="62" y="234" font-size="13.5" fill="#3E4C59">the air far longer than it should.</text>
+  <text x="62" y="258" font-size="13.5" fill="#3E4C59">It can combine with dust into a fine</text>
+  <text x="62" y="278" font-size="13.5" fill="#3E4C59">aerosol, cut visibility, and even</text>
+  <text x="62" y="298" font-size="13.5" fill="#3E4C59">push measured particulate up.</text>
+  <rect x="62" y="316" width="316" height="96" rx="6" fill="#FFFFFF" stroke="#C8D6DF"/>
+  <text x="78" y="340" font-size="13" font-weight="bold" fill="#1F2933">Belongs to</text>
+  <text x="78" y="362" font-size="13" fill="#3E4C59">Point-source capture, dry fog lines,</text>
+  <text x="78" y="382" font-size="13" fill="#3E4C59">humidification and cooling.</text>
+  <text x="78" y="404" font-size="13" fill="#3E4C59">Not open-area suppression.</text>
+
+  <!-- band 2: working band -->
+  <rect x="420" y="104" width="360" height="330" rx="10" fill="#EAF2F7" stroke="#2E6F8E" stroke-width="3"/>
+  <rect x="420" y="104" width="360" height="56" rx="10" fill="#2E6F8E"/>
+  <rect x="420" y="140" width="360" height="20" fill="#2E6F8E"/>
+  <text x="440" y="130" font-size="18" font-weight="bold" fill="#FFFFFF">About 30 – 100 um</text>
+  <text x="440" y="152" font-size="13" fill="#D9EAF3">the working band</text>
+
+  <text x="442" y="190" font-size="13" font-weight="bold" fill="#2E6F8E">WHAT HAPPENS</text>
+  <text x="442" y="214" font-size="13.5" fill="#3E4C59">Small enough to collide with and</text>
+  <text x="442" y="234" font-size="13.5" fill="#3E4C59">carry airborne dust, and still fast</text>
+  <text x="442" y="258" font-size="13.5" fill="#3E4C59">enough to settle afterwards. Capture</text>
+  <text x="442" y="278" font-size="13.5" fill="#3E4C59">without settling is no capture at all.</text>
+  <rect x="442" y="296" width="316" height="116" rx="6" fill="#FFFFFF" stroke="#9FB4C2"/>
+  <text x="458" y="320" font-size="13" font-weight="bold" fill="#1F2933">Belongs to</text>
+  <text x="458" y="338" font-size="13" fill="#3E4C59">Air-assisted fog cannon, area</text>
+  <text x="458" y="356" font-size="13" fill="#3E4C59">suppression on stockpiles, yards,</text>
+  <text x="458" y="374" font-size="13" fill="#3E4C59">haul roads and transfer areas.</text>
+  <text x="458" y="396" font-size="13" font-weight="bold" fill="#2E6F8E">Three conditions, all required:</text>
+  <text x="458" y="412" font-size="12.5" fill="#3E4C59">droplet size, total volume, coverage.</text>
+
+  <!-- band 3: too coarse -->
+  <rect x="800" y="104" width="360" height="330" rx="10" fill="#FBF1F3" stroke="#A31F34" stroke-width="3"/>
+  <rect x="800" y="104" width="360" height="56" rx="10" fill="#A31F34"/>
+  <rect x="800" y="140" width="360" height="20" fill="#A31F34"/>
+  <text x="820" y="130" font-size="18" font-weight="bold" fill="#FFFFFF">Above about 150 um</text>
+  <text x="820" y="152" font-size="13" fill="#F6DCE1">falls straight past the dust</text>
+
+  <text x="822" y="190" font-size="13" font-weight="bold" fill="#A31F34">WHAT HAPPENS</text>
+  <text x="822" y="214" font-size="13.5" fill="#3E4C59">The droplet is far heavier than the</text>
+  <text x="822" y="234" font-size="13.5" fill="#3E4C59">dust it should capture. It falls too</text>
+  <text x="822" y="258" font-size="13.5" fill="#3E4C59">fast to interact with the plume, hits</text>
+  <text x="822" y="278" font-size="13.5" fill="#3E4C59">the ground or pile and does nothing.</text>
+  <rect x="822" y="296" width="316" height="116" rx="6" fill="#FFFFFF" stroke="#D8B9C0"/>
+  <text x="838" y="320" font-size="13" font-weight="bold" fill="#A31F34">The result</text>
+  <text x="838" y="338" font-size="13" fill="#3E4C59">A wet yard, not a suppressed plume.</text>
+  <text x="838" y="356" font-size="13" fill="#3E4C59">A water cannon lives in this band —</text>
+  <text x="838" y="374" font-size="13" fill="#3E4C59">no change to the aim or the pressure</text>
+  <text x="838" y="396" font-size="13" font-weight="bold" fill="#A31F34">will move it. Only the machine will.</text>
+  <text x="838" y="412" font-size="12.5" fill="#3E4C59">Which is why it fails quietly.</text>
+
+  <!-- footer -->
+  <rect x="40" y="462" width="1120" height="2" fill="#DDE3E8"/>
+  <text x="40" y="492" font-size="17" font-weight="bold" fill="#1F2933">Wetting a surface is not the same job as reducing a concentration.</text>
+  <text x="40" y="518" font-size="14" fill="#3E4C59">A wet yard looks clean on the day of commissioning and tells you nothing about what is still suspended in the air. Only a concentration record does.</text>
+
+  <rect x="40" y="540" width="1120" height="44" rx="6" fill="#F5F8FB" stroke="#DDE6EC"/>
+  <text x="60" y="567" font-size="14" fill="#1F2933">Ask every supplier for the droplet spectrum of the machine you are being offered. If it is not in the quote, ask why.</text>
+</svg>
