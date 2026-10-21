@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="680" viewBox="0 0 1160 680">
+  <rect width="1160" height="680" fill="#FFFFFF"/>
+  <text x="60" y="54" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1F2933">Four Properties of the Material Decide the Machine</text>
+  <text x="60" y="82" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5F5F5F">Combustible dust is not one hazard. Each row changes a different part of the specification.</text>
+
+  <rect x="60" y="104" width="1040" height="42" rx="6" fill="#2B3440"/>
+  <text x="82" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Material property</text>
+  <text x="330" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">What it changes in the specification</text>
+  <text x="830" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Where the data comes from</text>
+
+  <rect x="60" y="152" width="1040" height="112" rx="6" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.2"/>
+  <rect x="60" y="152" width="6" height="112" fill="#A31F34"/>
+  <text x="82" y="180" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#1F2933">Combustibility</text>
+  <text x="82" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">Does it form an</text>
+  <text x="82" y="219" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">explosible cloud?</text>
+  <text x="330" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Decides whether the machine is needed at all, and which</text>
+  <text x="330" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">protection family applies. Particles passing a 40-mesh</text>
+  <text x="330" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">sieve, about 420 µm, are commonly treated as the</text>
+  <text x="330" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">range; many materials go explosive well below it.</text>
+  <text x="830" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">MEC, MIE, Pmax, MIT</text>
+  <text x="830" y="204" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">Laboratory testing on the</text>
+  <text x="830" y="221" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">on the plant's own dust sample.</text>
+  <text x="830" y="247" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">Never from the machine.</text>
+
+  <rect x="60" y="270" width="1040" height="100" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.2"/>
+  <rect x="60" y="270" width="6" height="100" fill="#2E6F8E"/>
+  <text x="82" y="298" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#1F2933">Cloud or layer</text>
+  <text x="82" y="319" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">Airborne, or settled</text>
+  <text x="82" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">on surfaces?</text>
+  <text x="330" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">A layer burns slowly and makes heat; a cloud burns fast</text>
+  <text x="330" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">and makes pressure. Layer-only locations are a containment</text>
+  <text x="330" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">and housekeeping problem. Cloud-forming locations also need</text>
+  <text x="330" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">ignition control, venting and isolation.</text>
+  <text x="830" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Cloud MIT sits well</text>
+  <text x="830" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">below layer MIT</text>
+  <text x="830" y="341" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">Site condition survey.</text>
+
+  <rect x="60" y="376" width="1040" height="100" rx="6" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.2"/>
+  <rect x="60" y="376" width="6" height="100" fill="#8A6A41"/>
+  <text x="82" y="404" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#1F2933">Conductivity</text>
+  <text x="82" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">Can the dust carry</text>
+  <text x="82" y="443" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">electrostatic charge?</text>
+  <text x="330" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Sets the dust group: IIIA fibres, IIIB non-conductive,</text>
+  <text x="330" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">IIIC conductive metal. A IIIB machine is not a substitute</text>
+  <text x="330" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">for IIIC in a metal-dust plant. Conductive dust also makes</text>
+  <text x="330" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">bonding and earthing an installation obligation.</text>
+  <text x="830" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Group IIIA / IIIB /</text>
+  <text x="830" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">IIIC</text>
+  <text x="830" y="447" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">Material safety data sheet</text>
+  <text x="830" y="464" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">plus test data.</text>
+
+  <rect x="60" y="482" width="1040" height="100" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.2"/>
+  <rect x="60" y="482" width="6" height="100" fill="#2F6B3A"/>
+  <text x="82" y="510" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#1F2933">Water reactivity</text>
+  <text x="82" y="531" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">Does it react with</text>
+  <text x="82" y="549" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">water?</text>
+  <text x="330" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Decides the suppression medium, not just the configuration.</text>
+  <text x="330" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Aluminium, magnesium and calcium carbide are the recurring</text>
+  <text x="330" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">cases — and they are also the cases where the dust group</text>
+  <text x="330" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">climbs to IIIC.</text>
+  <text x="830" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Reactivity data,</text>
+  <text x="830" y="527" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">checked before any</text>
+  <text x="830" y="546" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">equipment choice</text>
+  <text x="830" y="570" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0">Settled before the enquiry.</text>
+
+  <rect x="60" y="598" width="1040" height="66" rx="6" fill="#FBFBFC" stroke="#D8DCE3" stroke-width="1.2"/>
+  <text x="84" y="626" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">None of these four figures comes from the machine.</text>
+  <text x="84" y="650" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3E4C59">A supplier can specify the machine; only a test report on the plant's own dust can specify the hazard. That is why the material data has to be requested first.</text>
+</svg>

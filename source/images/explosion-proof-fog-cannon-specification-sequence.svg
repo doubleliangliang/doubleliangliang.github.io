@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="720" viewBox="0 0 1160 720">
+  <rect width="1160" height="720" fill="#FFFFFF"/>
+  <text x="60" y="52" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1F2933">Eight Steps to an Explosion-Proof Fog Cannon Specification</text>
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5F5F5F">Six of the eight need information the supplier does not have. That is why this specification takes longer than ordinary selection.</text>
+
+  <rect x="60" y="100" width="1040" height="40" rx="6" fill="#2B3440"/>
+  <text x="82" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="#FFFFFF">#</text>
+  <text x="114" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="#FFFFFF">Step</text>
+  <text x="470" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="#FFFFFF">Who owns the input</text>
+  <text x="790" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="#FFFFFF">What it removes</text>
+
+  <rect x="60" y="146" width="1040" height="54" rx="6" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="173" r="14" fill="#A31F34"/>
+  <text x="90" y="178" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="114" y="169" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Identify the material and its form</text>
+  <text x="114" y="189" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Dust or vapour. Obtain MEC, MIE, MIT and severity data.</text>
+  <text x="470" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Customer — lab report</text>
+  <text x="790" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Whether suppression applies</text>
+
+  <rect x="60" y="204" width="1040" height="48" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="228" r="14" fill="#A31F34"/>
+  <text x="90" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="114" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Check water compatibility with the material</text>
+  <text x="470" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Customer — reactivity data</text>
+  <text x="790" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">The suppression medium</text>
+
+  <rect x="60" y="256" width="1040" height="48" rx="6" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="280" r="14" fill="#A31F34"/>
+  <text x="90" y="285" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="114" y="285" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Establish each location and its classification</text>
+  <text x="470" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Customer — survey and code</text>
+  <text x="790" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Positions needing any protection</text>
+
+  <rect x="60" y="308" width="1040" height="54" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="335" r="14" fill="#2E6F8E"/>
+  <text x="90" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="114" y="331" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Derive level, group and temperature limit</text>
+  <text x="114" y="351" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Written as requirements, not as a desired marking.</text>
+  <text x="470" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Customer + supplier engineering</text>
+  <text x="790" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Insufficient configurations</text>
+
+  <rect x="60" y="366" width="1040" height="54" rx="6" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="393" r="14" fill="#2E6F8E"/>
+  <text x="90" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+  <text x="114" y="389" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Confirm the certificate families required</text>
+  <text x="114" y="409" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Ex certification and mining approval are separate lines, verified separately.</text>
+  <text x="470" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Customer — local jurisdiction</text>
+  <text x="790" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Suppliers outside that scope</text>
+
+  <rect x="60" y="424" width="1040" height="54" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="451" r="14" fill="#2E6F8E"/>
+  <text x="90" y="456" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">6</text>
+  <text x="114" y="447" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Fix the installation and control scope</text>
+  <text x="114" y="467" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Earthing, remote operation, water and pressure interlocks, fault behaviour.</text>
+  <text x="470" y="451" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Customer with supplier</text>
+  <text x="790" y="451" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Scope disputes at handover</text>
+
+  <rect x="60" y="482" width="1040" height="48" rx="6" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="506" r="14" fill="#2F6B3A"/>
+  <text x="90" y="511" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">7</text>
+  <text x="114" y="511" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Size the suppression to the emission</text>
+  <text x="470" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Supplier — from site data</text>
+  <text x="790" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Models chosen by throw alone</text>
+
+  <rect x="60" y="534" width="1040" height="48" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="90" cy="558" r="14" fill="#2F6B3A"/>
+  <text x="90" y="563" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">8</text>
+  <text x="114" y="563" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#1F2933">Select the machine and confirm the papers</text>
+  <text x="470" y="558" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Supplier — accountable</text>
+  <text x="790" y="558" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Unverifiable claims</text>
+
+  <rect x="60" y="600" width="330" height="60" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="82" cy="620" r="8" fill="#A31F34"/><circle cx="102" cy="620" r="8" fill="#2E6F8E"/>
+  <text x="122" y="624" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Steps 1–3: the hazard. Customer's own data.</text>
+  <text x="82" y="647" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Missing these, nothing downstream resolves.</text>
+
+  <rect x="414" y="600" width="330" height="60" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="436" cy="620" r="8" fill="#2E6F8E"/>
+  <text x="456" y="624" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Steps 4–6: the configuration.</text>
+  <text x="436" y="647" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Shared work, written as requirements.</text>
+
+  <rect x="768" y="600" width="332" height="60" rx="6" fill="#FFFFFF" stroke="#E3E6EB" stroke-width="1.1"/>
+  <circle cx="790" cy="620" r="8" fill="#2F6B3A"/>
+  <text x="810" y="624" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Steps 7–8: the machine.</text>
+  <text x="790" y="647" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">The supplier's accountable scope.</text>
+
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">A supplier who asks for the material data early is usually more useful than one who quotes immediately — the quotation cannot be correct without them, however quickly it arrives.</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="740" viewBox="0 0 1160 740">
+  <rect width="1160" height="740" fill="#FFFFFF"/>
+  <text x="60" y="52" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1F2933">Where Dust Suppression Sits in a Combustible Dust Scheme</text>
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5F5F5F">NFPA 660 (2025) reduces the philosophy to three verbs: contain, capture, clean. Suppression belongs to clean — and to nothing else.</text>
+
+  <!-- layer stack, left -->
+  <g>
+    <rect x="60" y="110" width="640" height="62" rx="7" fill="#F1F8F2" stroke="#C4DDC8" stroke-width="1.5"/>
+    <text x="84" y="138" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#2F6B3A">1 · Prevention and ignition control</text>
+    <text x="84" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Bonding and earthing · static control · protected electrical equipment</text>
+
+    <rect x="60" y="180" width="640" height="62" rx="7" fill="#F1F7FA" stroke="#BFD8E4" stroke-width="1.5"/>
+    <text x="84" y="208" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#2E6F8E">2 · Containment</text>
+    <text x="84" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Enclose process equipment · surfaces that do not accumulate dust</text>
+
+    <rect x="60" y="250" width="640" height="62" rx="7" fill="#F5F5F6" stroke="#D3D6DC" stroke-width="1.5"/>
+    <text x="84" y="278" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#4A5560">3 · Isolation</text>
+    <text x="84" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Rotary valves · fast-acting valves · chemical isolation · stops flame and</text>
+
+    <rect x="60" y="320" width="640" height="62" rx="7" fill="#FAF5EE" stroke="#E2D3BE" stroke-width="1.5"/>
+    <text x="84" y="348" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#8A6A41">4 · Venting and deflagration suppression</text>
+    <text x="84" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Vents sized to the severity of the specific dust · collector venting · spark detection</text>
+
+    <rect x="60" y="390" width="640" height="62" rx="7" fill="#FCF2F4" stroke="#E7C4CC" stroke-width="1.5"/>
+    <text x="84" y="418" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#A31F34">5 · Dust suppression — the fog cannon layer</text>
+    <text x="84" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Reduces the mass of combustible dust that can become airborne in normal operation</text>
+
+    <rect x="60" y="460" width="640" height="62" rx="7" fill="#F5F5F6" stroke="#D3D6DC" stroke-width="1.5"/>
+    <text x="84" y="488" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#4A5560">6 · Housekeeping and cleaning</text>
+    <text x="84" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Vacuum cleaning not dry sweeping · accumulation-point schedules · inspection programmes</text>
+  </g>
+
+  <!-- right panel: what suppression buys -->
+  <rect x="724" y="110" width="376" height="196" rx="8" fill="#FBFBFC" stroke="#D8DCE3" stroke-width="1.5"/>
+  <text x="748" y="140" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#1F2933">What this layer buys</text>
+  <text x="748" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">It keeps normal operation away from the lower</text>
+  <text x="748" y="187" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">explosible limit — before the limit is crossed,</text>
+  <text x="748" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">not after.</text>
+  <rect x="748" y="226" width="328" height="60" rx="6" fill="#FCF2F4" stroke="#E7C4CC" stroke-width="1.2"/>
+  <text x="912" y="252" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#A31F34" text-anchor="middle">25% of MEC</text>
+  <text x="912" y="274" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8892A0" text-anchor="middle">commonly cited as the operating ceiling</text>
+
+  <rect x="724" y="320" width="376" height="202" rx="8" fill="#FFF8F0" stroke="#E2D3BE" stroke-width="1.5"/>
+  <text x="748" y="350" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#8A6A41">What this layer does not buy</text>
+  <text x="748" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Suppression does not replace venting, does not</text>
+  <text x="748" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">replace isolation, and is not a dust hazard</text>
+  <text x="748" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">analysis.</text>
+  <line x1="748" y1="436" x2="1076" y2="436" stroke="#E2D3BE" stroke-width="1.2"/>
+  <text x="748" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">A facility with only this layer is incomplete,</text>
+  <text x="748" y="479" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">however good this layer is.</text>
+  <text x="748" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">Write that boundary into the specification.</text>
+
+  <!-- compressed air warning -->
+  <rect x="60" y="546" width="1040" height="72" rx="8" fill="#FCF2F4" stroke="#E7C4CC" stroke-width="1.5"/>
+  <text x="84" y="576" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#A31F34">Compressed-air blowdown of accumulated dust</text>
+  <text x="84" y="600" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">NFPA 652 permits it only after the primary cleaning methods have been performed and additional precautions are in place. In ordinary</text>
+  <text x="84" y="614" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">practice it is read as a blanket permission — and it is the fastest way to suspend the exact cloud the water was there to prevent.</text>
+
+  <text x="60" y="650" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Framework references: NFPA 660 (2025), consolidating the former NFPA 652, 654, 61, 484, 655 and 664. Equivalent layered practice applies under GB/T 3836 and the</text>
+  <text x="60" y="670" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Chinese design codes for classified installations. Layer sequence is indicative of standard practice, not a substitute for the applicable code or a dust hazard analysis.</text>
+  <text x="60" y="698" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">An explosion-proof fog cannon reduces airborne dust in normal operation. It is not a hazard analysis and not a substitute for a classified-area electrical installation.</text>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="700" viewBox="0 0 1160 700">
+  <rect width="1160" height="700" fill="#FFFFFF"/>
+  <text x="60" y="58" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1F2933">Anatomy of an Ex Marking</text>
+  <text x="60" y="86" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5F5F5F">Worked example: Ex tb IIIB T135°C Db — a dust-protection marking for open handling positions</text>
+
+  <!-- marking strip -->
+  <rect x="60" y="112" width="1040" height="92" rx="8" fill="#F7F8FA" stroke="#D8DCE3" stroke-width="1.5"/>
+  <g font-family="Consolas, Menlo, monospace" font-size="31" font-weight="bold">
+    <text x="86" y="170" fill="#A31F34">Ex</text>
+    <text x="180" y="170" fill="#2E6F8E">tb</text>
+    <text x="300" y="170" fill="#8A6A41">IIIB</text>
+    <text x="470" y="170" fill="#2F6B3A">T135°C</text>
+    <text x="700" y="170" fill="#5F5F5F">Db</text>
+  </g>
+  <g stroke="#B8BEC8" stroke-width="1.5">
+    <line x1="160" y1="128" x2="160" y2="188"/>
+    <line x1="278" y1="128" x2="278" y2="188"/>
+    <line x1="448" y1="128" x2="448" y2="188"/>
+    <line x1="678" y1="128" x2="678" y2="188"/>
+  </g>
+
+  <!-- five cards -->
+  <g>
+    <rect x="60" y="234" width="196" height="248" rx="8" fill="#FCF2F4" stroke="#E7C4CC" stroke-width="1.5"/>
+    <text x="82" y="268" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#A31F34">1 · Ex</text>
+    <text x="82" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Certified to the</text>
+    <text x="82" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">IEC 60079 series,</text>
+    <text x="82" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">adopted in China as</text>
+    <text x="82" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">GB/T 3836.</text>
+    <line x1="82" y1="374" x2="234" y2="374" stroke="#E7C4CC" stroke-width="1.5"/>
+    <text x="82" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">The framework, not</text>
+    <text x="82" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">a protection level.</text>
+    <text x="82" y="446" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Gas-side equivalent:</text>
+    <text x="82" y="463" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Ex db IIB T4 Gb</text>
+
+    <rect x="272" y="234" width="196" height="248" rx="8" fill="#F1F7FA" stroke="#BFD8E4" stroke-width="1.5"/>
+    <text x="294" y="268" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#2E6F8E">2 · tb</text>
+    <text x="294" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Protection type for</text>
+    <text x="294" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">dust: protected by</text>
+    <text x="294" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">enclosure.</text>
+    <line x1="294" y1="374" x2="446" y2="374" stroke="#BFD8E4" stroke-width="1.5"/>
+    <text x="294" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">ta highest · tb standard</text>
+    <text x="294" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5F5F5F">tc lower level</text>
+    <text x="294" y="444" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Gas side uses other</text>
+    <text x="294" y="461" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">types: d, e, i, p</text>
+
+    <rect x="484" y="234" width="196" height="248" rx="8" fill="#FAF5EE" stroke="#E2D3BE" stroke-width="1.5"/>
+    <text x="506" y="268" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#8A6A41">3 · IIIB</text>
+    <text x="506" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Dust group, by</text>
+    <text x="506" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">increasing</text>
+    <text x="506" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">conductivity.</text>
+    <line x1="506" y1="354" x2="658" y2="354" stroke="#E2D3BE" stroke-width="1.5"/>
+    <text x="506" y="378" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">IIIA fibres, flyings</text>
+    <text x="506" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">IIIB non-conductive</text>
+    <text x="506" y="418" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">IIIC conductive metals</text>
+    <text x="506" y="446" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">IIIB is not a stand-in</text>
+    <text x="506" y="463" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">for IIIC.</text>
+
+    <rect x="696" y="234" width="196" height="248" rx="8" fill="#F1F8F2" stroke="#C4DDC8" stroke-width="1.5"/>
+    <text x="718" y="268" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#2F6B3A">4 · T135°C</text>
+    <text x="718" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Maximum surface</text>
+    <text x="718" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">temperature. Must sit</text>
+    <text x="718" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">below the ignition</text>
+    <text x="718" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">temperature.</text>
+    <line x1="718" y1="374" x2="870" y2="374" stroke="#C4DDC8" stroke-width="1.5"/>
+    <text x="718" y="398" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Gas-side T4 ≤ 135 °C</text>
+    <text x="718" y="417" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">NFPA 652 margin:</text>
+    <text x="718" y="436" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">50 °C below MIT</text>
+    <text x="718" y="463" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Clouds ignite below layers.</text>
+
+    <rect x="908" y="234" width="192" height="248" rx="8" fill="#F5F5F6" stroke="#D3D6DC" stroke-width="1.5"/>
+    <text x="930" y="268" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#5F5F5F">5 · Db</text>
+    <text x="930" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">Equipment protection</text>
+    <text x="930" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3E4C59">level for dust.</text>
+    <line x1="930" y1="336" x2="1078" y2="336" stroke="#D3D6DC" stroke-width="1.5"/>
+    <text x="930" y="360" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Da  Zone 20  continuous</text>
+    <text x="930" y="380" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Db  Zone 21  in operation</text>
+    <text x="930" y="400" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Dc  Zone 22  abnormal</text>
+    <text x="930" y="428" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Gas side: Ga / Gb / Gc</text>
+  </g>
+
+  <!-- bottom note -->
+  <rect x="60" y="508" width="1040" height="86" rx="8" fill="#FBFBFC" stroke="#D8DCE3" stroke-width="1.5"/>
+  <text x="84" y="538" font-weight="bold" fill="#1F2933">Why reading it matters</text>
+  <text x="84" y="564" fill="#3E4C59">"Explosion-proof" cannot be verified against anything. A marking can be: each segment is compared against the material, the location and the standard in force.</text>
+  <text x="84" y="584">The marking is the output of the analysis. The enquiry should start from the material and the location instead.</text>
+
+  <text x="60" y="624" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Reference framework: IEC 60079 series / GB/T 3836 series. NFPA 652 ignition-source margin and NFPA 660 (2025) consolidation noted for the North American framework.</text>
+  <text x="60" y="650" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#8892A0">Illustration only. The applicable marking follows from the specific application; ex-protection configurations can be provided to suit the customer.</text>
+</svg>
