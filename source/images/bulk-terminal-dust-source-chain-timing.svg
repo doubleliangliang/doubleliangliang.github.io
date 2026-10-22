@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="866" viewBox="0 0 1200 866">
+  <rect width="1200" height="866" fill="#FFFFFF"/>
+  <text x="60" y="52" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="bold" fill="#1F2933">Why Coverage Misses the Emission</text>
+  <text x="60" y="80" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#5F5F5F">A bulk terminal emits on two clocks. Suppression sized to the slower one cannot act on the faster one.</text>
+  <rect x="60" y="108" width="520" height="168" rx="8" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.2"/>
+  <rect x="60" y="108" width="6" height="168" rx="3" fill="#A31F34"/>
+  <text x="88" y="140" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#1F2933">1  The moving point</text>
+  <text x="88" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Grab hopper, transfer tower, loading spout</text>
+  <text x="88" y="190" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Emission: 4-6 s per grab cycle, air above 10 m/s</text>
+  <text x="88" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Dust: fine, &lt; 10 um fraction decides the plume</text>
+  <text x="88" y="230" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#A31F34">Needs: fine droplets, delivered with momentum</text>
+  <text x="88" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Moves with the crane. The nozzle ring does not.</text>
+  <rect x="620" y="108" width="520" height="168" rx="8" fill="#FAFBFC" stroke="#E3E6EB" stroke-width="1.2"/>
+  <rect x="620" y="108" width="6" height="168" rx="3" fill="#2E6F8E"/>
+  <text x="648" y="140" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="bold" fill="#1F2933">2  The open surface</text>
+  <text x="648" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#3E4C59">Stockpile, haul road, apron, rail siding</text>
+  <text x="648" y="190" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Emission: continuous, wind-driven, scales with area</text>
+  <text x="648" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Dust: resuspended surface layer, wide size range</text>
+  <text x="648" y="230" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#2E6F8E">Needs: range and coverage, larger droplets</text>
+  <text x="648" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#5F5F5F">Stops only when the surface is wet or sheltered.</text>
+  <text x="60" y="330" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#1F2933">One shift, two control cycles</text>
+  <line x1="110" y1="650" x2="1050" y2="650" stroke="#C7CCD4" stroke-width="1.4"/>
+  <line x1="110.0" y1="650" x2="110.0" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="110" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">0</text>
+  <line x1="266.7" y1="650" x2="266.7" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="267" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">5</text>
+  <line x1="423.3" y1="650" x2="423.3" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="423" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">10</text>
+  <line x1="580.0" y1="650" x2="580.0" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="580" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">15</text>
+  <line x1="736.7" y1="650" x2="736.7" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="737" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">20</text>
+  <line x1="893.3" y1="650" x2="893.3" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="893" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">25</text>
+  <line x1="1050.0" y1="650" x2="1050.0" y2="656" stroke="#C7CCD4" stroke-width="1.2"/>
+  <text x="1050" y="676" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="middle">30</text>
+  <text x="1050" y="698" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F" text-anchor="end">minutes into the shift</text>
+  <rect x="110.0" y="478.0" width="2.6" height="172.0" fill="#A31F34" opacity="0.85"/>
+  <rect x="136.1" y="450.7" width="2.6" height="199.3" fill="#A31F34" opacity="0.85"/>
+  <rect x="162.2" y="438.1" width="2.6" height="211.9" fill="#A31F34" opacity="0.85"/>
+  <rect x="188.3" y="446.9" width="2.6" height="203.1" fill="#A31F34" opacity="0.85"/>
+  <rect x="214.4" y="472.4" width="2.6" height="177.6" fill="#A31F34" opacity="0.85"/>
+  <rect x="240.6" y="500.9" width="2.6" height="149.1" fill="#A31F34" opacity="0.85"/>
+  <rect x="266.7" y="517.1" width="2.6" height="132.9" fill="#A31F34" opacity="0.85"/>
+  <rect x="292.8" y="512.4" width="2.6" height="137.6" fill="#A31F34" opacity="0.85"/>
+  <rect x="318.9" y="489.2" width="2.6" height="160.8" fill="#A31F34" opacity="0.85"/>
+  <rect x="345.0" y="460.0" width="2.6" height="190.0" fill="#A31F34" opacity="0.85"/>
+  <rect x="371.1" y="440.5" width="2.6" height="209.5" fill="#A31F34" opacity="0.85"/>
+  <rect x="397.2" y="441.1" width="2.6" height="208.9" fill="#A31F34" opacity="0.85"/>
+  <rect x="423.3" y="461.5" width="2.6" height="188.5" fill="#A31F34" opacity="0.85"/>
+  <rect x="449.4" y="490.8" width="2.6" height="159.2" fill="#A31F34" opacity="0.85"/>
+  <rect x="475.5" y="513.2" width="2.6" height="136.8" fill="#A31F34" opacity="0.85"/>
+  <rect x="501.7" y="516.7" width="2.6" height="133.3" fill="#A31F34" opacity="0.85"/>
+  <rect x="527.8" y="499.5" width="2.6" height="150.5" fill="#A31F34" opacity="0.85"/>
+  <rect x="553.9" y="470.7" width="2.6" height="179.3" fill="#A31F34" opacity="0.85"/>
+  <rect x="580.0" y="445.8" width="2.6" height="204.2" fill="#A31F34" opacity="0.85"/>
+  <rect x="606.1" y="438.3" width="2.6" height="211.7" fill="#A31F34" opacity="0.85"/>
+  <rect x="632.2" y="452.0" width="2.6" height="198.0" fill="#A31F34" opacity="0.85"/>
+  <rect x="658.3" y="479.7" width="2.6" height="170.3" fill="#A31F34" opacity="0.85"/>
+  <rect x="684.4" y="506.5" width="2.6" height="143.5" fill="#A31F34" opacity="0.85"/>
+  <rect x="710.5" y="518.0" width="2.6" height="132.0" fill="#A31F34" opacity="0.85"/>
+  <rect x="736.6" y="508.0" width="2.6" height="142.0" fill="#A31F34" opacity="0.85"/>
+  <rect x="762.8" y="482.0" width="2.6" height="168.0" fill="#A31F34" opacity="0.85"/>
+  <rect x="788.9" y="453.8" width="2.6" height="196.2" fill="#A31F34" opacity="0.85"/>
+  <rect x="815.0" y="438.6" width="2.6" height="211.4" fill="#A31F34" opacity="0.85"/>
+  <rect x="841.1" y="444.5" width="2.6" height="205.5" fill="#A31F34" opacity="0.85"/>
+  <rect x="867.2" y="468.4" width="2.6" height="181.6" fill="#A31F34" opacity="0.85"/>
+  <rect x="893.3" y="497.5" width="2.6" height="152.5" fill="#A31F34" opacity="0.85"/>
+  <rect x="919.4" y="516.1" width="2.6" height="133.9" fill="#A31F34" opacity="0.85"/>
+  <rect x="945.5" y="514.2" width="2.6" height="135.8" fill="#A31F34" opacity="0.85"/>
+  <rect x="971.6" y="492.9" width="2.6" height="157.1" fill="#A31F34" opacity="0.85"/>
+  <rect x="997.7" y="463.6" width="2.6" height="186.4" fill="#A31F34" opacity="0.85"/>
+  <rect x="1023.9" y="442.0" width="2.6" height="208.0" fill="#A31F34" opacity="0.85"/>
+  <text x="114" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#A31F34">grab discharge: a pulse every ~50 s</text>
+  <line x1="110" y1="604" x2="1056" y2="604" stroke="#8A949F" stroke-width="1.6" stroke-dasharray="7 5"/>
+  <text x="1064" y="608" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6B7480">boundary hourly</text>
+  <text x="1064" y="624" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6B7480">average</text>
+  <text x="60" y="758" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" fill="#2E6F8E">Water cart / fixed sprinkler: one wet window, then a drying surface</text>
+  <rect x="110" y="768" width="940" height="32" rx="4" fill="#F1F5F7" stroke="#E3E6EB" stroke-width="1"/>
+  <rect x="110" y="768" width="141.0" height="32" rx="4" fill="#2E6F8E" opacity="0.55"/>
+  <text x="122" y="789" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="#FFFFFF">wet</text>
+  <polyline points="251.0,784.0 264.3,784.6 277.6,785.3 290.9,785.8 304.3,786.4 317.6,786.9 330.9,787.4 344.2,787.8 357.5,788.2 370.8,788.6 384.2,789.0 397.5,789.4 410.8,789.7 424.1,790.0 437.4,790.3 450.8,790.6 464.1,790.8 477.4,791.1 490.7,791.3 504.0,791.5 517.3,791.7 530.6,791.9 544.0,792.1 557.3,792.3 570.6,792.4 583.9,792.6 597.2,792.7 610.5,792.9 623.9,793.0 637.2,793.1 650.5,793.2 663.8,793.3 677.1,793.4 690.5,793.5 703.8,793.6 717.1,793.7 730.4,793.8 743.7,793.8 757.0,793.9 770.4,794.0 783.7,794.0 797.0,794.1 810.3,794.1 823.6,794.2 836.9,794.2 850.2,794.3 863.6,794.3 876.9,794.4 890.2,794.4 903.5,794.4 916.8,794.5 930.1,794.5 943.5,794.5 956.8,794.6 970.1,794.6 983.4,794.6 996.7,794.6 1010.0,794.7 1023.4,794.7 1036.7,794.7 1050.0,794.7" fill="none" stroke="#2E6F8E" stroke-width="1.8" stroke-dasharray="5 4"/>
+  <text x="360" y="832" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#3E4C59">surface dries; the pulses at minute 12, 25 and 31 are uncontrolled</text>
+  <text x="60" y="856" font-family="Arial, Helvetica, sans-serif" font-size="12.5" fill="#6B7480">The two clocks differ by two orders of magnitude. No volume applied on the slow clock acts on the fast one.</text>
+</svg>
