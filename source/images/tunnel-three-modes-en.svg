@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#FFFFFF"/>
+  <text x="60" y="48" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="bold" fill="#1F2933">One Machine, Three Ways to Run It</text>
+  <text x="60" y="76" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#5F5F5F">The fan and the pump are separate motors with separate switches. That is not a convenience detail — in a tunnel it is the difference between one tool and three.</text>
+
+  <!-- Panel 1 -->
+  <rect x="60" y="104" width="360" height="470" rx="6" fill="#FFFFFF" stroke="#E7E3DE" stroke-width="1.4"/>
+  <rect x="60" y="104" width="360" height="46" rx="6" fill="#5F5F5F"/>
+  <rect x="60" y="136" width="360" height="14" fill="#5F5F5F"/>
+  <text x="82" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#FFFFFF">FAN ONLY</text>
+  <text x="398" y="134" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#E8E8E8" text-anchor="end">pump off</text>
+
+  <rect x="80" y="170" width="320" height="152" rx="4" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1"/>
+  <path d="M100 300 L100 230 Q100 214 118 214 L362 214 Q380 214 380 230 L380 300" stroke="#C9C4BD" stroke-width="1.6" fill="none"/>
+  <line x1="100" y1="300" x2="380" y2="300" stroke="#C9C4BD" stroke-width="1.6"/>
+  <rect x="118" y="282" width="34" height="18" fill="#5F5F5F"/>
+  <path d="M148 292 L172 274 L178 282 L154 300 Z" fill="#5F5F5F"/>
+  <path d="M180 284 L262 262" stroke="#2E6F8E" stroke-width="2.2" fill="none"/>
+  <path d="M180 296 L262 286" stroke="#2E6F8E" stroke-width="2.2" fill="none"/>
+  <path d="M262 258 L272 274 L262 290" stroke="#2E6F8E" stroke-width="2.2" fill="none"/>
+  <text x="196" y="200" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8A8F98">air only — no droplets</text>
+
+  <text x="82" y="356" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#A31F34">WHAT IT DOES</text>
+  <text x="82" y="376" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">Moves air, adds no water. Stirs the</text>
+  <text x="82" y="394" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">pockets that sit at the crown, behind</text>
+  <text x="82" y="412" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">trolleys and in the invert.</text>
+
+  <text x="82" y="444" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#A31F34">WHERE IT FITS</text>
+  <text x="82" y="464" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">Dead zones the duct cannot reach.</text>
+  <text x="82" y="482" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">First move on a hot heading.</text>
+
+  <text x="82" y="514" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#8A8F98">WHAT IT IS NOT</text>
+  <text x="82" y="534" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">Not construction ventilation. The duct</text>
+  <text x="82" y="552" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">and axial fan still have to be there.</text>
+
+  <!-- Panel 2 -->
+  <rect x="420" y="104" width="360" height="470" rx="6" fill="#FFFFFF" stroke="#E7E3DE" stroke-width="1.4"/>
+  <rect x="420" y="104" width="360" height="46" rx="6" fill="#2E6F8E"/>
+  <rect x="420" y="136" width="360" height="14" fill="#2E6F8E"/>
+  <text x="442" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#FFFFFF">FAN + FINE MIST</text>
+  <text x="758" y="134" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#DCEAF2" text-anchor="end">pump low</text>
+
+  <rect x="440" y="170" width="320" height="152" rx="4" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1"/>
+  <path d="M460 300 L460 230 Q460 214 478 214 L722 214 Q740 214 740 230 L740 300" stroke="#C9C4BD" stroke-width="1.6" fill="none"/>
+  <line x1="460" y1="300" x2="740" y2="300" stroke="#C9C4BD" stroke-width="1.6"/>
+  <rect x="478" y="282" width="34" height="18" fill="#2E6F8E"/>
+  <path d="M508 292 L532 274 L538 282 L514 300 Z" fill="#2E6F8E"/>
+  <g fill="#2E6F8E" fill-opacity="0.5">
+    <circle cx="560" cy="252" r="2.6"/><circle cx="586" cy="238" r="2.6"/><circle cx="612" cy="256" r="2.6"/>
+    <circle cx="570" cy="274" r="2.6"/><circle cx="600" cy="222" r="2.6"/><circle cx="634" cy="244" r="2.6"/>
+    <circle cx="552" cy="226" r="2.6"/><circle cx="620" cy="276" r="2.6"/><circle cx="648" cy="226" r="2.6"/>
+  </g>
+  <text x="556" y="200" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8A8F98">fine mist — evaporates</text>
+
+  <text x="442" y="356" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#A31F34">WHAT IT DOES</text>
+  <text x="442" y="376" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">Cools and humidifies by evaporation.</text>
+  <text x="442" y="394" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">The water goes into the air, not onto</text>
+  <text x="442" y="412" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">the floor.</text>
+
+  <text x="442" y="444" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#A31F34">WHERE IT FITS</text>
+  <text x="442" y="464" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">High-geothermal headings, where the</text>
+  <text x="442" y="482" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">limit is 28 °C at the face.</text>
+
+  <text x="442" y="514" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#8A8F98">WHAT IT IS NOT</text>
+  <text x="442" y="534" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">Not a dust collector. It thins the</text>
+  <text x="442" y="552" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">respirable fraction; it does not remove it.</text>
+
+  <!-- Panel 3 -->
+  <rect x="780" y="104" width="360" height="470" rx="6" fill="#FFFFFF" stroke="#E7E3DE" stroke-width="1.4"/>
+  <rect x="780" y="104" width="360" height="46" rx="6" fill="#A31F34"/>
+  <rect x="780" y="136" width="360" height="14" fill="#A31F34"/>
+  <text x="802" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="bold" fill="#FFFFFF">FAN + FULL SPRAY</text>
+  <text x="1118" y="134" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#F3DDE1" text-anchor="end">pump rated</text>
+
+  <rect x="800" y="170" width="320" height="152" rx="4" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1"/>
+  <path d="M820 300 L820 230 Q820 214 838 214 L1082 214 Q1100 214 1100 230 L1100 300" stroke="#C9C4BD" stroke-width="1.6" fill="none"/>
+  <line x1="820" y1="300" x2="1100" y2="300" stroke="#C9C4BD" stroke-width="1.6"/>
+  <rect x="838" y="282" width="34" height="18" fill="#A31F34"/>
+  <path d="M868 292 L892 274 L898 282 L874 300 Z" fill="#A31F34"/>
+  <g fill="#A31F34" fill-opacity="0.55">
+    <circle cx="918" cy="248" r="3.6"/><circle cx="944" cy="232" r="3.6"/><circle cx="970" cy="252" r="3.6"/>
+    <circle cx="928" cy="272" r="3.6"/><circle cx="958" cy="218" r="3.6"/><circle cx="992" cy="240" r="3.6"/>
+    <circle cx="912" cy="222" r="3.6"/><circle cx="978" cy="274" r="3.6"/><circle cx="1006" cy="222" r="3.6"/>
+    <circle cx="1030" cy="254" r="3.6"/><circle cx="946" cy="284" r="3.6"/><circle cx="1018" cy="282" r="3.6"/>
+  </g>
+  <text x="916" y="200" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8A8F98">full spray — reaches the ground</text>
+
+  <text x="802" y="356" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#A31F34">WHAT IT DOES</text>
+  <text x="802" y="376" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">Knocks down the cloud after the blast,</text>
+  <text x="802" y="394" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">during mucking and during shotcrete.</text>
+
+  <text x="802" y="444" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#A31F34">WHERE IT FITS</text>
+  <text x="802" y="464" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">The first 25–30 m behind the face,</text>
+  <text x="802" y="482" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1F2933">while the cloud is still coarse.</text>
+
+  <text x="802" y="514" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="bold" fill="#8A8F98">WHAT IT IS NOT</text>
+  <text x="802" y="534" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">It will not clean a two-kilometre tunnel.</text>
+  <text x="802" y="552" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">Beyond 30 m the ventilation does the job.</text>
+
+  <rect x="60" y="592" width="1080" height="62" rx="5" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1.2"/>
+  <rect x="60" y="592" width="5" height="62" fill="#A31F34"/>
+  <text x="86" y="620" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" fill="#1F2933">The cheapest upgrade is often not a bigger machine.</text>
+  <text x="86" y="642" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5F5F5F">It is using the two motors you already paid for as two separate tools — air where air is needed, water only where water is needed.</text>
+</svg>

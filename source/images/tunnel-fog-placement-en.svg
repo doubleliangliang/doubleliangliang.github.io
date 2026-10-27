@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#FFFFFF"/>
+  <text x="60" y="50" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#1F2933">Tunnel Dust Moves in Three Zones. So Should the Equipment.</text>
+  <text x="60" y="78" font-family="Arial, Helvetica, sans-serif" font-size="13.5" fill="#5F5F5F">Concentration and particle size both fall with distance from the face. A fog cannon is a first-zone instrument — it is not an air purifier.</text>
+
+  <rect x="60" y="112" width="270" height="30" fill="#A31F34" fill-opacity="0.13"/>
+  <rect x="330" y="112" width="630" height="30" fill="#2E6F8E" fill-opacity="0.11"/>
+  <rect x="960" y="112" width="180" height="30" fill="#8A8F98" fill-opacity="0.15"/>
+  <text x="195" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#A31F34" text-anchor="middle">0–30 m · turbulent</text>
+  <text x="645" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#2E6F8E" text-anchor="middle">30–100 m · settling</text>
+  <text x="1050" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#5F5F5F" text-anchor="middle">&gt;100 m · stable</text>
+
+  <rect x="60" y="190" width="1080" height="180" fill="#FAF8F6" stroke="#1F2933" stroke-width="1.4"/>
+  <rect x="60" y="190" width="270" height="180" fill="#A31F34" fill-opacity="0.07"/>
+  <rect x="330" y="190" width="630" height="180" fill="#2E6F8E" fill-opacity="0.06"/>
+  <rect x="960" y="190" width="180" height="180" fill="#8A8F98" fill-opacity="0.08"/>
+
+  <line x1="60" y1="190" x2="60" y2="370" stroke="#A31F34" stroke-width="5"/>
+  <text x="60" y="392" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" fill="#A31F34" text-anchor="middle">Face</text>
+  <text x="1140" y="392" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#8A8F98" text-anchor="middle">Portal</text>
+  <path d="M1130 198 L1150 198 M1144 192 L1150 198 L1144 204" stroke="#8A8F98" stroke-width="1.6" fill="none"/>
+
+  <rect x="76" y="198" width="1048" height="13" rx="6.5" fill="#E7E3DE"/>
+  <text x="600" y="208" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#8A8F98" text-anchor="middle">forced ventilation duct</text>
+
+  <text x="195" y="250" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#A31F34" text-anchor="middle">1424</text>
+  <text x="195" y="267" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5F5F5F" text-anchor="middle">mg/m³ peak</text>
+  <text x="195" y="286" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8A8F98" text-anchor="middle">D50 ≈ 14.6 µm</text>
+
+  <text x="645" y="250" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#2E6F8E" text-anchor="middle">960 → 288</text>
+  <text x="645" y="267" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5F5F5F" text-anchor="middle">mg/m³ falling</text>
+  <text x="645" y="286" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#8A8F98" text-anchor="middle">D50 8.4 → 5.2 µm</text>
+
+  <text x="1050" y="250" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#5F5F5F" text-anchor="middle">&lt; 70</text>
+  <text x="1050" y="267" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5F5F5F" text-anchor="middle">mg/m³ stable</text>
+  <text x="1050" y="286" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8A8F98" text-anchor="middle">&gt;80% respirable</text>
+
+  <path d="M232 344 L118 300 L118 338 Z" fill="#2E6F8E" fill-opacity="0.16"/>
+  <rect x="196" y="338" width="72" height="18" rx="4" fill="#2E6F8E"/>
+  <circle cx="232" cy="347" r="5.5" fill="#1F2933"/>
+  <rect x="214" y="356" width="12" height="12" fill="#5F5F5F"/>
+  <text x="232" y="402" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" fill="#2E6F8E" text-anchor="middle">fog cannon</text>
+  <text x="232" y="416" font-family="Arial, Helvetica, sans-serif" font-size="9.5" fill="#5F5F5F" text-anchor="middle">10–25 m behind face</text>
+
+  <g stroke="#2E6F8E" stroke-width="2" stroke-dasharray="5 4" opacity="0.75">
+    <line x1="600" y1="302" x2="600" y2="362"/>
+    <line x1="620" y1="298" x2="620" y2="362"/>
+    <line x1="640" y1="302" x2="640" y2="362"/>
+    <line x1="660" y1="298" x2="660" y2="362"/>
+  </g>
+  <text x="630" y="402" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" fill="#2E6F8E" text-anchor="middle">water curtain / scrubber</text>
+
+  <rect x="1002" y="324" width="76" height="38" rx="4" fill="#8A8F98" fill-opacity="0.3" stroke="#5F5F5F" stroke-width="1.2"/>
+  <line x1="1010" y1="333" x2="1070" y2="333" stroke="#5F5F5F" stroke-width="1"/>
+  <line x1="1010" y1="341" x2="1070" y2="341" stroke="#5F5F5F" stroke-width="1"/>
+  <line x1="1010" y1="349" x2="1070" y2="349" stroke="#5F5F5F" stroke-width="1"/>
+  <text x="1040" y="402" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" fill="#5F5F5F" text-anchor="middle">air purifier</text>
+
+  <text x="60" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#1F2933">What to put in each zone</text>
+
+  <rect x="60" y="478" width="336" height="148" rx="6" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1.2"/>
+  <rect x="60" y="478" width="6" height="148" fill="#A31F34"/>
+  <text x="84" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#A31F34">Source capture</text>
+  <text x="84" y="526" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#1F2933">High-pressure spray or fog cannon,</text>
+  <text x="84" y="544" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#1F2933">mounted to travel with the heading.</text>
+  <text x="84" y="570" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">This is where 1400 mg/m³ lives, and</text>
+  <text x="84" y="588" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">where a cannon earns its capital cost.</text>
+  <text x="84" y="610" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">Measured suppression: over 90%.</text>
+
+  <rect x="412" y="478" width="336" height="148" rx="6" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1.2"/>
+  <rect x="412" y="478" width="6" height="148" fill="#2E6F8E"/>
+  <text x="436" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#2E6F8E">Path interception</text>
+  <text x="436" y="526" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#1F2933">Water curtain, wet scrubber,</text>
+  <text x="436" y="544" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#1F2933">filter screen.</text>
+  <text x="436" y="570" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">Particles here are 5–8 µm and no</text>
+  <text x="436" y="588" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">longer settle on their own. A cannon</text>
+  <text x="436" y="610" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">helps, but cannot finish the job.</text>
+
+  <rect x="764" y="478" width="376" height="148" rx="6" fill="#FAF8F6" stroke="#E7E3DE" stroke-width="1.2"/>
+  <rect x="764" y="478" width="6" height="148" fill="#8A8F98"/>
+  <text x="788" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#5F5F5F">Dilution and removal</text>
+  <text x="788" y="526" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#1F2933">Ventilation, HEPA filtration,</text>
+  <text x="788" y="544" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#1F2933">moveable air cleaners.</text>
+  <text x="788" y="570" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">Over 80% of what is left is respirable.</text>
+  <text x="788" y="588" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">Spraying here adds water without</text>
+  <text x="788" y="610" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#5F5F5F">removing the fraction that matters.</text>
+
+  <text x="60" y="666" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#8A8F98">Zone concentrations and median diameters from field measurement on a large-cross-section tunnel under forced ventilation. Suppression figure from the Jinyunshan tunnel.</text>
+</svg>
